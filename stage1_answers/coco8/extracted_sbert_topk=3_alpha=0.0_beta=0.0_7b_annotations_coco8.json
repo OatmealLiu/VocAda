@@ -1,0 +1,1931 @@
+{
+    "images": [
+        {
+            "id": 202400,
+            "file_name": "000000000009.jpg",
+            "width": 640,
+            "height": 480,
+            "answers_llava": [
+                {
+                    "question_id": 0,
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see three plastic containers, each filled with different types of food. The containers are pink and yellow in color. The first container on the left contains a sandwich, which appears to be made with white bread. The second container in the middle has a variety of fruits, including slices of pineapple and what looks like a piece of mango. The third container on the right contains a serving of broccoli. There are also a few cookies visible in the image.",
+                    "answer_id": "6Crn55iuhU6BTXTQ5ibkbK",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "three plastic containers",
+                        "a few cookies",
+                        "The third container",
+                        "white bread",
+                        "fruits",
+                        "broccoli",
+                        "food",
+                        "a sandwich",
+                        "The second container",
+                        "slices",
+                        "different types",
+                        "pineapple",
+                        "a serving",
+                        "The first container",
+                        "The containers",
+                        "mango"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "cake",
+                        "keyboard",
+                        "banana",
+                        "suitcase",
+                        "scissors",
+                        "spoon",
+                        "motorcycle",
+                        "boat",
+                        "hot dog",
+                        "apple",
+                        "vase",
+                        "sandwich",
+                        "toaster",
+                        "bottle",
+                        "pizza",
+                        "carrot",
+                        "donut",
+                        "broccoli"
+                    ],
+                    "refined_coi_proposal": [
+                        "cake",
+                        "keyboard",
+                        "banana",
+                        "suitcase",
+                        "scissors",
+                        "spoon",
+                        "motorcycle",
+                        "boat",
+                        "hot dog",
+                        "apple",
+                        "vase",
+                        "sandwich",
+                        "toaster",
+                        "bottle",
+                        "pizza",
+                        "carrot",
+                        "donut",
+                        "broccoli"
+                    ]
+                },
+                {
+                    "question_id": 1,
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "The image shows a variety of food items in the foreground. There is a yellow container filled with broccoli, a pink container with sliced fruit, and a blue container with a sandwich and nuts.",
+                    "answer_id": "SVKHNmas5DuFyhuVfwxuNp",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "a pink container",
+                        "a sandwich",
+                        "the foreground",
+                        "sliced fruit",
+                        "nuts",
+                        "food items",
+                        "a yellow container",
+                        "a blue container",
+                        "broccoli"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "suitcase",
+                        "scissors",
+                        "toaster",
+                        "hot dog",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "sandwich",
+                        "banana",
+                        "bottle",
+                        "pizza",
+                        "carrot",
+                        "donut",
+                        "broccoli"
+                    ],
+                    "refined_coi_proposal": [
+                        "suitcase",
+                        "scissors",
+                        "toaster",
+                        "hot dog",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "sandwich",
+                        "banana",
+                        "bottle",
+                        "pizza",
+                        "carrot",
+                        "donut",
+                        "broccoli"
+                    ]
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                46,
+                46,
+                51,
+                46,
+                50,
+                50,
+                50,
+                50
+            ]
+        },
+        {
+            "id": 202401,
+            "file_name": "000000000025.jpg",
+            "width": 640,
+            "height": 426,
+            "answers_llava": [
+                {
+                    "question_id": 0,
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I see a giraffe standing near a tree and a fallen log. There are also other trees and foliage in the background. Additionally, there is a smaller giraffe lying on the ground in the background.",
+                    "answer_id": "3qTg8tvtxjd9BXnjHEKBuH",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "foliage",
+                        "other trees",
+                        "the background",
+                        "a giraffe",
+                        "a smaller giraffe",
+                        "a fallen log",
+                        "the ground",
+                        "a tree"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "giraffe",
+                        "baseball bat",
+                        "teddy bear",
+                        "umbrella",
+                        "fire hydrant",
+                        "zebra",
+                        "carrot",
+                        "chair",
+                        "cell phone",
+                        "bear",
+                        "bed",
+                        "couch",
+                        "vase",
+                        "banana",
+                        "scissors",
+                        "elephant",
+                        "broccoli"
+                    ],
+                    "refined_coi_proposal": [
+                        "giraffe",
+                        "baseball bat",
+                        "teddy bear",
+                        "umbrella",
+                        "fire hydrant",
+                        "zebra",
+                        "carrot",
+                        "chair",
+                        "cell phone",
+                        "bear",
+                        "bed",
+                        "couch",
+                        "vase",
+                        "banana",
+                        "scissors",
+                        "elephant",
+                        "broccoli"
+                    ]
+                },
+                {
+                    "question_id": 1,
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there is a giraffe standing on a grassy area next to a tree. The giraffe is eating leaves from the tree. There is also a fallen log in the foreground, and a smaller giraffe can be seen in the background, lying down on the grass.",
+                    "answer_id": "HP58VizJmfbsUmXzYcbZgX",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "the background",
+                        "a giraffe",
+                        "the foreground",
+                        "the grass",
+                        "a smaller giraffe",
+                        "the tree",
+                        "a fallen log",
+                        "a grassy area",
+                        "a tree",
+                        "The giraffe",
+                        "leaves"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "vase",
+                        "elephant",
+                        "sink",
+                        "motorcycle",
+                        "giraffe",
+                        "teddy bear",
+                        "umbrella",
+                        "skateboard",
+                        "bear",
+                        "traffic light",
+                        "frisbee",
+                        "carrot",
+                        "broccoli",
+                        "baseball bat",
+                        "fire hydrant",
+                        "knife",
+                        "zebra",
+                        "chair",
+                        "cell phone",
+                        "couch"
+                    ],
+                    "refined_coi_proposal": [
+                        "vase",
+                        "elephant",
+                        "sink",
+                        "motorcycle",
+                        "giraffe",
+                        "teddy bear",
+                        "umbrella",
+                        "skateboard",
+                        "bear",
+                        "traffic light",
+                        "frisbee",
+                        "carrot",
+                        "broccoli",
+                        "baseball bat",
+                        "fire hydrant",
+                        "knife",
+                        "zebra",
+                        "chair",
+                        "cell phone",
+                        "couch"
+                    ]
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                24,
+                24
+            ]
+        },
+        {
+            "id": 202402,
+            "file_name": "000000000030.jpg",
+            "width": 640,
+            "height": 428,
+            "answers_llava": [
+                {
+                    "question_id": 0,
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I see a white vase with a bouquet of flowers inside. The flowers include white, pink, and red flowers, and there are green leaves as well. The vase is placed on a white ledge or railing. The background features a green garden with various plants and trees. There is also a blurred figure of a person in the background, but it's not clear enough to provide more details.",
+                    "answer_id": "HDAGGeW97dXysVgVfu5vG2",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "The background",
+                        "the background",
+                        "more details",
+                        "flowers",
+                        "railing",
+                        "The vase",
+                        "The flowers",
+                        "a bouquet",
+                        "green leaves",
+                        "a white vase",
+                        "a white ledge",
+                        "various plants",
+                        "a blurred figure",
+                        "a green garden",
+                        "a person",
+                        "trees",
+                        "red flowers"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "surfboard",
+                        "suitcase",
+                        "car",
+                        "vase",
+                        "bottle",
+                        "boat",
+                        "toilet",
+                        "scissors",
+                        "bed",
+                        "tennis racket",
+                        "teddy bear",
+                        "orange",
+                        "umbrella",
+                        "handbag",
+                        "bear",
+                        "frisbee",
+                        "carrot",
+                        "broccoli",
+                        "wine glass",
+                        "fire hydrant",
+                        "potted plant",
+                        "chair",
+                        "train",
+                        "cell phone",
+                        "couch",
+                        "person"
+                    ],
+                    "refined_coi_proposal": [
+                        "surfboard",
+                        "suitcase",
+                        "car",
+                        "vase",
+                        "bottle",
+                        "boat",
+                        "toilet",
+                        "scissors",
+                        "bed",
+                        "tennis racket",
+                        "teddy bear",
+                        "orange",
+                        "umbrella",
+                        "handbag",
+                        "bear",
+                        "frisbee",
+                        "carrot",
+                        "broccoli",
+                        "wine glass",
+                        "fire hydrant",
+                        "potted plant",
+                        "chair",
+                        "train",
+                        "cell phone",
+                        "couch",
+                        "person"
+                    ]
+                },
+                {
+                    "question_id": 1,
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there is a white vase with a bouquet of flowers inside.",
+                    "answer_id": "NENAxBaawXDPeCDiLzuYhJ",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "a bouquet",
+                        "flowers",
+                        "a white vase",
+                        "the foreground"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "suitcase",
+                        "wine glass",
+                        "potted plant",
+                        "handbag",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "broccoli"
+                    ],
+                    "refined_coi_proposal": [
+                        "suitcase",
+                        "wine glass",
+                        "potted plant",
+                        "handbag",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "broccoli"
+                    ]
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                59,
+                76
+            ]
+        },
+        {
+            "id": 202403,
+            "file_name": "000000000034.jpg",
+            "width": 640,
+            "height": 425,
+            "answers_llava": [
+                {
+                    "question_id": 0,
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, there is a zebra standing in a grassy field. The zebra is facing towards the right side of the image, and its head is lowered, suggesting that it might be grazing. The grass appears to be green and lush, indicating that the photo was likely taken during a time of year when vegetation is abundant. There are no other objects visible in the image.",
+                    "answer_id": "WrJXoArttdSxDvYMNfLMga",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "The grass",
+                        "vegetation",
+                        "no other objects",
+                        "the photo",
+                        "the right side",
+                        "a time",
+                        "a grassy field",
+                        "a zebra",
+                        "The zebra",
+                        "year",
+                        "its head"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "car",
+                        "vase",
+                        "clock",
+                        "elephant",
+                        "bowl",
+                        "boat",
+                        "sheep",
+                        "motorcycle",
+                        "bed",
+                        "scissors",
+                        "giraffe",
+                        "tennis racket",
+                        "teddy bear",
+                        "umbrella",
+                        "frisbee",
+                        "carrot",
+                        "broccoli",
+                        "baseball bat",
+                        "sports ball",
+                        "zebra",
+                        "dog",
+                        "person"
+                    ],
+                    "refined_coi_proposal": [
+                        "car",
+                        "vase",
+                        "clock",
+                        "elephant",
+                        "bowl",
+                        "boat",
+                        "sheep",
+                        "motorcycle",
+                        "bed",
+                        "scissors",
+                        "giraffe",
+                        "tennis racket",
+                        "teddy bear",
+                        "umbrella",
+                        "frisbee",
+                        "carrot",
+                        "broccoli",
+                        "baseball bat",
+                        "sports ball",
+                        "zebra",
+                        "dog",
+                        "person"
+                    ]
+                },
+                {
+                    "question_id": 1,
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there is a zebra.",
+                    "answer_id": "2RsdoL7CRWEmWagEZtTcgr",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "a zebra",
+                        "the foreground"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "giraffe",
+                        "zebra",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "elephant"
+                    ],
+                    "refined_coi_proposal": [
+                        "giraffe",
+                        "zebra",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "elephant"
+                    ]
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                23
+            ]
+        },
+        {
+            "id": 202404,
+            "file_name": "000000000036.jpg",
+            "width": 481,
+            "height": 640,
+            "answers_llava": [
+                {
+                    "question_id": 0,
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see a person holding a pink umbrella. The person is wearing a colorful swimsuit and has dark hair. They are smiling and appear to be enjoying themselves. In the background, there is a body of water and a structure that could be a pier or a dock. There are also some trees visible in the distance.",
+                    "answer_id": "CSmA2NeskF5xBgEYbiEer4",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "some trees",
+                        "the background",
+                        "a structure",
+                        "a dock",
+                        "a colorful swimsuit",
+                        "They",
+                        "dark hair",
+                        "a person",
+                        "that",
+                        "a body",
+                        "water",
+                        "the distance",
+                        "a pier",
+                        "themselves",
+                        "a pink umbrella",
+                        "The person"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "surfboard",
+                        "bottle",
+                        "boat",
+                        "sheep",
+                        "toilet",
+                        "sink",
+                        "horse",
+                        "scissors",
+                        "tennis racket",
+                        "teddy bear",
+                        "bicycle",
+                        "orange",
+                        "umbrella",
+                        "hot dog",
+                        "bear",
+                        "baseball glove",
+                        "hair drier",
+                        "broccoli",
+                        "baseball bat",
+                        "fire hydrant",
+                        "knife",
+                        "chair",
+                        "train",
+                        "cell phone",
+                        "dog",
+                        "apple",
+                        "couch",
+                        "person"
+                    ],
+                    "refined_coi_proposal": [
+                        "surfboard",
+                        "bottle",
+                        "boat",
+                        "sheep",
+                        "toilet",
+                        "sink",
+                        "horse",
+                        "scissors",
+                        "tennis racket",
+                        "teddy bear",
+                        "bicycle",
+                        "orange",
+                        "umbrella",
+                        "hot dog",
+                        "bear",
+                        "baseball glove",
+                        "hair drier",
+                        "broccoli",
+                        "baseball bat",
+                        "fire hydrant",
+                        "knife",
+                        "chair",
+                        "train",
+                        "cell phone",
+                        "dog",
+                        "apple",
+                        "couch",
+                        "person"
+                    ]
+                },
+                {
+                    "question_id": 1,
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there is a woman and an umbrella.",
+                    "answer_id": "UPYxiMbH8bycjWcUbEQjaM",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "an umbrella",
+                        "the foreground",
+                        "a woman"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "baseball bat",
+                        "tennis racket",
+                        "teddy bear",
+                        "umbrella",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "person"
+                    ],
+                    "refined_coi_proposal": [
+                        "baseball bat",
+                        "tennis racket",
+                        "teddy bear",
+                        "umbrella",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "person"
+                    ]
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                26,
+                1
+            ]
+        },
+        {
+            "id": 202405,
+            "file_name": "000000000042.jpg",
+            "width": 640,
+            "height": 478,
+            "answers_llava": [
+                {
+                    "question_id": 0,
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see a dog, a pair of black and white shoes, a pair of red shoes, and a pair of black shoes. The dog appears to be resting or sleeping on the shoes.",
+                    "answer_id": "8DVKK2Hjk62BqHBXT3CP2a",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "black and white shoes",
+                        "a dog",
+                        "The dog",
+                        "the shoes",
+                        "black shoes",
+                        "red shoes",
+                        "a pair"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "tennis racket",
+                        "cat",
+                        "orange",
+                        "hot dog",
+                        "handbag",
+                        "skis",
+                        "dog",
+                        "baseball glove"
+                    ],
+                    "refined_coi_proposal": [
+                        "tennis racket",
+                        "cat",
+                        "orange",
+                        "hot dog",
+                        "handbag",
+                        "skis",
+                        "dog",
+                        "baseball glove"
+                    ]
+                },
+                {
+                    "question_id": 1,
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there is a dog, a pair of black shoes, a pair of white shoes, and a red flip-flop.",
+                    "answer_id": "mpX5RDoVhJyzqYBGxm3vKf",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "a dog",
+                        "the foreground",
+                        "a red flip-flop",
+                        "black shoes",
+                        "a pair",
+                        "white shoes"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "tennis racket",
+                        "cat",
+                        "orange",
+                        "hot dog",
+                        "handbag",
+                        "skis",
+                        "dog",
+                        "baseball glove",
+                        "traffic light",
+                        "vase",
+                        "sink"
+                    ],
+                    "refined_coi_proposal": [
+                        "tennis racket",
+                        "cat",
+                        "orange",
+                        "hot dog",
+                        "handbag",
+                        "skis",
+                        "dog",
+                        "baseball glove",
+                        "traffic light",
+                        "vase",
+                        "sink"
+                    ]
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                17
+            ]
+        },
+        {
+            "id": 202406,
+            "file_name": "000000000049.jpg",
+            "width": 381,
+            "height": 500,
+            "answers_llava": [
+                {
+                    "question_id": 0,
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see two people riding horses, a white horse and a black horse. They are in a grassy field with trees in the background. There is a white flower pot with flowers in it, located in the foreground. The sky is overcast, suggesting it might be a cloudy day. The people are wearing riding gear, which includes helmets, boots, and riding pants. The horses are wearing saddles, and the riders are holding reins. The overall scene suggests a horse riding event or practice session.",
+                    "answer_id": "PrLbiunJ9acKP7nJaAypLy",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "horses",
+                        "a horse riding event",
+                        "a white horse",
+                        "the riders",
+                        "trees",
+                        "saddles",
+                        "flowers",
+                        "a white flower pot",
+                        "a cloudy day",
+                        "The overall scene",
+                        "two people",
+                        "pants",
+                        "practice session",
+                        "the foreground",
+                        "a grassy field",
+                        "reins",
+                        "helmets",
+                        "The sky",
+                        "a black horse",
+                        "the background",
+                        "The people",
+                        "The horses",
+                        "They",
+                        "boots",
+                        "riding gear"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "car",
+                        "vase",
+                        "elephant",
+                        "bowl",
+                        "bench",
+                        "cow",
+                        "boat",
+                        "sheep",
+                        "skis",
+                        "sink",
+                        "horse",
+                        "motorcycle",
+                        "scissors",
+                        "giraffe",
+                        "tennis racket",
+                        "bicycle",
+                        "airplane",
+                        "umbrella",
+                        "bear",
+                        "baseball glove",
+                        "traffic light",
+                        "hair drier",
+                        "frisbee",
+                        "broccoli",
+                        "baseball bat",
+                        "sports ball",
+                        "kite",
+                        "wine glass",
+                        "tv",
+                        "zebra",
+                        "chair",
+                        "potted plant",
+                        "train",
+                        "cell phone",
+                        "apple",
+                        "couch",
+                        "backpack",
+                        "person",
+                        "tie"
+                    ],
+                    "refined_coi_proposal": [
+                        "car",
+                        "vase",
+                        "elephant",
+                        "bowl",
+                        "bench",
+                        "cow",
+                        "boat",
+                        "sheep",
+                        "skis",
+                        "sink",
+                        "horse",
+                        "motorcycle",
+                        "scissors",
+                        "giraffe",
+                        "tennis racket",
+                        "bicycle",
+                        "airplane",
+                        "umbrella",
+                        "bear",
+                        "baseball glove",
+                        "traffic light",
+                        "hair drier",
+                        "frisbee",
+                        "broccoli",
+                        "baseball bat",
+                        "sports ball",
+                        "kite",
+                        "wine glass",
+                        "tv",
+                        "zebra",
+                        "chair",
+                        "potted plant",
+                        "train",
+                        "cell phone",
+                        "apple",
+                        "couch",
+                        "backpack",
+                        "person",
+                        "tie"
+                    ]
+                },
+                {
+                    "question_id": 1,
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there are two horses and a person riding one of the horses.",
+                    "answer_id": "EPqNk9mYLyZGi5HGwe6f3w",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "two horses",
+                        "the horses",
+                        "the foreground",
+                        "a person"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "cow",
+                        "tennis racket",
+                        "teddy bear",
+                        "giraffe",
+                        "zebra",
+                        "sheep",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "person",
+                        "horse"
+                    ],
+                    "refined_coi_proposal": [
+                        "cow",
+                        "tennis racket",
+                        "teddy bear",
+                        "giraffe",
+                        "zebra",
+                        "sheep",
+                        "traffic light",
+                        "vase",
+                        "sink",
+                        "person",
+                        "horse"
+                    ]
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                18,
+                18,
+                1,
+                1,
+                1,
+                59,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": 202407,
+            "file_name": "000000000061.jpg",
+            "width": 640,
+            "height": 488,
+            "answers_llava": [
+                {
+                    "question_id": 0,
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see two people riding elephants through a dense forest. The elephants are grey in color and have large ears and long trunks. The riders are wearing hats and appear to be enjoying the experience. The forest is lush and green, with a variety of trees and foliage. The sky is visible in the background, suggesting that it is daytime. The overall scene is one of adventure and exploration in a natural environment.",
+                    "answer_id": "HMExGFHWEJ39t2PPz5KNZN",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "foliage",
+                        "the background",
+                        "a dense forest",
+                        "large ears",
+                        "a natural environment",
+                        "The elephants",
+                        "The overall scene",
+                        "two people",
+                        "elephants",
+                        "hats",
+                        "adventure",
+                        "long trunks",
+                        "The riders",
+                        "the experience",
+                        "exploration",
+                        "trees",
+                        "The forest",
+                        "The sky"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "vase",
+                        "bottle",
+                        "elephant",
+                        "boat",
+                        "skis",
+                        "cup",
+                        "horse",
+                        "motorcycle",
+                        "scissors",
+                        "giraffe",
+                        "tennis racket",
+                        "teddy bear",
+                        "bicycle",
+                        "airplane",
+                        "umbrella",
+                        "handbag",
+                        "bear",
+                        "baseball glove",
+                        "frisbee",
+                        "carrot",
+                        "broccoli",
+                        "baseball bat",
+                        "kite",
+                        "tv",
+                        "zebra",
+                        "chair",
+                        "cell phone",
+                        "backpack",
+                        "couch",
+                        "person",
+                        "tie"
+                    ],
+                    "refined_coi_proposal": [
+                        "vase",
+                        "bottle",
+                        "elephant",
+                        "boat",
+                        "skis",
+                        "cup",
+                        "horse",
+                        "motorcycle",
+                        "scissors",
+                        "giraffe",
+                        "tennis racket",
+                        "teddy bear",
+                        "bicycle",
+                        "airplane",
+                        "umbrella",
+                        "handbag",
+                        "bear",
+                        "baseball glove",
+                        "frisbee",
+                        "carrot",
+                        "broccoli",
+                        "baseball bat",
+                        "kite",
+                        "tv",
+                        "zebra",
+                        "chair",
+                        "cell phone",
+                        "backpack",
+                        "couch",
+                        "person",
+                        "tie"
+                    ]
+                },
+                {
+                    "question_id": 1,
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there are two elephants and two people riding on their backs. The elephants are walking through a dense forest with lush green foliage.",
+                    "answer_id": "9a58thDwYbbrBQL8RCoHDh",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "metadata": {},
+                    "extracted_nouns": [
+                        "two elephants",
+                        "a dense forest",
+                        "The elephants",
+                        "the foreground",
+                        "two people",
+                        "lush green foliage",
+                        "their backs"
+                    ],
+                    "vanilla_coi_proposal": [
+                        "tie",
+                        "teddy bear",
+                        "orange",
+                        "zebra",
+                        "potted plant",
+                        "cell phone",
+                        "bear",
+                        "traffic light",
+                        "couch",
+                        "vase",
+                        "sink",
+                        "person",
+                        "scissors",
+                        "elephant",
+                        "bench",
+                        "broccoli"
+                    ],
+                    "refined_coi_proposal": [
+                        "tie",
+                        "teddy bear",
+                        "orange",
+                        "zebra",
+                        "potted plant",
+                        "cell phone",
+                        "bear",
+                        "traffic light",
+                        "couch",
+                        "vase",
+                        "sink",
+                        "person",
+                        "scissors",
+                        "elephant",
+                        "bench",
+                        "broccoli"
+                    ]
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                1,
+                1,
+                21,
+                21,
+                1
+            ]
+        }
+    ],
+    "type": "instances",
+    "annotations": [
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                1,
+                187,
+                611,
+                285
+            ],
+            "area": 0.0,
+            "category_id": 46,
+            "iscrowd": 0,
+            "id": 0
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                311,
+                4,
+                319,
+                228
+            ],
+            "area": 0.0,
+            "category_id": 46,
+            "iscrowd": 0,
+            "id": 1
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                249,
+                229,
+                316,
+                245
+            ],
+            "area": 0.0,
+            "category_id": 51,
+            "iscrowd": 0,
+            "id": 2
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                0,
+                13,
+                434,
+                375
+            ],
+            "area": 0.0,
+            "category_id": 46,
+            "iscrowd": 0,
+            "id": 3
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                376,
+                40,
+                75,
+                46
+            ],
+            "area": 0.0,
+            "category_id": 50,
+            "iscrowd": 0,
+            "id": 4
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                465,
+                38,
+                58,
+                46
+            ],
+            "area": 0.0,
+            "category_id": 50,
+            "iscrowd": 0,
+            "id": 5
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                385,
+                73,
+                84,
+                70
+            ],
+            "area": 0.0,
+            "category_id": 50,
+            "iscrowd": 0,
+            "id": 6
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                364,
+                2,
+                94,
+                71
+            ],
+            "area": 0.0,
+            "category_id": 50,
+            "iscrowd": 0,
+            "id": 7
+        },
+        {
+            "ignore": 0,
+            "image_id": 202401,
+            "segmentation": 0,
+            "bbox": [
+                385,
+                60,
+                214,
+                297
+            ],
+            "area": 0.0,
+            "category_id": 24,
+            "iscrowd": 0,
+            "id": 8
+        },
+        {
+            "ignore": 0,
+            "image_id": 202401,
+            "segmentation": 0,
+            "bbox": [
+                53,
+                356,
+                132,
+                55
+            ],
+            "area": 0.0,
+            "category_id": 24,
+            "iscrowd": 0,
+            "id": 9
+        },
+        {
+            "ignore": 0,
+            "image_id": 202402,
+            "segmentation": 0,
+            "bbox": [
+                204,
+                31,
+                254,
+                324
+            ],
+            "area": 0.0,
+            "category_id": 59,
+            "iscrowd": 0,
+            "id": 10
+        },
+        {
+            "ignore": 0,
+            "image_id": 202402,
+            "segmentation": 0,
+            "bbox": [
+                237,
+                155,
+                166,
+                195
+            ],
+            "area": 0.0,
+            "category_id": 76,
+            "iscrowd": 0,
+            "id": 11
+        },
+        {
+            "ignore": 0,
+            "image_id": 202403,
+            "segmentation": 0,
+            "bbox": [
+                0,
+                20,
+                441,
+                379
+            ],
+            "area": 0.0,
+            "category_id": 23,
+            "iscrowd": 0,
+            "id": 12
+        },
+        {
+            "ignore": 0,
+            "image_id": 202404,
+            "segmentation": 0,
+            "bbox": [
+                0,
+                50,
+                457,
+                430
+            ],
+            "area": 0.0,
+            "category_id": 26,
+            "iscrowd": 0,
+            "id": 13
+        },
+        {
+            "ignore": 0,
+            "image_id": 202404,
+            "segmentation": 0,
+            "bbox": [
+                167,
+                162,
+                310,
+                465
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 14
+        },
+        {
+            "ignore": 0,
+            "image_id": 202405,
+            "segmentation": 0,
+            "bbox": [
+                214,
+                41,
+                348,
+                243
+            ],
+            "area": 0.0,
+            "category_id": 17,
+            "iscrowd": 0,
+            "id": 15
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                162,
+                226,
+                130,
+                184
+            ],
+            "area": 0.0,
+            "category_id": 18,
+            "iscrowd": 0,
+            "id": 16
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                81,
+                244,
+                83,
+                158
+            ],
+            "area": 0.0,
+            "category_id": 18,
+            "iscrowd": 0,
+            "id": 17
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                203,
+                260,
+                65,
+                73
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 18
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                118,
+                261,
+                56,
+                62
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 19
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                119,
+                334,
+                11,
+                33
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 20
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                201,
+                426,
+                70,
+                47
+            ],
+            "area": 0.0,
+            "category_id": 59,
+            "iscrowd": 0,
+            "id": 21
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                284,
+                333,
+                10,
+                27
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 22
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                191,
+                334,
+                7,
+                23
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 23
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                346,
+                333,
+                14,
+                9
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 24
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                261,
+                205,
+                48,
+                57
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 25
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                393,
+                210,
+                32,
+                39
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 26
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                370,
+                248,
+                83,
+                47
+            ],
+            "area": 0.0,
+            "category_id": 21,
+            "iscrowd": 0,
+            "id": 27
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                223,
+                250,
+                141,
+                77
+            ],
+            "area": 0.0,
+            "category_id": 21,
+            "iscrowd": 0,
+            "id": 28
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                261,
+                196,
+                34,
+                54
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 29
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "person",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 2,
+            "name": "bicycle",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 3,
+            "name": "car",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 4,
+            "name": "motorcycle",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 5,
+            "name": "airplane",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 6,
+            "name": "bus",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 7,
+            "name": "train",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 8,
+            "name": "truck",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 9,
+            "name": "boat",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 10,
+            "name": "traffic light",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 11,
+            "name": "fire hydrant",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 12,
+            "name": "stop sign",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 13,
+            "name": "parking meter",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 14,
+            "name": "bench",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 15,
+            "name": "bird",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 16,
+            "name": "cat",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 17,
+            "name": "dog",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 18,
+            "name": "horse",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 19,
+            "name": "sheep",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 20,
+            "name": "cow",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 21,
+            "name": "elephant",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 22,
+            "name": "bear",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 23,
+            "name": "zebra",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 24,
+            "name": "giraffe",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 25,
+            "name": "backpack",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 26,
+            "name": "umbrella",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 27,
+            "name": "handbag",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 28,
+            "name": "tie",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 29,
+            "name": "suitcase",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 30,
+            "name": "frisbee",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 31,
+            "name": "skis",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 32,
+            "name": "snowboard",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 33,
+            "name": "sports ball",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 34,
+            "name": "kite",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 35,
+            "name": "baseball bat",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 36,
+            "name": "baseball glove",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 37,
+            "name": "skateboard",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 38,
+            "name": "surfboard",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 39,
+            "name": "tennis racket",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 40,
+            "name": "bottle",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 41,
+            "name": "wine glass",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 42,
+            "name": "cup",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 43,
+            "name": "fork",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 44,
+            "name": "knife",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 45,
+            "name": "spoon",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 46,
+            "name": "bowl",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 47,
+            "name": "banana",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 48,
+            "name": "apple",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 49,
+            "name": "sandwich",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 50,
+            "name": "orange",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 51,
+            "name": "broccoli",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 52,
+            "name": "carrot",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 53,
+            "name": "hot dog",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 54,
+            "name": "pizza",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 55,
+            "name": "donut",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 56,
+            "name": "cake",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 57,
+            "name": "chair",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 58,
+            "name": "couch",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 59,
+            "name": "potted plant",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 60,
+            "name": "bed",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 61,
+            "name": "dining table",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 62,
+            "name": "toilet",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 63,
+            "name": "tv",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 64,
+            "name": "laptop",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 65,
+            "name": "mouse",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 66,
+            "name": "remote",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 67,
+            "name": "keyboard",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 68,
+            "name": "cell phone",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 69,
+            "name": "microwave",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 70,
+            "name": "oven",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 71,
+            "name": "toaster",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 72,
+            "name": "sink",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 73,
+            "name": "refrigerator",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 74,
+            "name": "book",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 75,
+            "name": "clock",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 76,
+            "name": "vase",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 77,
+            "name": "scissors",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 78,
+            "name": "teddy bear",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 79,
+            "name": "hair drier",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 80,
+            "name": "toothbrush",
+            "freebase_id": "tbd"
+        }
+    ]
+}

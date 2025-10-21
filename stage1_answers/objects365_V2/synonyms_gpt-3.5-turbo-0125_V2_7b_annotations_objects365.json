@@ -1,0 +1,6363 @@
+{
+    "Person": {
+        "category_id": 1,
+        "synonyms": [
+            "Person",
+            "personage",
+            "human being",
+            "mortal",
+            "man",
+            "character",
+            "human",
+            "individual",
+            "entity",
+            "woman",
+            "creature",
+            "someone",
+            "soul",
+            "being",
+            "somebody"
+        ]
+    },
+    "Sneakers": {
+        "category_id": 2,
+        "synonyms": [
+            "Sneakers",
+            "trainers",
+            "sneaks",
+            "running shoes",
+            "athletic shoes",
+            "athleisure shoes",
+            "sneakers",
+            "gym shoes",
+            "kicks",
+            "runners",
+            "tennis shoes",
+            "sports shoes"
+        ]
+    },
+    "Chair": {
+        "category_id": 3,
+        "synonyms": [
+            "Chair",
+            "lounge",
+            "chaise",
+            "ottoman",
+            "seating",
+            "bench",
+            "throne",
+            "recliner",
+            "armchair",
+            "stool",
+            "furniture",
+            "seat",
+            "pew"
+        ]
+    },
+    "Other Shoes": {
+        "category_id": 4,
+        "synonyms": [
+            "Other Shoes",
+            "footwear",
+            "trainers",
+            "slip-ons",
+            "sneakers",
+            "heels",
+            "sandals",
+            "non-athletic shoes",
+            "kicks",
+            "other types of shoes",
+            "flip-flops",
+            "dress shoes",
+            "miscellaneous shoes",
+            "casual shoes",
+            "flats",
+            "footwear items",
+            "boots",
+            "loafers",
+            "shoes"
+        ]
+    },
+    "Hat": {
+        "category_id": 5,
+        "synonyms": [
+            "Hat",
+            "sombrero",
+            "cap",
+            "headwear",
+            "topper",
+            "lid",
+            "beanie",
+            "beret",
+            "chapeau",
+            "headgear",
+            "bonnet",
+            "head covering",
+            "fedora",
+            "headpiece"
+        ]
+    },
+    "Car": {
+        "category_id": 6,
+        "synonyms": [
+            "Car",
+            "auto",
+            "wheels",
+            "vehicle",
+            "ride",
+            "automobile",
+            "machine",
+            "motorcar",
+            "car"
+        ]
+    },
+    "Lamp": {
+        "category_id": 7,
+        "synonyms": [
+            "Lamp",
+            "floor lamp",
+            "table lamp",
+            "illumination source",
+            "light",
+            "lantern",
+            "electric lamp",
+            "chandelier",
+            "lighting fixture",
+            "light fixture",
+            "desk lamp",
+            "sconce",
+            "luminaire",
+            "torchi\u00e8re",
+            "illuminator",
+            "bulb",
+            "torchiere",
+            "lighting device"
+        ]
+    },
+    "Glasses": {
+        "category_id": 8,
+        "synonyms": [
+            "Glasses",
+            "frames",
+            "goggles",
+            "eyewear",
+            "eyeglasses",
+            "specs",
+            "bifocals",
+            "sunglasses",
+            "prescription glasses",
+            "shades",
+            "readers",
+            "reading glasses",
+            "spectacles"
+        ]
+    },
+    "Bottle": {
+        "category_id": 9,
+        "synonyms": [
+            "Bottle",
+            "vial",
+            "jug",
+            "decanter",
+            "vessel",
+            "carafe",
+            "flask",
+            "jar",
+            "phial",
+            "pitcher",
+            "container"
+        ]
+    },
+    "Desk": {
+        "category_id": 10,
+        "synonyms": [
+            "Desk",
+            "office desk",
+            "bureau",
+            "study desk",
+            "workstation",
+            "drafting table",
+            "work surface",
+            "lectern",
+            "table",
+            "workspace",
+            "computer desk",
+            "work desk",
+            "table desk",
+            "countertop",
+            "secretary desk",
+            "writing desk"
+        ]
+    },
+    "Cup": {
+        "category_id": 11,
+        "synonyms": [
+            "Cup",
+            "tankard",
+            "tea cup",
+            "stein",
+            "goblet",
+            "tumbler",
+            "vessel",
+            "mugful",
+            "mug",
+            "container",
+            "glass",
+            "beaker",
+            "chalice"
+        ]
+    },
+    "Street Lights": {
+        "category_id": 12,
+        "synonyms": [
+            "Street Lights",
+            "traffic lights",
+            "streetlamps",
+            "lamp posts",
+            "road lighting",
+            "city lights",
+            "luminaires",
+            "street lamps",
+            "light poles",
+            "lampposts",
+            "road lights",
+            "lighting posts",
+            "illuminated posts",
+            "urban illumination"
+        ]
+    },
+    "Cabinet/shelf": {
+        "category_id": 13,
+        "synonyms": [
+            "Cabinet/shelf",
+            "stand",
+            "storage unit",
+            "wardrobe",
+            "cupboard",
+            "closet",
+            "cabinet",
+            "armoire",
+            "shelving unit",
+            "pantry",
+            "display case",
+            "bookcase",
+            "hutch"
+        ]
+    },
+    "Handbag/Satchel": {
+        "category_id": 14,
+        "synonyms": [
+            "Handbag/Satchel",
+            "pocketbook",
+            "shoulder bag",
+            "crossbody bag",
+            "handbag",
+            "satchel",
+            "hand carry",
+            "pouch",
+            "clutch",
+            "bag",
+            "tote",
+            "carryall",
+            "purse"
+        ]
+    },
+    "Bracelet": {
+        "category_id": 15,
+        "synonyms": [
+            "Bracelet",
+            "armlet",
+            "link bracelet",
+            "bangle",
+            "wrist adornment",
+            "jewelry around the wrist",
+            "bangles",
+            "charm bracelet",
+            "wristlet jewelry",
+            "wristlet",
+            "strand bracelet",
+            "wristband",
+            "chain bracelet",
+            "wrist ornament",
+            "cuff",
+            "beaded bracelet"
+        ]
+    },
+    "Plate": {
+        "category_id": 16,
+        "synonyms": [
+            "Plate",
+            "dinnerware",
+            "tray",
+            "serving plate",
+            "saucer",
+            "platter",
+            "dinner plate",
+            "dish",
+            "charger",
+            "serving dish",
+            "flatware",
+            "ceramic plate",
+            "crockery plate"
+        ]
+    },
+    "Picture/Frame": {
+        "category_id": 17,
+        "synonyms": [
+            "Picture/Frame",
+            "portrait",
+            "drawing",
+            "painting",
+            "image",
+            "illustration",
+            "frame",
+            "picture",
+            "print",
+            "graphic",
+            "photograph",
+            "artwork"
+        ]
+    },
+    "Helmet": {
+        "category_id": 18,
+        "synonyms": [
+            "Helmet",
+            "sports helmet",
+            "construction helmet",
+            "head protection",
+            "cranial gear",
+            "protective headwear",
+            "bike helmet",
+            "crash helmet",
+            "military helmet",
+            "motorcycle helmet",
+            "safety helmet",
+            "headgear",
+            "hard hat"
+        ]
+    },
+    "Book": {
+        "category_id": 19,
+        "synonyms": [
+            "Book",
+            "hardcover",
+            "paperback",
+            "text",
+            "volume",
+            "literature",
+            "literary work",
+            "textbook",
+            "tome",
+            "story",
+            "work",
+            "publication",
+            "manuscript",
+            "writing",
+            "written work",
+            "novel",
+            "read"
+        ]
+    },
+    "Gloves": {
+        "category_id": 20,
+        "synonyms": [
+            "Gloves",
+            "hand coverings",
+            "finger coverings",
+            "hand gloves",
+            "fingerless gloves",
+            "handwear",
+            "wrist covers",
+            "muffs",
+            "finger protectors",
+            "wrist warmers",
+            "palm protectors",
+            "mitts",
+            "hand warmers",
+            "gauntlets",
+            "mittens"
+        ]
+    },
+    "Storage box": {
+        "category_id": 21,
+        "synonyms": [
+            "Storage box",
+            "chest",
+            "bin",
+            "organizer",
+            "storage bin",
+            "crate",
+            "container",
+            "box",
+            "trunk",
+            "case"
+        ]
+    },
+    "Boat": {
+        "category_id": 22,
+        "synonyms": [
+            "Boat",
+            "canoe",
+            "yacht",
+            "schooner",
+            "ship",
+            "barge",
+            "vessel",
+            "ferry",
+            "motorboat",
+            "craft",
+            "sailboat",
+            "pontoon",
+            "cruiser",
+            "watercraft",
+            "dinghy",
+            "kayak"
+        ]
+    },
+    "Leather Shoes": {
+        "category_id": 23,
+        "synonyms": [
+            "Leather Shoes",
+            "leather sneakers",
+            "leather footwear",
+            "leather loafers",
+            "leather dress shoes",
+            "leather boots",
+            "leather pumps",
+            "leather heels",
+            "leather brogues",
+            "leather oxfords",
+            "leather sandals"
+        ]
+    },
+    "Flower": {
+        "category_id": 24,
+        "synonyms": [
+            "Flower",
+            "petal",
+            "floral",
+            "flora",
+            "plant",
+            "blossom",
+            "daisy",
+            "rose",
+            "bud",
+            "bloom",
+            "garden",
+            "gardenia",
+            "posy",
+            "bouquet"
+        ]
+    },
+    "Bench": {
+        "category_id": 25,
+        "synonyms": [
+            "Bench",
+            "ottoman",
+            "park bench",
+            "wooden bench",
+            "settle",
+            "rest",
+            "bench seat",
+            "garden seat",
+            "chair",
+            "bank",
+            "perch",
+            "stool",
+            "settee",
+            "seat",
+            "pew"
+        ]
+    },
+    "Potted Plant": {
+        "category_id": 26,
+        "synonyms": [
+            "Potted Plant",
+            "potted flower",
+            "pot plant",
+            "houseplant",
+            "potted floral",
+            "container plant",
+            "fern in a pot",
+            "planter pot",
+            "indoor plant"
+        ]
+    },
+    "Bowl/Basin": {
+        "category_id": 27,
+        "synonyms": [
+            "Bowl/Basin",
+            "bowl",
+            "receptacle",
+            "basin",
+            "dish",
+            "vessel",
+            "crock",
+            "pot",
+            "container",
+            "chamber",
+            "dishware"
+        ]
+    },
+    "Flag": {
+        "category_id": 28,
+        "synonyms": [
+            "Flag",
+            "flagstaff",
+            "banner",
+            "emblem",
+            "ensign",
+            "jack",
+            "symbol",
+            "pennant",
+            "standard",
+            "insignia",
+            "colors"
+        ]
+    },
+    "Pillow": {
+        "category_id": 29,
+        "synonyms": [
+            "Pillow",
+            "throw pillow",
+            "sleeping pillow",
+            "cushioned support",
+            "pillowcase",
+            "sleep pillow",
+            "decorative pillow",
+            "bolster",
+            "bed pillow",
+            "cushioned pad",
+            "cushion",
+            "pad",
+            "cushioning",
+            "sham",
+            "headrest"
+        ]
+    },
+    "Boots": {
+        "category_id": 30,
+        "synonyms": [
+            "Boots",
+            "footwear",
+            "booties",
+            "gumboots",
+            "waders",
+            "galoshes",
+            "footgear",
+            "shoes",
+            "wellies"
+        ]
+    },
+    "Vase": {
+        "category_id": 31,
+        "synonyms": [
+            "Vase",
+            "here are the synonyms for the category 'vase':",
+            "vessel",
+            "urn",
+            "vaseful",
+            "flowerpot",
+            "pot",
+            "jar",
+            "pitcher",
+            "container",
+            "amphora"
+        ]
+    },
+    "Microphone": {
+        "category_id": 32,
+        "synonyms": [
+            "Microphone",
+            "microphone",
+            "audio input device",
+            "mic device",
+            "mics",
+            "mic",
+            "recording device"
+        ]
+    },
+    "Necklace": {
+        "category_id": 33,
+        "synonyms": [
+            "Necklace",
+            "beads",
+            "string",
+            "choker",
+            "chain",
+            "strand",
+            "pendant",
+            "trinket",
+            "necklet",
+            "bauble",
+            "necklace",
+            "neckpiece",
+            "ornamental chain",
+            "torque",
+            "collar",
+            "jewelry",
+            "lariat"
+        ]
+    },
+    "Ring": {
+        "category_id": 34,
+        "synonyms": [
+            "Ring",
+            "annulus",
+            "circlet",
+            "hoop",
+            "circle",
+            "wreath",
+            "corona",
+            "ringlet",
+            "round",
+            "loop",
+            "torus",
+            "halo",
+            "band"
+        ]
+    },
+    "SUV": {
+        "category_id": 35,
+        "synonyms": [
+            "SUV",
+            "sport-utility vehicle",
+            "crossover",
+            "suv model",
+            "utility vehicle",
+            "sports utility vehicle",
+            "suv",
+            "four-wheel drive",
+            "all-terrain vehicle",
+            "off-road vehicle",
+            "truck-based suv",
+            "4x4",
+            "sport utility vehicle"
+        ]
+    },
+    "Wine Glass": {
+        "category_id": 36,
+        "synonyms": [
+            "Wine Glass",
+            "wine stemware",
+            "goblet",
+            "wine vessel",
+            "wine chalice",
+            "wine tumbler",
+            "wine goblet",
+            "stemware",
+            "wine cup"
+        ]
+    },
+    "Belt": {
+        "category_id": 37,
+        "synonyms": [
+            "Belt",
+            "cincture",
+            "girth",
+            "hip belt",
+            "waistband",
+            "waistbelt",
+            "cinch",
+            "girdle",
+            "cummerbund",
+            "strap",
+            "sash",
+            "band",
+            "waist belt"
+        ]
+    },
+    "Monitor/TV": {
+        "category_id": 38,
+        "synonyms": [
+            "Monitor/TV",
+            "viewing device",
+            "display",
+            "display screen",
+            "visual device",
+            "screen",
+            "video display",
+            "television set",
+            "tv",
+            "panel",
+            "viewing screen",
+            "video monitor",
+            "television",
+            "flat screen",
+            "monitor"
+        ]
+    },
+    "Backpack": {
+        "category_id": 39,
+        "synonyms": [
+            "Backpack",
+            "rucksack",
+            "backpacking gear",
+            "knapsack",
+            "satchel",
+            "bookbag",
+            "daypack",
+            "sack",
+            "bag",
+            "pack",
+            "schoolbag"
+        ]
+    },
+    "Umbrella": {
+        "category_id": 40,
+        "synonyms": [
+            "Umbrella",
+            "shade",
+            "gamp",
+            "cover",
+            "brolly",
+            "parasol",
+            "sunshade",
+            "canopy",
+            "rainshade"
+        ]
+    },
+    "Traffic Light": {
+        "category_id": 41,
+        "synonyms": [
+            "Traffic Light",
+            "red light",
+            "semaphore",
+            "stop sign",
+            "green light",
+            "amber light",
+            "signal light",
+            "traffic semaphore",
+            "traffic beacon",
+            "traffic signal",
+            "signal",
+            "stoplight"
+        ]
+    },
+    "Speaker": {
+        "category_id": 42,
+        "synonyms": [
+            "Speaker",
+            "emcee",
+            "spokesperson",
+            "public speaker",
+            "talker",
+            "lecturer",
+            "orator",
+            "moderator",
+            "broadcaster",
+            "keynote speaker",
+            "announcer",
+            "presenter",
+            "spokesman",
+            "narrator"
+        ]
+    },
+    "Watch": {
+        "category_id": 43,
+        "synonyms": [
+            "Watch",
+            "chronometer",
+            "timepiece",
+            "stopwatch",
+            "time-keeping instrument",
+            "horologe",
+            "wristwatch",
+            "timekeeper",
+            "ticker",
+            "time-teller",
+            "time-telling device"
+        ]
+    },
+    "Tie": {
+        "category_id": 44,
+        "synonyms": [
+            "Tie",
+            "muffler",
+            "bowtie",
+            "neckwear",
+            "necktie",
+            "scarf",
+            "cravat",
+            "neckpiece",
+            "bow tie",
+            "ascot"
+        ]
+    },
+    "Trash bin Can": {
+        "category_id": 45,
+        "synonyms": [
+            "Trash bin Can",
+            "garbage can",
+            "dumpster",
+            "garbage bin",
+            "dustbin",
+            "litter bin",
+            "trash can",
+            "waste bin",
+            "refuse bin",
+            "waste container",
+            "trash receptacle",
+            "rubbish bin"
+        ]
+    },
+    "Slippers": {
+        "category_id": 46,
+        "synonyms": [
+            "Slippers",
+            "mules",
+            "indoor shoes",
+            "footwear",
+            "bedroom slippers",
+            "slides",
+            "slip-ons",
+            "moccasins",
+            "house slippers",
+            "sandals",
+            "slipper shoes",
+            "house shoes",
+            "scuffs",
+            "foot warmers",
+            "fuzzy slippers"
+        ]
+    },
+    "Bicycle": {
+        "category_id": 47,
+        "synonyms": [
+            "Bicycle",
+            "bike",
+            "bicycle",
+            "pushbike",
+            "two-wheeled vehicle",
+            "cycle",
+            "two-wheeler",
+            "ride",
+            "pedal-powered vehicle",
+            "pedal bike",
+            "velocipede"
+        ]
+    },
+    "Stool": {
+        "category_id": 48,
+        "synonyms": [
+            "Stool",
+            "saddle",
+            "ottoman",
+            "bench",
+            "chair",
+            "bar stool",
+            "counter stool",
+            "perch",
+            "footstool",
+            "seat",
+            "backless chair"
+        ]
+    },
+    "Barrel/bucket": {
+        "category_id": 49,
+        "synonyms": [
+            "Barrel/bucket",
+            "keg",
+            "cask",
+            "container",
+            "bucket",
+            "vessel",
+            "pail",
+            "barrel",
+            "tub",
+            "drum"
+        ]
+    },
+    "Van": {
+        "category_id": 50,
+        "synonyms": [
+            "Van",
+            "minivan",
+            "microbus",
+            "passenger van",
+            "vehicle",
+            "motorcar",
+            "auto",
+            "transport",
+            "motor van",
+            "automobile",
+            "transporter",
+            "panel van",
+            "conveyance",
+            "car",
+            "transport van",
+            "minibus",
+            "camper",
+            "delivery van",
+            "cargo van",
+            "caravan"
+        ]
+    },
+    "Couch": {
+        "category_id": 51,
+        "synonyms": [
+            "Couch",
+            "lounge",
+            "chaise",
+            "loveseat",
+            "sofa bed",
+            "davenport",
+            "chesterfield",
+            "chaise lounge",
+            "settee",
+            "sofa",
+            "daybed",
+            "divan"
+        ]
+    },
+    "Sandals": {
+        "category_id": 52,
+        "synonyms": [
+            "Sandals",
+            "thongs",
+            "footwear",
+            "slides",
+            "summer shoes",
+            "sandals",
+            "flip-flops",
+            "slippers",
+            "shoes"
+        ]
+    },
+    "Basket": {
+        "category_id": 53,
+        "synonyms": [
+            "Basket",
+            "tray",
+            "hamper",
+            "receptacle",
+            "trug",
+            "bin",
+            "tote",
+            "basin",
+            "crate",
+            "container",
+            "cart",
+            "pannier"
+        ]
+    },
+    "Drum": {
+        "category_id": 54,
+        "synonyms": [
+            "Drum",
+            "drum kit",
+            "kettle drum",
+            "cymbal",
+            "djembe",
+            "percussion instrument",
+            "beat",
+            "rhythm",
+            "percussion",
+            "tambourine",
+            "rhythm instrument",
+            "tabla",
+            "barrel drum",
+            "tom-tom",
+            "tambour",
+            "timpano",
+            "beat-maker",
+            "membranophone",
+            "snare",
+            "conga",
+            "bongo"
+        ]
+    },
+    "Pen/Pencil": {
+        "category_id": 55,
+        "synonyms": [
+            "Pen/Pencil",
+            "stylus",
+            "felt-tip pen",
+            "mechanical pencil",
+            "marker",
+            "highlighter",
+            "ballpoint pen",
+            "ballpoint",
+            "colored pencil",
+            "pen",
+            "writing tool",
+            "crayon",
+            "chalk",
+            "quill",
+            "writing utensil",
+            "felt-tip",
+            "fountain pen",
+            "writing implement",
+            "pencil"
+        ]
+    },
+    "Bus": {
+        "category_id": 56,
+        "synonyms": [
+            "Bus",
+            "charabanc",
+            "transport",
+            "motorbus",
+            "omnibus",
+            "vehicle",
+            "minibus",
+            "transit",
+            "coach",
+            "shuttle",
+            "motorcoach"
+        ]
+    },
+    "Wild Bird": {
+        "category_id": 57,
+        "synonyms": [
+            "Wild Bird",
+            "wild aviary resident",
+            "avian wildlife",
+            "avian predator",
+            "raptor",
+            "feathered friend",
+            "flying bird",
+            "winged creature",
+            "bird of prey",
+            "natural feathered creature",
+            "untamed bird",
+            "feral fowl"
+        ]
+    },
+    "High Heels": {
+        "category_id": 58,
+        "synonyms": [
+            "High Heels",
+            "elevated footwear",
+            "elevated shoes",
+            "stiletto heels",
+            "high shoes",
+            "high-heeled footwear",
+            "platforms",
+            "heeled sandals",
+            "platform heels",
+            "dress shoes",
+            "pumps",
+            "stilettos",
+            "high-heel shoes",
+            "heels"
+        ]
+    },
+    "Motorcycle": {
+        "category_id": 59,
+        "synonyms": [
+            "Motorcycle",
+            "bike",
+            "cruiser",
+            "moped",
+            "two-wheeler",
+            "scooter",
+            "hog",
+            "ride",
+            "motorbike",
+            "motor",
+            "chopper",
+            "crotch rocket",
+            "cycle"
+        ]
+    },
+    "Guitar": {
+        "category_id": 60,
+        "synonyms": [
+            "Guitar",
+            "six-string",
+            "musical instrument",
+            "electric guitar",
+            "rock star's weapon",
+            "axe",
+            "axe-slinging (slang)",
+            "axe (slang)",
+            "strummer (informal)",
+            "string instrument",
+            "guitar",
+            "ax",
+            "stringed instrument",
+            "instrument",
+            "acoustic guitar",
+            "plucker (informal)"
+        ]
+    },
+    "Carpet": {
+        "category_id": 61,
+        "synonyms": [
+            "Carpet",
+            "mat",
+            "area rug",
+            "floor covering",
+            "rug",
+            "carpeting"
+        ]
+    },
+    "Cell Phone": {
+        "category_id": 62,
+        "synonyms": [
+            "Cell Phone",
+            "handset",
+            "mobile phone",
+            "android phone",
+            "cell",
+            "iphone",
+            "cellular phone",
+            "mobile device",
+            "smartphone",
+            "cellphone",
+            "device"
+        ]
+    },
+    "Bread": {
+        "category_id": 63,
+        "synonyms": [
+            "Bread",
+            "wheat bread",
+            "roll",
+            "sandwich bread",
+            "wholegrain bread",
+            "bun",
+            "baked goods",
+            "crust",
+            "rye bread",
+            "pastry",
+            "loaf",
+            "baguette",
+            "ciabatta",
+            "bagel",
+            "sourdough",
+            "croissant",
+            "whole wheat bread"
+        ]
+    },
+    "Camera": {
+        "category_id": 64,
+        "synonyms": [
+            "Camera",
+            "photographing instrument",
+            "photographic device",
+            "recorder",
+            "picture taker",
+            "imaging gadget",
+            "digicam",
+            "camcorder",
+            "photo device",
+            "shoot",
+            "snapshot device",
+            "photographic equipment",
+            "cam",
+            "video camera",
+            "image-capturing device",
+            "digital camera",
+            "imaging device",
+            "photographic apparatus",
+            "cameras",
+            "camera"
+        ]
+    },
+    "Canned": {
+        "category_id": 65,
+        "synonyms": [
+            "Canned",
+            "canned goods",
+            "bottled",
+            "jarred",
+            "canned items",
+            "pickled",
+            "conserved",
+            "vacuum-sealed",
+            "tinned",
+            "preserved"
+        ]
+    },
+    "Truck": {
+        "category_id": 66,
+        "synonyms": [
+            "Truck",
+            "truck",
+            "big rig",
+            "hauler",
+            "pickup",
+            "rig",
+            "vehicle",
+            "eighteen-wheeler",
+            "van",
+            "freighter",
+            "articulated lorry",
+            "four-wheeler",
+            "semi-truck",
+            "lorry",
+            "tractor-trailer",
+            "pickup truck"
+        ]
+    },
+    "Traffic cone": {
+        "category_id": 67,
+        "synonyms": [
+            "Traffic cone",
+            "highway cone",
+            "delineator cone",
+            "orange cone",
+            "cone",
+            "traffic pylon",
+            "construction cone",
+            "safety cone",
+            "road cone",
+            "conical marker"
+        ]
+    },
+    "Cymbal": {
+        "category_id": 68,
+        "synonyms": [
+            "Cymbal",
+            "ride cymbal",
+            "china cymbal",
+            "percussion instrument",
+            "crash cymbal",
+            "hi-hat",
+            "cymbals",
+            "splash cymbal",
+            "drum cymbal",
+            "percussion"
+        ]
+    },
+    "Lifesaver": {
+        "category_id": 69,
+        "synonyms": [
+            "Lifesaver",
+            "lifebelt",
+            "life belt",
+            "lifebuoy",
+            "life ring",
+            "life raft",
+            "life jacket",
+            "flotation device",
+            "life vest",
+            "life preserver"
+        ]
+    },
+    "Towel": {
+        "category_id": 70,
+        "synonyms": [
+            "Towel",
+            "drying cloth",
+            "dishcloth",
+            "linen",
+            "beach towel",
+            "towellette",
+            "bath towel",
+            "hand towel",
+            "dish towel",
+            "cloth",
+            "washcloth",
+            "fabric square",
+            "tea towel"
+        ]
+    },
+    "Stuffed Toy": {
+        "category_id": 71,
+        "synonyms": [
+            "Stuffed Toy",
+            "cuddle buddy",
+            "cuddly toy",
+            "plushie",
+            "cuddly plush",
+            "stuffed plush",
+            "stuffed companion",
+            "teddy bear",
+            "toy plush",
+            "stuffed animal",
+            "plush toy",
+            "furry friend",
+            "plushie toy",
+            "soft toy",
+            "plush animal"
+        ]
+    },
+    "Candle": {
+        "category_id": 72,
+        "synonyms": [
+            "Candle",
+            "luminary",
+            "torch",
+            "wax light",
+            "bougie",
+            "light",
+            "oil lamp",
+            "candlestick",
+            "votive",
+            "candleholder",
+            "candelabrum",
+            "wax candle",
+            "taper"
+        ]
+    },
+    "Sailboat": {
+        "category_id": 73,
+        "synonyms": [
+            "Sailboat",
+            "sail craft",
+            "sailing ship",
+            "catboat",
+            "yacht",
+            "schooner",
+            "sailing vessel",
+            "sailboat",
+            "boat with sails",
+            "sloop",
+            "ketch",
+            "sail vessel",
+            "cutter",
+            "cruising yacht",
+            "sailing boat"
+        ]
+    },
+    "Laptop": {
+        "category_id": 74,
+        "synonyms": [
+            "Laptop",
+            "notebook",
+            "laptop computer",
+            "personal computer",
+            "portable computer",
+            "ultrabook",
+            "notebook computer",
+            "computer",
+            "device"
+        ]
+    },
+    "Awning": {
+        "category_id": 75,
+        "synonyms": [
+            "Awning",
+            "shade",
+            "cover",
+            "shelter",
+            "overhang",
+            "sunshade",
+            "canopy"
+        ]
+    },
+    "Bed": {
+        "category_id": 76,
+        "synonyms": [
+            "Bed",
+            "futon",
+            "divan",
+            "mattress",
+            "pallet",
+            "crib",
+            "cradle",
+            "bedstead",
+            "sleeping surface",
+            "sleeping pad",
+            "cot",
+            "bunk",
+            "berth",
+            "bedframe"
+        ]
+    },
+    "Faucet": {
+        "category_id": 77,
+        "synonyms": [
+            "Faucet",
+            "faucet handle",
+            "fixture",
+            "water spout",
+            "water tap",
+            "spigot",
+            "water valve",
+            "spout",
+            "water faucet",
+            "tap",
+            "stopcock",
+            "faucet head",
+            "valve"
+        ]
+    },
+    "Tent": {
+        "category_id": 78,
+        "synonyms": [
+            "Tent",
+            "pavilion",
+            "teepee",
+            "shelter",
+            "marquee",
+            "camp",
+            "wigwam",
+            "yurt",
+            "campsite",
+            "camping tent",
+            "canopy",
+            "awning",
+            "canvass"
+        ]
+    },
+    "Horse": {
+        "category_id": 79,
+        "synonyms": [
+            "Horse",
+            "filly",
+            "colt",
+            "gelding",
+            "steed",
+            "pony",
+            "nag",
+            "stallion",
+            "equine",
+            "mount",
+            "mare"
+        ]
+    },
+    "Mirror": {
+        "category_id": 80,
+        "synonyms": [
+            "Mirror",
+            "mirror glass",
+            "reflecting glass",
+            "makeup mirror",
+            "looking-glass",
+            "hall mirror",
+            "looking mirror",
+            "looking glass",
+            "hand glass",
+            "reflecting surface",
+            "speculum",
+            "glass",
+            "reflector",
+            "reflective surface",
+            "vanity mirror"
+        ]
+    },
+    "Power outlet": {
+        "category_id": 81,
+        "synonyms": [
+            "Power outlet",
+            "receptacle",
+            "power point",
+            "electrical outlet",
+            "wall socket",
+            "outlet",
+            "socket",
+            "wall outlet",
+            "power socket",
+            "electric socket",
+            "plug socket"
+        ]
+    },
+    "Sink": {
+        "category_id": 82,
+        "synonyms": [
+            "Sink",
+            "washbasin",
+            "lavatory",
+            "utility sink",
+            "kitchen sink",
+            "vessel sink",
+            "bowl",
+            "basin",
+            "bathroom sink",
+            "trough",
+            "plumbing fixture",
+            "washstand",
+            "vessel"
+        ]
+    },
+    "Apple": {
+        "category_id": 83,
+        "synonyms": [
+            "Apple",
+            "apple fruit",
+            "edible fruit",
+            "apple tree",
+            "sweet fruit",
+            "produce",
+            "pomaceous fruit",
+            "apple tree product",
+            "fruit of the apple tree",
+            "red fruit",
+            "green fruit",
+            "dessert fruit",
+            "fruit",
+            "malus domestica",
+            "fruit tree",
+            "orchard fruit"
+        ]
+    },
+    "Air Conditioner": {
+        "category_id": 84,
+        "synonyms": [
+            "Air Conditioner",
+            "air cooler",
+            "ac",
+            "ac unit",
+            "cooling device",
+            "aircon",
+            "air con",
+            "cooling system",
+            "air conditioning unit",
+            "climate control",
+            "hvac unit",
+            "hvac system"
+        ]
+    },
+    "Knife": {
+        "category_id": 85,
+        "synonyms": [
+            "Knife",
+            "cleaver",
+            "weapon",
+            "kitchen knife",
+            "dirk",
+            "cutlery",
+            "dagger",
+            "blade",
+            "utensil",
+            "bayonet",
+            "cutting tool",
+            "sharp edge",
+            "sharp object",
+            "switchblade",
+            "shank",
+            "tool"
+        ]
+    },
+    "Hockey Stick": {
+        "category_id": 86,
+        "synonyms": [
+            "Hockey Stick",
+            "hockey paddle",
+            "hockey bat",
+            "hockey weapon",
+            "field hockey stick",
+            "ice hockey stick",
+            "sticks",
+            "hockey wand",
+            "stick",
+            "puck stick",
+            "hockey club"
+        ]
+    },
+    "Paddle": {
+        "category_id": 87,
+        "synonyms": [
+            "Paddle",
+            "here are some common synonyms for 'paddle':",
+            "row",
+            "boat paddle",
+            "spank",
+            "paddleboard paddle",
+            "paddleboard",
+            "oar",
+            "blade",
+            "scull",
+            "kayak paddle",
+            "paddleboat",
+            "canoe paddle"
+        ]
+    },
+    "Pickup Truck": {
+        "category_id": 88,
+        "synonyms": [
+            "Pickup Truck",
+            "pickup vehicle",
+            "truck",
+            "pickup van",
+            "pickup",
+            "trucklet",
+            "ute (short for utility vehicle)",
+            "pick-up",
+            "half-ton truck",
+            "utility vehicle",
+            "lorry",
+            "utility truck",
+            "4x4 truck",
+            "pick-up truck",
+            "4x4",
+            "light truck",
+            "work truck"
+        ]
+    },
+    "Fork": {
+        "category_id": 89,
+        "synonyms": [
+            "Fork",
+            "forked implement",
+            "utensil with tines",
+            "eating implement",
+            "flatware piece for eating",
+            "eating utensil",
+            "tableware",
+            "pronged utensil",
+            "tableware implement",
+            "utensil",
+            "silverware",
+            "tine",
+            "dinner fork",
+            "silverware with tines",
+            "table fork",
+            "cutlery",
+            "salad fork",
+            "prong"
+        ]
+    },
+    "Traffic Sign": {
+        "category_id": 90,
+        "synonyms": [
+            "Traffic Sign",
+            "road signal",
+            "road sign",
+            "traffic board",
+            "warning sign",
+            "direction sign",
+            "street sign",
+            "street signal",
+            "traffic signal",
+            "regulatory sign",
+            "directional sign"
+        ]
+    },
+    "Ballon": {
+        "category_id": 91,
+        "synonyms": [
+            "Ballon",
+            "dirigible",
+            "balloon",
+            "blimp",
+            "aerostat",
+            "inflatable",
+            "airship",
+            "zeppelin",
+            "hot air balloon"
+        ]
+    },
+    "Tripod": {
+        "category_id": 92,
+        "synonyms": [
+            "Tripod",
+            "three-legged support",
+            "platform with three legs",
+            "three-legged stand",
+            "support",
+            "stand",
+            "support stand",
+            "base",
+            "camera stand",
+            "cam stand",
+            "photographic tripod",
+            "mount stand"
+        ]
+    },
+    "Dog": {
+        "category_id": 93,
+        "synonyms": [
+            "Dog",
+            "hound",
+            "canine",
+            "mutt",
+            "four-legged friend",
+            "man's best friend",
+            "pup",
+            "furry friend",
+            "fido",
+            "pooch",
+            "canine companion",
+            "doggo"
+        ]
+    },
+    "Spoon": {
+        "category_id": 94,
+        "synonyms": [
+            "Spoon",
+            "serving spoon",
+            "tablespoon",
+            "ladle",
+            "utensil",
+            "silverware",
+            "scoop",
+            "implement",
+            "cutlery",
+            "teaspoon"
+        ]
+    },
+    "Clock": {
+        "category_id": 95,
+        "synonyms": [
+            "Clock",
+            "chronometer",
+            "timepiece",
+            "timekeeping device",
+            "horologe",
+            "watch",
+            "timekeeper",
+            "ticker",
+            "time-telling device",
+            "time sensor",
+            "timer",
+            "time recorder"
+        ]
+    },
+    "Pot": {
+        "category_id": 96,
+        "synonyms": [
+            "Pot",
+            "cauldron",
+            "container",
+            "crockery",
+            "cooking pot",
+            "stewpot",
+            "vessel",
+            "pot",
+            "crockpot",
+            "dutch oven",
+            "stockpot",
+            "casserole dish",
+            "kettle",
+            "saucepan"
+        ]
+    },
+    "Cow": {
+        "category_id": 97,
+        "synonyms": [
+            "Cow",
+            "heifer",
+            "cattle",
+            "moo-cow",
+            "bovine",
+            "dairy cow",
+            "bos taurus",
+            "bullock",
+            "calf",
+            "steer",
+            "ox",
+            "livestock"
+        ]
+    },
+    "Cake": {
+        "category_id": 98,
+        "synonyms": [
+            "Cake",
+            "baked good",
+            "tart",
+            "torte",
+            "dessert",
+            "confection",
+            "sponge",
+            "sweet",
+            "layer cake",
+            "sweet treat",
+            "bakery item",
+            "pastry",
+            "sugary delight",
+            "delicacy",
+            "treat",
+            "gateau",
+            "cupcake"
+        ]
+    },
+    "Dining Table": {
+        "category_id": 99,
+        "synonyms": [
+            "Dining Table",
+            "dinner table",
+            "table",
+            "eating table",
+            "breakfast table",
+            "meal table",
+            "kitchen table",
+            "food table",
+            "dining room table",
+            "furniture table"
+        ]
+    },
+    "Sheep": {
+        "category_id": 100,
+        "synonyms": [
+            "Sheep",
+            "ruminant",
+            "ewe",
+            "livestock",
+            "mutton",
+            "ram",
+            "ruminant animal",
+            "lamb",
+            "wool-bearing animal",
+            "flock",
+            "woolly",
+            "woolly creature"
+        ]
+    },
+    "Hanger": {
+        "category_id": 101,
+        "synonyms": [
+            "Hanger",
+            "wardrobe hanger",
+            "closet hanger",
+            "hook hanger",
+            "garment hanger",
+            "clothes hanger",
+            "clothing hanger",
+            "coat hanger"
+        ]
+    },
+    "Blackboard/Whiteboard": {
+        "category_id": 102,
+        "synonyms": [
+            "Blackboard/Whiteboard",
+            "dry erase board",
+            "chalkboard",
+            "writing board",
+            "chalkboard surface",
+            "slate",
+            "erasable board",
+            "drawing board",
+            "blackboard",
+            "display board",
+            "slate board",
+            "whiteboard",
+            "dry-erase board",
+            "marker board"
+        ]
+    },
+    "Napkin": {
+        "category_id": 103,
+        "synonyms": [
+            "Napkin",
+            "wipe",
+            "tissue",
+            "cloth",
+            "handkerchief",
+            "serviette",
+            "table napkin"
+        ]
+    },
+    "Other Fish": {
+        "category_id": 104,
+        "synonyms": [
+            "Other Fish",
+            "assorted types of fish",
+            "diverse fish varieties",
+            "alternative fish options",
+            "assorted fish",
+            "various fish",
+            "different fish",
+            "different types of fish",
+            "miscellaneous fish",
+            "various fish species",
+            "other aquatic creatures",
+            "diverse fish"
+        ]
+    },
+    "Orange/Tangerine": {
+        "category_id": 105,
+        "synonyms": [
+            "Orange/Tangerine",
+            "navel orange",
+            "naartjie",
+            "tangor",
+            "satsuma",
+            "tangerine",
+            "mandarin",
+            "orange",
+            "citrus peel",
+            "clementine",
+            "mandarin orange",
+            "citrus fruit"
+        ]
+    },
+    "Toiletry": {
+        "category_id": 106,
+        "synonyms": [
+            "Toiletry",
+            "hygiene products",
+            "beauty products",
+            "grooming products",
+            "personal care items",
+            "toiletries",
+            "bathroom essentials",
+            "grooming supplies",
+            "bathroom supplies",
+            "hygiene essentials"
+        ]
+    },
+    "Keyboard": {
+        "category_id": 107,
+        "synonyms": [
+            "Keyboard",
+            "qwerty board",
+            "instrument panel",
+            "keyset",
+            "typing device",
+            "input device",
+            "keypad",
+            "key set",
+            "typewriter",
+            "typing board",
+            "typing instrument",
+            "computer keyboard"
+        ]
+    },
+    "Tomato": {
+        "category_id": 108,
+        "synonyms": [
+            "Tomato",
+            "vegetable fruit",
+            "nightshade fruit",
+            "tomato",
+            "pomodoro (italian)",
+            "tomate (spanish)",
+            "nightshade family fruit",
+            "solanum lycopersicum",
+            "plum tomato",
+            "cherry tomato",
+            "vegetable",
+            "love apple",
+            "grape tomato",
+            "salad fruit",
+            "pomme d'amour (french)",
+            "red fruit"
+        ]
+    },
+    "Lantern": {
+        "category_id": 109,
+        "synonyms": [
+            "Lantern",
+            "luminary",
+            "torch",
+            "candlestick",
+            "lantern light",
+            "lamp",
+            "light fixture",
+            "luminaire",
+            "candle holder",
+            "candelabrum",
+            "beacon"
+        ]
+    },
+    "Machinery Vehicle": {
+        "category_id": 110,
+        "synonyms": [
+            "Machinery Vehicle",
+            "equipment vehicle",
+            "mechanism",
+            "heavy machinery transporter",
+            "industrial vehicle",
+            "vehicle",
+            "machinery vehicle",
+            "equipment",
+            "equipment transport",
+            "apparatus",
+            "machine",
+            "machinery transport",
+            "machine transport",
+            "mechanical vehicle",
+            "device"
+        ]
+    },
+    "Fan": {
+        "category_id": 111,
+        "synonyms": [
+            "Fan",
+            "zealot",
+            "admirer",
+            "cooling fan",
+            "devotee",
+            "air circulator",
+            "air mover",
+            "supporter",
+            "blower",
+            "fan blade",
+            "aficionado",
+            "air blower",
+            "aficionada",
+            "buff",
+            "enthusiast",
+            "fanatic",
+            "follower",
+            "ventilator",
+            "electric fan",
+            "lover",
+            "breeze creator"
+        ]
+    },
+    "Green Vegetables": {
+        "category_id": 112,
+        "synonyms": [
+            "Green Vegetables",
+            "chlorophyll-rich produce",
+            "emerald veggies",
+            "leafy greens",
+            "veggie greens",
+            "verdant vegetables",
+            "verdant veggies",
+            "green veggies",
+            "leafy vegetables",
+            "leafy edibles",
+            "garden vegetables",
+            "greenery edibles",
+            "fresh produce",
+            "leafy produce",
+            "greens"
+        ]
+    },
+    "Banana": {
+        "category_id": 113,
+        "synonyms": [
+            "Banana",
+            "tropical fruit",
+            "yellow berry",
+            "yellow fruit",
+            "potassium-rich fruit",
+            "fruit",
+            "plantain",
+            "curved fruit"
+        ]
+    },
+    "Baseball Glove": {
+        "category_id": 114,
+        "synonyms": [
+            "Baseball Glove",
+            "fielder's glove",
+            "mitt",
+            "catcher's mitt",
+            "catchers glove",
+            "baseball glove",
+            "fielding glove",
+            "catcher's glove",
+            "baseball mitt",
+            "glove"
+        ]
+    },
+    "Airplane": {
+        "category_id": 115,
+        "synonyms": [
+            "Airplane",
+            "plane",
+            "aircraft",
+            "jet",
+            "aeroplane",
+            "airship",
+            "bird",
+            "flying machine"
+        ]
+    },
+    "Mouse": {
+        "category_id": 116,
+        "synonyms": [
+            "Mouse",
+            "clicker",
+            "input device",
+            "computer mouse",
+            "trackpad",
+            "rodent",
+            "peripheral device",
+            "mouse device",
+            "touchpad",
+            "pointing device"
+        ]
+    },
+    "Train": {
+        "category_id": 117,
+        "synonyms": [
+            "Train",
+            "railway carriage",
+            "subway",
+            "railway",
+            "locomotion",
+            "transportation",
+            "engine",
+            "railcar",
+            "passenger train",
+            "caboose",
+            "choo-choo",
+            "express",
+            "iron horse",
+            "coach",
+            "commuter",
+            "locomotive",
+            "railroad"
+        ]
+    },
+    "Pumpkin": {
+        "category_id": 118,
+        "synonyms": [
+            "Pumpkin",
+            "citrouille (french)",
+            "vegetable marrow",
+            "calabaza (spanish)",
+            "pumpkin pie",
+            "pumpkin flesh",
+            "pumpkinseed",
+            "orange vegetable",
+            "halloween pumpkin",
+            "squash",
+            "winter squash",
+            "cucurbita pepo",
+            "jack-o'-lantern",
+            "squash fruit",
+            "gourd"
+        ]
+    },
+    "Soccer": {
+        "category_id": 119,
+        "synonyms": [
+            "Soccer",
+            "pitch sport",
+            "footy",
+            "association football",
+            "futbol",
+            "the beautiful game",
+            "the pitch",
+            "the round ball game",
+            "the sport of kings",
+            "football"
+        ]
+    },
+    "Skiboard": {
+        "category_id": 120,
+        "synonyms": [
+            "Skiboard",
+            "snow skate",
+            "short skis",
+            "ski board",
+            "short ski",
+            "skiblade",
+            "snow short",
+            "snowblade"
+        ]
+    },
+    "Luggage": {
+        "category_id": 121,
+        "synonyms": [
+            "Luggage",
+            "valises",
+            "luggage items",
+            "suitcase",
+            "carry-on",
+            "suitcases",
+            "portmanteaus",
+            "travel gear",
+            "bags",
+            "luggage pieces",
+            "portmanteau",
+            "bag",
+            "cases",
+            "baggage items",
+            "baggage",
+            "trunks",
+            "trunk",
+            "carry-ons",
+            "valise"
+        ]
+    },
+    "Nightstand": {
+        "category_id": 122,
+        "synonyms": [
+            "Nightstand",
+            "bedside table",
+            "night-side table",
+            "bedside cabinet",
+            "bedside stand",
+            "nightstand table",
+            "night cabinet",
+            "nightstand",
+            "night table"
+        ]
+    },
+    "Teapot": {
+        "category_id": 123,
+        "synonyms": [
+            "Teapot",
+            "tea pot",
+            "brewer",
+            "kettle",
+            "vessel for brewing tea",
+            "pot",
+            "teakettle",
+            "brew pot",
+            "tea kettle",
+            "brew kettle",
+            "pot for tea"
+        ]
+    },
+    "Telephone": {
+        "category_id": 124,
+        "synonyms": [
+            "Telephone",
+            "handset",
+            "blower",
+            "cellular",
+            "mobile phone",
+            "jack",
+            "mobile",
+            "cell",
+            "horn",
+            "phone",
+            "ringy dingy",
+            "cell phone",
+            "landline",
+            "cordless phone",
+            "smartphone",
+            "receiver",
+            "cellphone"
+        ]
+    },
+    "Trolley": {
+        "category_id": 125,
+        "synonyms": [
+            "Trolley",
+            "dolly",
+            "wagon",
+            "barrow",
+            "shopping cart",
+            "hand truck",
+            "pushcart",
+            "tram",
+            "handcart",
+            "cart",
+            "carrier",
+            "carriage"
+        ]
+    },
+    "Head Phone": {
+        "category_id": 126,
+        "synonyms": [
+            "Head Phone",
+            "over-ear headphones",
+            "wireless headphones",
+            "on-ear headphones",
+            "headphone",
+            "earphones",
+            "bluetooth headphones",
+            "earbuds",
+            "earpieces",
+            "in-ear headphones",
+            "audio headphones",
+            "headsets",
+            "headphones"
+        ]
+    },
+    "Sports Car": {
+        "category_id": 127,
+        "synonyms": [
+            "Sports Car",
+            "supercar",
+            "muscle car",
+            "performance car",
+            "high-performance car",
+            "luxury sports car",
+            "high-performance vehicle",
+            "exotic car",
+            "sports car",
+            "sports coupe",
+            "luxury car",
+            "racing car",
+            "sports vehicle",
+            "sporty car",
+            "sportscar"
+        ]
+    },
+    "Stop Sign": {
+        "category_id": 128,
+        "synonyms": [
+            "Stop Sign",
+            "stop signal",
+            "intersection sign",
+            "road sign",
+            "halt sign",
+            "red octagon sign",
+            "stop marker",
+            "traffic sign",
+            "red octagon",
+            "stop board"
+        ]
+    },
+    "Dessert": {
+        "category_id": 129,
+        "synonyms": [
+            "Dessert",
+            "ice cream",
+            "sweet course",
+            "sorbet",
+            "pie",
+            "treat",
+            "sweet dish",
+            "postre (spanish)",
+            "sweets",
+            "pastry",
+            "cake",
+            "final course",
+            "indulgence",
+            "sweet",
+            "confection",
+            "pudding",
+            "afters",
+            "sugary delight",
+            "parfait",
+            "dessert course"
+        ]
+    },
+    "Scooter": {
+        "category_id": 130,
+        "synonyms": [
+            "Scooter",
+            "moped",
+            "motor scooters",
+            "vespa",
+            "kick scooter",
+            "micro-mobility vehicles",
+            "two-wheelers",
+            "two-wheeler",
+            "motorized scooters",
+            "scooter",
+            "mopeds",
+            "motor scooter",
+            "wheeled vehicle"
+        ]
+    },
+    "Stroller": {
+        "category_id": 131,
+        "synonyms": [
+            "Stroller",
+            "perambulator",
+            "pram",
+            "pushchair",
+            "infant carriage",
+            "baby stroller",
+            "baby carriage",
+            "buggy",
+            "baby buggy"
+        ]
+    },
+    "Crane": {
+        "category_id": 132,
+        "synonyms": [
+            "Crane",
+            "tower crane",
+            "lifting machine",
+            "derrick",
+            "jib crane",
+            "gantry",
+            "jib",
+            "elevator",
+            "lifter",
+            "winch",
+            "hoist",
+            "construction crane",
+            "machine",
+            "lift"
+        ]
+    },
+    "Remote": {
+        "category_id": 133,
+        "synonyms": [
+            "Remote",
+            "out-of-the-way",
+            "removed",
+            "off-the-grid",
+            "isolated",
+            "distant",
+            "far-off",
+            "inaccessible",
+            "off the beaten path",
+            "faraway",
+            "secluded",
+            "outlying"
+        ]
+    },
+    "Refrigerator": {
+        "category_id": 134,
+        "synonyms": [
+            "Refrigerator",
+            "chiller",
+            "refrigerator",
+            "fridge",
+            "freezer",
+            "fridge-freezer",
+            "refrigerator-freezer",
+            "cooler",
+            "icebox"
+        ]
+    },
+    "Oven": {
+        "category_id": 135,
+        "synonyms": [
+            "Oven",
+            "baking appliance",
+            "baking device",
+            "range",
+            "toaster oven",
+            "heating device",
+            "roaster",
+            "microwave oven",
+            "heater",
+            "cooker",
+            "stove"
+        ]
+    },
+    "Lemon": {
+        "category_id": 136,
+        "synonyms": [
+            "Lemon",
+            "acidic fruit",
+            "sour fruit",
+            "yellow fruit",
+            "citron",
+            "tangy fruit",
+            "lemons",
+            "limon",
+            "citrus fruit"
+        ]
+    },
+    "Duck": {
+        "category_id": 137,
+        "synonyms": [
+            "Duck",
+            "quack",
+            "mallard",
+            "fowl",
+            "water bird",
+            "waterfowl",
+            "pond-dweller",
+            "quacker",
+            "duckling",
+            "drake",
+            "web-footed bird",
+            "bird",
+            "waddle",
+            "webfoot",
+            "anatidae"
+        ]
+    },
+    "Baseball Bat": {
+        "category_id": 138,
+        "synonyms": [
+            "Baseball Bat",
+            "wooden club",
+            "bat",
+            "baseball stick",
+            "slugging stick",
+            "hitting stick",
+            "ball club",
+            "baseball club",
+            "hitting tool"
+        ]
+    },
+    "Surveillance Camera": {
+        "category_id": 139,
+        "synonyms": [
+            "Surveillance Camera",
+            "monitoring device",
+            "security camera",
+            "video surveillance camera",
+            "monitoring camera",
+            "closed-circuit camera",
+            "spy camera",
+            "spy cam",
+            "cctv camera",
+            "video camera"
+        ]
+    },
+    "Cat": {
+        "category_id": 140,
+        "synonyms": [
+            "Cat",
+            "mouser",
+            "pussycat",
+            "puss",
+            "whisker-face",
+            "moggy",
+            "kitty",
+            "tomcat",
+            "kitty-cat",
+            "puddy",
+            "miaowmaid",
+            "tabby",
+            "feline"
+        ]
+    },
+    "Jug": {
+        "category_id": 141,
+        "synonyms": [
+            "Jug",
+            "decanter",
+            "carafe",
+            "ewer",
+            "vessel",
+            "pitcher",
+            "container"
+        ]
+    },
+    "Broccoli": {
+        "category_id": 142,
+        "synonyms": [
+            "Broccoli",
+            "calabrese",
+            "broccoli florets",
+            "brassica oleracea var. italica",
+            "bimi",
+            "broccoli heads",
+            "cruciferous vegetable",
+            "broccolini",
+            "broccoflower",
+            "brassica oleracea italica",
+            "green vegetable",
+            "brassica vegetable",
+            "brassica oleracea"
+        ]
+    },
+    "Piano": {
+        "category_id": 143,
+        "synonyms": [
+            "Piano",
+            "organ",
+            "baby grand piano",
+            "grand piano",
+            "fortepiano",
+            "spinet piano",
+            "electric piano",
+            "digital piano",
+            "concert grand piano",
+            "baby grand",
+            "keyboard instrument",
+            "upright piano",
+            "harpsichord",
+            "keyboard",
+            "player piano",
+            "acoustic piano"
+        ]
+    },
+    "Pizza": {
+        "category_id": 144,
+        "synonyms": [
+            "Pizza",
+            "deep dish",
+            "tomato pie",
+            "pizzeria",
+            "pepperoni pizza",
+            "cheesy goodness",
+            "pie",
+            "margherita",
+            "pepperoni pie",
+            "round delight",
+            "deep-dish",
+            "cheesy delight",
+            "za",
+            "flatbread",
+            "italian pie",
+            "slice",
+            "cheesy pie",
+            "pizza pie",
+            "neapolitan",
+            "neapolitan pie"
+        ]
+    },
+    "Elephant": {
+        "category_id": 145,
+        "synonyms": [
+            "Elephant",
+            "ivory-billed creature",
+            "pachyderm",
+            "behemoth",
+            "jumbo",
+            "mammoth",
+            "grey giant",
+            "giant animal",
+            "tusker"
+        ]
+    },
+    "Skateboard": {
+        "category_id": 146,
+        "synonyms": [
+            "Skateboard",
+            "skate deck",
+            "skaterboard",
+            "deck",
+            "skateboard deck",
+            "skate",
+            "skateboard",
+            "board"
+        ]
+    },
+    "Surfboard": {
+        "category_id": 147,
+        "synonyms": [
+            "Surfboard",
+            "wave board",
+            "water plank",
+            "wave rider",
+            "surf board",
+            "surf deck",
+            "surf craft",
+            "riding board",
+            "surfboard",
+            "surf sled",
+            "board",
+            "surf plank"
+        ]
+    },
+    "Gun": {
+        "category_id": 148,
+        "synonyms": [
+            "Gun",
+            "pistol",
+            "piece",
+            "firearm",
+            "revolver",
+            "weapon",
+            "handgun",
+            "artillery",
+            "sidearm",
+            "rifle",
+            "armament",
+            "piece of artillery",
+            "shotgun"
+        ]
+    },
+    "Skating and Skiing shoes": {
+        "category_id": 149,
+        "synonyms": [
+            "Skating and Skiing shoes",
+            "ski shoes",
+            "winter sports footwear",
+            "skates",
+            "skiing boots",
+            "skating boots",
+            "snowboarding shoes",
+            "slalom shoes",
+            "skiing footwear",
+            "ice skates",
+            "snow boots",
+            "figure skating boots",
+            "figure skates",
+            "snow skates",
+            "ice skating footwear",
+            "ski boots",
+            "winter boots"
+        ]
+    },
+    "Gas stove": {
+        "category_id": 150,
+        "synonyms": [
+            "Gas stove",
+            "gas cooktop",
+            "gas hob",
+            "gas burner",
+            "cooktop",
+            "gas oven",
+            "gas cooker",
+            "gas range",
+            "stovetop",
+            "stove",
+            "burner"
+        ]
+    },
+    "Donut": {
+        "category_id": 151,
+        "synonyms": [
+            "Donut",
+            "pastry ring",
+            "fritter",
+            "sugary snack",
+            "sweet treat",
+            "sweet treat with a hole in the middle",
+            "dough ring",
+            "fried dough",
+            "pasty shell",
+            "cruller",
+            "sweet ring",
+            "deep-fried dessert",
+            "torus-shaped pastry",
+            "doughnuts",
+            "torus-shaped confection",
+            "doughnut"
+        ]
+    },
+    "Bow Tie": {
+        "category_id": 152,
+        "synonyms": [
+            "Bow Tie",
+            "dress tie",
+            "neck ribbon",
+            "bow knot",
+            "black tie",
+            "neckcloth",
+            "bow collar",
+            "necktie",
+            "bow-knot",
+            "cravat",
+            "bowknot",
+            "formal tie"
+        ]
+    },
+    "Carrot": {
+        "category_id": 153,
+        "synonyms": [
+            "Carrot",
+            "orange root vegetable",
+            "beta-carotene rich vegetable",
+            "vegetable with an orange color",
+            "crunchy vegetable",
+            "vegetable",
+            "carrot",
+            "beta-carotene-rich vegetable",
+            "bunny food",
+            "root vegetable",
+            "orange vegetable",
+            "sure, here are some common synonyms for 'carrot':"
+        ]
+    },
+    "Toilet": {
+        "category_id": 154,
+        "synonyms": [
+            "Toilet",
+            "lavatory",
+            "comfort station",
+            "powder room",
+            "water closet",
+            "loo",
+            "washroom",
+            "latrine",
+            "restroom",
+            "privy",
+            "bathroom",
+            "wc"
+        ]
+    },
+    "Kite": {
+        "category_id": 155,
+        "synonyms": [
+            "Kite",
+            "wind kite",
+            "kite flyer",
+            "wind flyer",
+            "wind rider",
+            "sky dancer",
+            "aerial kite",
+            "flying kite",
+            "airborne sail",
+            "kite",
+            "tethered craft",
+            "glider",
+            "kite toy",
+            "flying toy"
+        ]
+    },
+    "Strawberry": {
+        "category_id": 156,
+        "synonyms": [
+            "Strawberry",
+            "ripe fruit",
+            "juicy fruit",
+            "sweet fruit",
+            "strawberry fruit",
+            "red fruit",
+            "red berry",
+            "wild strawberry",
+            "fragaria \u00d7 ananassa",
+            "fragaria",
+            "fruit",
+            "garden strawberry",
+            "berry"
+        ]
+    },
+    "Other Balls": {
+        "category_id": 157,
+        "synonyms": [
+            "Other Balls",
+            "miscellaneous orbs",
+            "diverse spheres",
+            "diverse balls",
+            "other spheres",
+            "miscellaneous balls",
+            "different globes",
+            "alternative orbs",
+            "different balls",
+            "various spheres",
+            "assorted balls",
+            "various balls"
+        ]
+    },
+    "Shovel": {
+        "category_id": 158,
+        "synonyms": [
+            "Shovel",
+            "shovel tool",
+            "spade",
+            "trowel",
+            "scoop",
+            "shovel blade",
+            "tool",
+            "digger",
+            "digging tool"
+        ]
+    },
+    "Pepper": {
+        "category_id": 159,
+        "synonyms": [
+            "Pepper",
+            "chili pepper",
+            "pimiento",
+            "sweet pepper",
+            "capsicum",
+            "green pepper",
+            "paprika",
+            "chili",
+            "bell pepper",
+            "here are some synonyms for the category 'pepper':",
+            "capsicum annuum"
+        ]
+    },
+    "Computer Box": {
+        "category_id": 160,
+        "synonyms": [
+            "Computer Box",
+            "computer tower",
+            "cpu box",
+            "desktop computer",
+            "workstation",
+            "personal computer",
+            "cpu",
+            "tower case",
+            "computer",
+            "desktop",
+            "machine",
+            "pc chassis",
+            "pc",
+            "desktop enclosure",
+            "computer case"
+        ]
+    },
+    "Toilet Paper": {
+        "category_id": 161,
+        "synonyms": [
+            "Toilet Paper",
+            "tp",
+            "tissue paper",
+            "loo roll",
+            "bog roll",
+            "bathroom tissue",
+            "restroom paper",
+            "lavatory tissue",
+            "toilet tissue",
+            "bath tissue"
+        ]
+    },
+    "Cleaning Products": {
+        "category_id": 162,
+        "synonyms": [
+            "Cleaning Products",
+            "hygiene products",
+            "janitorial supplies",
+            "cleaning supplies",
+            "sanitation supplies",
+            "janitorial products",
+            "household cleaners",
+            "disinfectants",
+            "sanitation products",
+            "cleaning agents"
+        ]
+    },
+    "Chopsticks": {
+        "category_id": 163,
+        "synonyms": [
+            "Chopsticks",
+            "asian utensils",
+            "chopsticks",
+            "sticks",
+            "eating sticks",
+            "chinese tableware",
+            "eating utensils",
+            "chop stick",
+            "food sticks",
+            "chinese sticks",
+            "asian eating tools",
+            "chopstick",
+            "sushi sticks"
+        ]
+    },
+    "Microwave": {
+        "category_id": 164,
+        "synonyms": [
+            "Microwave",
+            "microwave cooker",
+            "micro oven",
+            "microwave appliance",
+            "radar range",
+            "microwave stove",
+            "nuker",
+            "microwave oven",
+            "microwave range",
+            "microwave unit",
+            "oven"
+        ]
+    },
+    "Pigeon": {
+        "category_id": 165,
+        "synonyms": [
+            "Pigeon",
+            "messenger pigeon",
+            "dove",
+            "rock pigeon",
+            "rock dove",
+            "paloma",
+            "homing pigeon",
+            "columba",
+            "carrier pigeon",
+            "squab"
+        ]
+    },
+    "Baseball": {
+        "category_id": 166,
+        "synonyms": [
+            "Baseball",
+            "baseball",
+            "baseball competition",
+            "baseball sport",
+            "hardball",
+            "america's pastime",
+            "major league baseball",
+            "mlb",
+            "ballgame",
+            "the diamond",
+            "softball",
+            "the national pastime",
+            "national pastime",
+            "the big leagues",
+            "baseball game",
+            "diamond sport",
+            "baseball tournament",
+            "baseball match"
+        ]
+    },
+    "Cutting/chopping Board": {
+        "category_id": 167,
+        "synonyms": [
+            "Cutting/chopping Board",
+            "chopping board",
+            "prep board",
+            "cutting board",
+            "food board",
+            "kitchen board",
+            "bamboo board",
+            "plastic board",
+            "chef's board",
+            "wooden board",
+            "food preparation board",
+            "butcher block"
+        ]
+    },
+    "Coffee Table": {
+        "category_id": 168,
+        "synonyms": [
+            "Coffee Table",
+            "low table",
+            "cocktail table",
+            "living room table",
+            "center table",
+            "lounge table",
+            "sofa table",
+            "side table",
+            "occasional table",
+            "furniture table"
+        ]
+    },
+    "Side Table": {
+        "category_id": 169,
+        "synonyms": [
+            "Side Table",
+            "bedside table",
+            "end table",
+            "nightstand",
+            "lamp table",
+            "occasional table",
+            "accent table"
+        ]
+    },
+    "Scissors": {
+        "category_id": 170,
+        "synonyms": [
+            "Scissors",
+            "trimmers",
+            "shears",
+            "pruners",
+            "clippers",
+            "cutting tool",
+            "blades",
+            "snippers",
+            "blade",
+            "pruner",
+            "cutters",
+            "snips"
+        ]
+    },
+    "Marker": {
+        "category_id": 171,
+        "synonyms": [
+            "Marker",
+            "felt-tip pen",
+            "graffiti marker",
+            "whiteboard marker",
+            "marker pen",
+            "highlighter",
+            "pen",
+            "crayon",
+            "chalk",
+            "permanent marker",
+            "writing utensil",
+            "sharpie",
+            "fine-tip marker",
+            "writing tool"
+        ]
+    },
+    "Pie": {
+        "category_id": 172,
+        "synonyms": [
+            "Pie",
+            "tart",
+            "pastry shell",
+            "dessert",
+            "cobbler",
+            "turnover",
+            "pastry",
+            "quiche",
+            "pudding",
+            "flan",
+            "crumble"
+        ]
+    },
+    "Ladder": {
+        "category_id": 173,
+        "synonyms": [
+            "Ladder",
+            "rungs",
+            "scaffold",
+            "climbing frame",
+            "climbing gear",
+            "ascension tool",
+            "ascender",
+            "scaling apparatus",
+            "scaffolding",
+            "stairs",
+            "climbing aid",
+            "step ladder",
+            "steps"
+        ]
+    },
+    "Snowboard": {
+        "category_id": 174,
+        "synonyms": [
+            "Snowboard",
+            "snow sport board",
+            "snow sliding",
+            "snow riding equipment",
+            "board for snow riding",
+            "snow plank",
+            "snow sport",
+            "snowboard",
+            "snow slider",
+            "snowboarding",
+            "snowboarding board",
+            "snowboarder",
+            "winter sports equipment",
+            "board",
+            "board riding",
+            "winter sports board"
+        ]
+    },
+    "Cookies": {
+        "category_id": 175,
+        "synonyms": [
+            "Cookies",
+            "snack",
+            "biscuits",
+            "baked goods",
+            "sweet treats",
+            "sweets",
+            "snacks",
+            "treats",
+            "confections",
+            "goodies",
+            "desserts"
+        ]
+    },
+    "Radiator": {
+        "category_id": 176,
+        "synonyms": [
+            "Radiator",
+            "heating appliance",
+            "warmth emitter",
+            "warmth generator",
+            "room heater",
+            "panel heater",
+            "heating unit",
+            "heating element",
+            "space heater",
+            "convector",
+            "heater",
+            "central heating unit",
+            "heat source"
+        ]
+    },
+    "Fire Hydrant": {
+        "category_id": 177,
+        "synonyms": [
+            "Fire Hydrant",
+            "fire pump outlet",
+            "pumping post",
+            "fire department connection",
+            "hydrant",
+            "fire pump",
+            "water post",
+            "fire plug",
+            "water plug",
+            "fireplug"
+        ]
+    },
+    "Basketball": {
+        "category_id": 178,
+        "synonyms": [
+            "Basketball",
+            "hoops",
+            "hoop",
+            "basketball game",
+            "hoop game",
+            "hoops game",
+            "ball",
+            "b-ball",
+            "basketball sports",
+            "the rock",
+            "streetball",
+            "roundball"
+        ]
+    },
+    "Zebra": {
+        "category_id": 179,
+        "synonyms": [
+            "Zebra",
+            "african horse",
+            "striped horse",
+            "wild equid",
+            "african wild horse",
+            "safari animal",
+            "african equid",
+            "black and white striped animal",
+            "equus quagga"
+        ]
+    },
+    "Grape": {
+        "category_id": 180,
+        "synonyms": [
+            "Grape",
+            "vineyard fruit",
+            "seedless grape",
+            "vine fruit",
+            "purple grape",
+            "table grape",
+            "wine grape",
+            "grape bunch",
+            "grapevine",
+            "grape cluster",
+            "grape berry",
+            "red grape"
+        ]
+    },
+    "Giraffe": {
+        "category_id": 181,
+        "synonyms": [
+            "Giraffe",
+            "long-necked creature",
+            "giraffa camelopardalis",
+            "long-necked creature from africa",
+            "tallest terrestrial animal",
+            "tall animal with brown spots",
+            "giraffid",
+            "african ruminant animal",
+            "tall spotted mammal",
+            "african mammal with a long neck",
+            "camelopard",
+            "tallest mammal",
+            "african even-toed ungulate",
+            "giraffidae"
+        ]
+    },
+    "Potato": {
+        "category_id": 182,
+        "synonyms": [
+            "Potato",
+            "yam",
+            "cassava",
+            "sweet potato",
+            "earth apple",
+            "spud",
+            "mud apple",
+            "irish potato",
+            "tater",
+            "tuber",
+            "russet potato",
+            "idaho potato",
+            "spudnick",
+            "potato",
+            "russet",
+            "white potato",
+            "potatoe"
+        ]
+    },
+    "Sausage": {
+        "category_id": 183,
+        "synonyms": [
+            "Sausage",
+            "banger",
+            "hotdog",
+            "kielbasa",
+            "chorizo",
+            "tubesteak",
+            "links",
+            "wiener",
+            "knackwurst",
+            "wurst",
+            "weenie",
+            "frankfurter",
+            "bratwurst"
+        ]
+    },
+    "Tricycle": {
+        "category_id": 184,
+        "synonyms": [
+            "Tricycle",
+            "pedal tricycle",
+            "pedal trike",
+            "trike",
+            "kid's bike",
+            "tricycle",
+            "three-wheeled cycle",
+            "three-wheel bike",
+            "three-wheeler",
+            "kiddie bike",
+            "toddler bike"
+        ]
+    },
+    "Violin": {
+        "category_id": 185,
+        "synonyms": [
+            "Violin",
+            "violin",
+            "fiddlestick",
+            "classical instrument",
+            "musical instrument",
+            "bowed string instrument",
+            "orchestral instrument",
+            "strings instrument",
+            "fiddle",
+            "violin bow",
+            "violinist instrument",
+            "violinist",
+            "viola",
+            "fiddler",
+            "stringed instrument",
+            "strings"
+        ]
+    },
+    "Egg": {
+        "category_id": 186,
+        "synonyms": [
+            "Egg",
+            "reproductive body",
+            "embryo",
+            "germ",
+            "cell",
+            "spawn",
+            "egg",
+            "reproductive cell",
+            "eggs",
+            "fertilized cell",
+            "ova",
+            "gamete",
+            "ovum",
+            "seed"
+        ]
+    },
+    "Fire Extinguisher": {
+        "category_id": 187,
+        "synonyms": [
+            "Fire Extinguisher",
+            "fire safety extinguisher",
+            "flame quencher",
+            "fire safety device",
+            "extinguisher",
+            "fire suppressor",
+            "flame extinguisher",
+            "fire extinguishing device",
+            "fire safety equipment",
+            "fire fighter",
+            "fire fighting equipment"
+        ]
+    },
+    "Candy": {
+        "category_id": 188,
+        "synonyms": [
+            "Candy",
+            "sugary snacks",
+            "confectionery",
+            "sweets",
+            "candy bars",
+            "goodies",
+            "treats",
+            "confections",
+            "lollies",
+            "desserts",
+            "sugary treats"
+        ]
+    },
+    "Fire Truck": {
+        "category_id": 189,
+        "synonyms": [
+            "Fire Truck",
+            "firefighting truck",
+            "fire department vehicle",
+            "fire appliance",
+            "fire vehicle",
+            "fire engine",
+            "fire apparatus",
+            "firefighting vehicle",
+            "fire rescue truck",
+            "fire tender",
+            "fire brigade truck"
+        ]
+    },
+    "Billards": {
+        "category_id": 190,
+        "synonyms": [
+            "Billards",
+            "pool",
+            "table billiards",
+            "billiards table",
+            "cue sports",
+            "pool table",
+            "cue games",
+            "pocket billiards",
+            "snooker"
+        ]
+    },
+    "Converter": {
+        "category_id": 191,
+        "synonyms": [
+            "Converter",
+            "converter box",
+            "adaptor",
+            "transducer",
+            "adapter",
+            "converter unit",
+            "transposer",
+            "switcher",
+            "modulator",
+            "transcriber",
+            "transformer",
+            "convertor",
+            "alternator",
+            "changer",
+            "inverter"
+        ]
+    },
+    "Bathtub": {
+        "category_id": 192,
+        "synonyms": [
+            "Bathtub",
+            "bathroom tub",
+            "washbasin",
+            "bathing vessel",
+            "spa",
+            "jacuzzi",
+            "spa tub",
+            "bathing fixture",
+            "soaker",
+            "bathing tub",
+            "tub",
+            "hot tub",
+            "bath",
+            "soaking tub"
+        ]
+    },
+    "Wheelchair": {
+        "category_id": 193,
+        "synonyms": [
+            "Wheelchair",
+            "motorized chair",
+            "electric wheelchair",
+            "handicap chair",
+            "mobility device",
+            "assistive device for mobility",
+            "wheelchair equipment",
+            "mobility chair",
+            "wheelchair",
+            "wheelchair device",
+            "wheeled chair",
+            "assistive chair",
+            "chair on wheels",
+            "wheeled mobility device",
+            "chair with wheels",
+            "mobility aid",
+            "disabled chair",
+            "rolling chair",
+            "adaptive chair",
+            "manual wheelchair"
+        ]
+    },
+    "Golf Club": {
+        "category_id": 194,
+        "synonyms": [
+            "Golf Club",
+            "golf club",
+            "golf implement",
+            "putter",
+            "golf stick",
+            "iron",
+            "putter club",
+            "wood",
+            "fairway wood",
+            "driver",
+            "wedge",
+            "hybrid",
+            "sand wedge",
+            "golf wood",
+            "iron club",
+            "golfing club",
+            "golf iron",
+            "golfing equipment",
+            "golf driver"
+        ]
+    },
+    "Briefcase": {
+        "category_id": 195,
+        "synonyms": [
+            "Briefcase",
+            "work bag",
+            "document holder",
+            "briefcase bag",
+            "document case",
+            "suitcase",
+            "dispatch case",
+            "carrying case",
+            "satchel",
+            "portfolio",
+            "attache case",
+            "bag",
+            "carryall",
+            "attach\u00e9 case"
+        ]
+    },
+    "Cucumber": {
+        "category_id": 196,
+        "synonyms": [
+            "Cucumber",
+            "gherkin",
+            "pickle",
+            "cuke",
+            "zucchini",
+            "kirby cucumber",
+            "pickling cucumber",
+            "squash",
+            "garden cucumber",
+            "slicing cucumber"
+        ]
+    },
+    "Cigar/Cigarette": {
+        "category_id": 197,
+        "synonyms": [
+            "Cigar/Cigarette",
+            "butt",
+            "cigar",
+            "smoke",
+            "cancer stick",
+            "tobacco product",
+            "coffin nail",
+            "cigarillo",
+            "puff",
+            "nicotine stick",
+            "cigarette",
+            "stogie",
+            "ciggy",
+            "tobacco"
+        ]
+    },
+    "Paint Brush": {
+        "category_id": 198,
+        "synonyms": [
+            "Paint Brush",
+            "painting implement",
+            "creative tool",
+            "paintbrush",
+            "art brush",
+            "painting tool",
+            "painter's brush",
+            "painter\u2019s tool",
+            "artwork brush",
+            "brush",
+            "paint tool",
+            "paint applicator"
+        ]
+    },
+    "Pear": {
+        "category_id": 199,
+        "synonyms": [
+            "Pear",
+            "european pear",
+            "green pear",
+            "asian pear",
+            "comice",
+            "bartlett",
+            "nashi pear",
+            "sweet pear",
+            "bartlett pear",
+            "pomaceous fruit",
+            "pear-shaped",
+            "forelle",
+            "apple pear",
+            "anjou",
+            "conference pear",
+            "bosc",
+            "pyrus",
+            "asian apple pear",
+            "nashi",
+            "fruit",
+            "anjou pear",
+            "seckel"
+        ]
+    },
+    "Heavy Truck": {
+        "category_id": 200,
+        "synonyms": [
+            "Heavy Truck",
+            "18-wheeler",
+            "big rig",
+            "transport truck",
+            "hauler",
+            "commercial truck",
+            "large vehicle",
+            "eighteen-wheeler",
+            "haulage vehicle",
+            "semi-truck",
+            "lorry",
+            "tractor-trailer",
+            "freight truck",
+            "heavy-duty truck"
+        ]
+    },
+    "Hamburger": {
+        "category_id": 201,
+        "synonyms": [
+            "Hamburger",
+            "meat sandwich",
+            "classic burger",
+            "ground beef sandwich",
+            "beef patty sandwich",
+            "hamburger patty",
+            "cheeseburger",
+            "bacon burger",
+            "patty burger",
+            "beef burger",
+            "patty",
+            "fast food burger",
+            "fast food sandwich",
+            "beef sandwich",
+            "burger",
+            "veggie burger"
+        ]
+    },
+    "Extractor": {
+        "category_id": 202,
+        "synonyms": [
+            "Extractor",
+            "extraction tool",
+            "venting system",
+            "extractors",
+            "extraction system",
+            "extractor device",
+            "suction device",
+            "extraction appliance",
+            "extractor system",
+            "suction unit",
+            "hoover",
+            "exhaust fan",
+            "extractor",
+            "vacuum pump",
+            "extractor tool",
+            "extractor equipment",
+            "aspirator",
+            "extractor unit",
+            "extractor machine",
+            "extractor fan"
+        ]
+    },
+    "Extension Cord": {
+        "category_id": 203,
+        "synonyms": [
+            "Extension Cord",
+            "extension lead",
+            "cable extension",
+            "cable",
+            "plug extension",
+            "electrical extension",
+            "cord reel",
+            "power cable",
+            "power strip",
+            "electrical cord",
+            "power cord"
+        ]
+    },
+    "Tong": {
+        "category_id": 204,
+        "synonyms": [
+            "Tong",
+            "speech",
+            "jargon",
+            "oral cavity",
+            "dialect",
+            "harmonica",
+            "language",
+            "maw",
+            "trap",
+            "mouth organ",
+            "mouth harp",
+            "reed instrument",
+            "wind instrument",
+            "gob",
+            "here are some synonyms for the category 'tong':",
+            "mouth",
+            "discourse"
+        ]
+    },
+    "Tennis Racket": {
+        "category_id": 205,
+        "synonyms": [
+            "Tennis Racket",
+            "tennis equipment",
+            "tennis bat",
+            "racquet",
+            "racket",
+            "tennis paddle",
+            "tennis racquet",
+            "tennis stick"
+        ]
+    },
+    "Folder": {
+        "category_id": 206,
+        "synonyms": [
+            "Folder",
+            "document holder",
+            "binder",
+            "file cabinet",
+            "file holder",
+            "file organizer",
+            "directory",
+            "portfolio",
+            "document organizer",
+            "filing system",
+            "dossier"
+        ]
+    },
+    "American Football": {
+        "category_id": 207,
+        "synonyms": [
+            "American Football",
+            "gridiron",
+            "gridiron football",
+            "tackle football",
+            "american gridiron",
+            "gridiron game",
+            "the gridiron sport",
+            "gridiron sport",
+            "u.s. football",
+            "pigskin",
+            "nfl",
+            "football"
+        ]
+    },
+    "earphone": {
+        "category_id": 208,
+        "synonyms": [
+            "earphone",
+            "earbud",
+            "headphone set",
+            "earphone set",
+            "headphone",
+            "headset",
+            "earpiece",
+            "in-ear headphones"
+        ]
+    },
+    "Mask": {
+        "category_id": 209,
+        "synonyms": [
+            "Mask",
+            "facial covering",
+            "concealment",
+            "veil",
+            "protective mask",
+            "face covering",
+            "respirator",
+            "shield",
+            "gas mask",
+            "face mask",
+            "facial mask",
+            "disguise",
+            "surgical mask",
+            "costume mask",
+            "visor"
+        ]
+    },
+    "Kettle": {
+        "category_id": 210,
+        "synonyms": [
+            "Kettle",
+            "hot water dispenser",
+            "coffee pot",
+            "electric kettle",
+            "samovar",
+            "boiler",
+            "urn",
+            "pot",
+            "teakettle",
+            "teapot",
+            "water heater",
+            "whistling kettle",
+            "tea kettle",
+            "hot water heater"
+        ]
+    },
+    "Tennis": {
+        "category_id": 211,
+        "synonyms": [
+            "Tennis",
+            "grand slam",
+            "groundstroke rally",
+            "racquet sport",
+            "serve and volley",
+            "net game",
+            "hardcourt sport",
+            "tennis sport",
+            "racket sport",
+            "singles",
+            "wimbledon",
+            "deuce",
+            "tennis match",
+            "doubles",
+            "tennis court",
+            "tennis game",
+            "advantage",
+            "forehand and backhand play",
+            "lawn tennis",
+            "fault",
+            "court sport",
+            "tennis",
+            "match point",
+            "ace"
+        ]
+    },
+    "Ship": {
+        "category_id": 212,
+        "synonyms": [
+            "Ship",
+            "sailing ship",
+            "sea vessel",
+            "steamship",
+            "yacht",
+            "nautical vessel",
+            "warship",
+            "vessel",
+            "craft",
+            "boat",
+            "cruise ship",
+            "sailboat",
+            "watercraft",
+            "naval vessel",
+            "maritime vessel"
+        ]
+    },
+    "Swing": {
+        "category_id": 213,
+        "synonyms": [
+            "Swing",
+            "dangle",
+            "oscillate",
+            "rocking motion",
+            "suspend",
+            "stride",
+            "hang",
+            "fling",
+            "pendulum",
+            "flutter",
+            "rock",
+            "oscillation",
+            "arc",
+            "pivot",
+            "dawdle",
+            "dilly-dally",
+            "sway",
+            "teeter"
+        ]
+    },
+    "Coffee Machine": {
+        "category_id": 214,
+        "synonyms": [
+            "Coffee Machine",
+            "espresso machine",
+            "java machine",
+            "coffee appliance",
+            "bean-to-cup machine",
+            "coffee brew station",
+            "coffee dispenser",
+            "coffee brewer",
+            "cappuccino maker",
+            "single-serve coffee maker",
+            "drip coffee maker",
+            "coffee percolator",
+            "coffee grinder",
+            "coffee maker"
+        ]
+    },
+    "Slide": {
+        "category_id": 215,
+        "synonyms": [
+            "Slide",
+            "toboggan",
+            "play slide",
+            "water slide",
+            "slippery slope",
+            "slider",
+            "glissade",
+            "playground equipment",
+            "incline",
+            "sliding structure",
+            "glider",
+            "playground slide",
+            "chute",
+            "ramp",
+            "playground apparatus",
+            "slippery dip",
+            "slither",
+            "sliding board"
+        ]
+    },
+    "Carriage": {
+        "category_id": 216,
+        "synonyms": [
+            "Carriage",
+            "wagon",
+            "chaise",
+            "transport",
+            "vehicle",
+            "stagecoach",
+            "chariot",
+            "cab",
+            "tram",
+            "buggy",
+            "sleigh",
+            "coach",
+            "cart",
+            "conveyance"
+        ]
+    },
+    "Onion": {
+        "category_id": 217,
+        "synonyms": [
+            "Onion",
+            "cooking onion",
+            "white onion",
+            "scallion",
+            "common onion",
+            "yellow onion",
+            "sweet onion",
+            "red onion",
+            "spanish onion",
+            "allium cepa",
+            "bulb onion",
+            "shallot",
+            "garden onion",
+            "green onion"
+        ]
+    },
+    "Green beans": {
+        "category_id": 218,
+        "synonyms": [
+            "Green beans",
+            "haricots verts",
+            "kenya beans",
+            "dwarf beans",
+            "snap beans",
+            "fine beans",
+            "runner beans",
+            "french beans",
+            "haricot verts (french term)",
+            "string beans",
+            "round beans",
+            "bush beans"
+        ]
+    },
+    "Projector": {
+        "category_id": 219,
+        "synonyms": [
+            "Projector",
+            "projector",
+            "cinema projector",
+            "multimedia projector",
+            "beam projector",
+            "video projector",
+            "presentation projector",
+            "overhead projector",
+            "digital projector"
+        ]
+    },
+    "Frisbee": {
+        "category_id": 220,
+        "synonyms": [
+            "Frisbee",
+            "flying plate",
+            "throwing disc",
+            "disc",
+            "flying saucer",
+            "flying toy disc",
+            "throw-and-catch disc",
+            "frisbee disc",
+            "flying disc",
+            "flying pie",
+            "plastic disc"
+        ]
+    },
+    "Washing Machine/Drying Machine": {
+        "category_id": 221,
+        "synonyms": [
+            "Washing Machine/Drying Machine",
+            "laundry machine",
+            "washing machine",
+            "laundry appliance",
+            "clothes washer",
+            "laundry equipment",
+            "clothes dryer",
+            "drying machine",
+            "washer",
+            "dryer"
+        ]
+    },
+    "Chicken": {
+        "category_id": 222,
+        "synonyms": [
+            "Chicken",
+            "yardbird",
+            "fowl",
+            "rooster",
+            "cock",
+            "poultry",
+            "capon",
+            "hen",
+            "fryer",
+            "pullet",
+            "bird",
+            "broiler",
+            "bird (in a culinary context)",
+            "yardbird (slang)"
+        ]
+    },
+    "Printer": {
+        "category_id": 223,
+        "synonyms": [
+            "Printer",
+            "printing press",
+            "print machine",
+            "document printer",
+            "3d printer",
+            "copier",
+            "digital printer",
+            "printing machine",
+            "printers",
+            "inkjet printer",
+            "plotter",
+            "printing tool",
+            "office printer",
+            "printing equipment",
+            "laser printer",
+            "printer",
+            "printing device",
+            "copying machine"
+        ]
+    },
+    "Watermelon": {
+        "category_id": 224,
+        "synonyms": [
+            "Watermelon",
+            "water-melon",
+            "juicy fruit",
+            "sweet watery fruit",
+            "\"crimson sweet\"",
+            "red fruit with black seeds",
+            "melon",
+            "citrullus lanatus",
+            "sweet watermelon",
+            "summer fruit",
+            "sweet melon",
+            "fruit",
+            "sirene",
+            "water fruit",
+            "water melon"
+        ]
+    },
+    "Saxophone": {
+        "category_id": 225,
+        "synonyms": [
+            "Saxophone",
+            "saxhorn",
+            "woodwind",
+            "brass instrument",
+            "jazzophone",
+            "sax",
+            "horn",
+            "saxamaphonist",
+            "saxamaphone",
+            "saxo",
+            "saxaphone"
+        ]
+    },
+    "Tissue": {
+        "category_id": 226,
+        "synonyms": [
+            "Tissue",
+            "tissue paper",
+            "linen",
+            "material",
+            "weave",
+            "textile",
+            "cloth",
+            "cotton",
+            "fabric",
+            "fiber",
+            "dressing",
+            "bandage",
+            "layer"
+        ]
+    },
+    "Toothbrush": {
+        "category_id": 227,
+        "synonyms": [
+            "Toothbrush",
+            "tooth cleaner",
+            "dental implement",
+            "teeth cleaning implement",
+            "dental brush",
+            "teeth brush",
+            "oral hygiene tool",
+            "brush for teeth",
+            "gum cleaner",
+            "tooth scrubber"
+        ]
+    },
+    "Ice cream": {
+        "category_id": 228,
+        "synonyms": [
+            "Ice cream",
+            "dairy dessert",
+            "gelato",
+            "frozen yogurt",
+            "frozen treat",
+            "soft serve",
+            "frozen dessert",
+            "frozen confection",
+            "cone",
+            "scoop",
+            "scoop of ice cream",
+            "ice cream cone",
+            "sundae",
+            "sorbet"
+        ]
+    },
+    "Hot air balloon": {
+        "category_id": 229,
+        "synonyms": [
+            "Hot air balloon",
+            "hot air aerostat",
+            "balloon",
+            "aerostat",
+            "gas balloon",
+            "floating balloon",
+            "lighter-than-air craft",
+            "airship",
+            "aerial balloon",
+            "air balloon",
+            "sky balloon",
+            "hot air balloon",
+            "hot-air balloon"
+        ]
+    },
+    "Cello": {
+        "category_id": 230,
+        "synonyms": [
+            "Cello",
+            "violoncello",
+            "bowed string instrument",
+            "musical instrument",
+            "cellophane",
+            "string instrument",
+            "cellist",
+            "cello"
+        ]
+    },
+    "French Fries": {
+        "category_id": 231,
+        "synonyms": [
+            "French Fries",
+            "hot chips",
+            "potato fries",
+            "freedom fries",
+            "fries",
+            "pommes frites",
+            "crispy potato sticks",
+            "chips",
+            "finger chips",
+            "fried potatoes"
+        ]
+    },
+    "Scale": {
+        "category_id": 232,
+        "synonyms": [
+            "Scale",
+            "level",
+            "measurement",
+            "range",
+            "proportions",
+            "proportion",
+            "dimension",
+            "gradation",
+            "extent",
+            "size",
+            "scope",
+            "magnitude"
+        ]
+    },
+    "Trophy": {
+        "category_id": 233,
+        "synonyms": [
+            "Trophy",
+            "prize",
+            "medal",
+            "trophy",
+            "award",
+            "honor",
+            "token of appreciation",
+            "accolade",
+            "cup",
+            "plaque",
+            "ribbon"
+        ]
+    },
+    "Cabbage": {
+        "category_id": 234,
+        "synonyms": [
+            "Cabbage",
+            "leafy vegetable",
+            "sauerkraut vegetable",
+            "leafy green",
+            "head cabbage",
+            "savoy cabbage",
+            "kraut",
+            "cabbage",
+            "white cabbage",
+            "green cabbage",
+            "red cabbage",
+            "cruciferous vegetable",
+            "colewort",
+            "cole",
+            "brassica",
+            "greens",
+            "leaf cabbage",
+            "brassica oleracea",
+            "leaf-cabbage"
+        ]
+    },
+    "Hot dog": {
+        "category_id": 235,
+        "synonyms": [
+            "Hot dog",
+            "sausage in a bun",
+            "frank",
+            "dog",
+            "banger",
+            "hotdog",
+            "red hot",
+            "sausage on a bun",
+            "wiener",
+            "sausage",
+            "hot link",
+            "weenie",
+            "frankfurter",
+            "bratwurst"
+        ]
+    },
+    "Blender": {
+        "category_id": 236,
+        "synonyms": [
+            "Blender",
+            "juicer",
+            "kitchen appliance",
+            "mixer",
+            "food processor",
+            "kitchen gadget",
+            "smoothie maker",
+            "blending machine",
+            "appliance",
+            "liquidizer"
+        ]
+    },
+    "Peach": {
+        "category_id": 237,
+        "synonyms": [
+            "Peach",
+            "stone fruit",
+            "peach-colored",
+            "peach",
+            "apricot",
+            "peachy",
+            "fuzzy fruit",
+            "prunus persica",
+            "fruit",
+            "peachy keen",
+            "peaches",
+            "nectarine"
+        ]
+    },
+    "Rice": {
+        "category_id": 238,
+        "synonyms": [
+            "Rice",
+            "polished rice",
+            "short grain rice",
+            "long grain rice",
+            "rice kernel",
+            "staple",
+            "cereal",
+            "basmati",
+            "sticky rice",
+            "short-grain rice",
+            "rice seed",
+            "long-grain rice",
+            "paddy",
+            "white rice",
+            "brown rice",
+            "grains",
+            "rice grain",
+            "rice grains",
+            "wild rice",
+            "jasmine rice"
+        ]
+    },
+    "Wallet/Purse": {
+        "category_id": 239,
+        "synonyms": [
+            "Wallet/Purse",
+            "billfold",
+            "money holder",
+            "pocketbook",
+            "coin purse",
+            "purse",
+            "cardholder",
+            "handbag",
+            "pouch",
+            "clutch",
+            "wallet",
+            "wallet purse",
+            "money bag"
+        ]
+    },
+    "Volleyball": {
+        "category_id": 240,
+        "synonyms": [
+            "Volleyball",
+            "volleyball sport",
+            "beach volleyball",
+            "net sports",
+            "volleyball",
+            "beach ball",
+            "indoor volleyball",
+            "volleyball game",
+            "spiked ball",
+            "spikeball",
+            "ball game played on a court",
+            "volley",
+            "netball"
+        ]
+    },
+    "Deer": {
+        "category_id": 241,
+        "synonyms": [
+            "Deer",
+            "fawn",
+            "stag",
+            "buck",
+            "doe",
+            "cervid",
+            "reindeer",
+            "hart",
+            "antlered animal"
+        ]
+    },
+    "Goose": {
+        "category_id": 242,
+        "synonyms": [
+            "Goose",
+            "goose",
+            "fowl",
+            "honker",
+            "water bird",
+            "gander",
+            "waterfowl",
+            "quacker",
+            "goosey",
+            "geese",
+            "web-footer",
+            "bird"
+        ]
+    },
+    "Tape": {
+        "category_id": 243,
+        "synonyms": [
+            "Tape",
+            "cellophane tape",
+            "adhesive tape",
+            "packing tape",
+            "duct tape",
+            "electrical tape",
+            "masking tape",
+            "scotch tape",
+            "sticky tape"
+        ]
+    },
+    "Tablet": {
+        "category_id": 244,
+        "synonyms": [
+            "Tablet",
+            "gadget",
+            "microsoft surface",
+            "tablet",
+            "ipad",
+            "touchscreen device",
+            "android tablet",
+            "slate",
+            "digital tablet",
+            "tablet device",
+            "touchpad",
+            "handheld device",
+            "mobile computer",
+            "electronic tablet",
+            "device"
+        ]
+    },
+    "Cosmetics": {
+        "category_id": 245,
+        "synonyms": [
+            "Cosmetics",
+            "beauty products",
+            "personal care products",
+            "beauty items",
+            "skincare",
+            "grooming products",
+            "personal care items",
+            "beauty regime essentials",
+            "cosmetic products",
+            "makeup",
+            "beauty essentials",
+            "beauty supplies"
+        ]
+    },
+    "Trumpet": {
+        "category_id": 246,
+        "synonyms": [
+            "Trumpet",
+            "brass instrument",
+            "musical instrument",
+            "trumpet horn",
+            "horn",
+            "flugelhorn",
+            "cornet",
+            "wind instrument",
+            "trombone",
+            "bugle"
+        ]
+    },
+    "Pineapple": {
+        "category_id": 247,
+        "synonyms": [
+            "Pineapple",
+            "edible fruit",
+            "ananas",
+            "sweet fruit",
+            "bromeliad fruit",
+            "bromeliad",
+            "tropical fruit",
+            "tropical plant",
+            "pine",
+            "edible golden fruit",
+            "pineapple fruit",
+            "prickly fruit",
+            "fruit of the tropical plant"
+        ]
+    },
+    "Golf Ball": {
+        "category_id": 248,
+        "synonyms": [
+            "Golf Ball",
+            "small white ball for golf",
+            "round dimpled object used in golf",
+            "spherical golf object",
+            "golf orb",
+            "small round golf object",
+            "golfing ball",
+            "sphere for golf",
+            "dimpled ball",
+            "small sphere",
+            "white orb",
+            "golf sphere",
+            "dimpled orb",
+            "ball for golfing"
+        ]
+    },
+    "Ambulance": {
+        "category_id": 249,
+        "synonyms": [
+            "Ambulance",
+            "medical transport",
+            "rescue van",
+            "emergency response vehicle",
+            "emergency transport",
+            "ambulance truck",
+            "paramedic unit",
+            "emergency vehicle",
+            "medical emergency vehicle",
+            "paramedic vehicle",
+            "ems unit",
+            "ambulance car",
+            "rescue vehicle",
+            "ems (emergency medical services)"
+        ]
+    },
+    "Parking meter": {
+        "category_id": 250,
+        "synonyms": [
+            "Parking meter",
+            "pay and display machine",
+            "parking ticket machine",
+            "parking ticket dispenser",
+            "metered parking device",
+            "parking kiosk",
+            "parking meter",
+            "parking pay station",
+            "parking payment machine",
+            "metered parking",
+            "pay station",
+            "parking machine",
+            "ticket machine",
+            "pay-and-display machine"
+        ]
+    },
+    "Mango": {
+        "category_id": 251,
+        "synonyms": [
+            "Mango",
+            "juicy fruit",
+            "sweet fruit",
+            "tropical fruit",
+            "mango fruit",
+            "mangifera indica",
+            "mangoes",
+            "king of fruits",
+            "exotic fruit"
+        ]
+    },
+    "Key": {
+        "category_id": 252,
+        "synonyms": [
+            "Key",
+            "latchkey",
+            "access key",
+            "access code",
+            "cipher",
+            "lock opener",
+            "encryption key",
+            "security token",
+            "passkey",
+            "solution",
+            "passcode",
+            "opener",
+            "combination",
+            "password",
+            "code",
+            "access point",
+            "solution key",
+            "master key",
+            "answer",
+            "keycard"
+        ]
+    },
+    "Hurdle": {
+        "category_id": 253,
+        "synonyms": [
+            "Hurdle",
+            "difficulty",
+            "barricade",
+            "obstruction",
+            "barrier",
+            "challenge",
+            "block",
+            "impediment",
+            "obstacle"
+        ]
+    },
+    "Fishing Rod": {
+        "category_id": 254,
+        "synonyms": [
+            "Fishing Rod",
+            "fishing stick",
+            "fishing staff",
+            "fishing pole",
+            "angling rod",
+            "angler's rod",
+            "fishing rod",
+            "fishing cane",
+            "fishing gear",
+            "casting rod"
+        ]
+    },
+    "Medal": {
+        "category_id": 255,
+        "synonyms": [
+            "Medal",
+            "badge",
+            "decoration",
+            "prize",
+            "trophy",
+            "distinction",
+            "award",
+            "honor",
+            "accolade",
+            "ribbon"
+        ]
+    },
+    "Flute": {
+        "category_id": 256,
+        "synonyms": [
+            "Flute",
+            "woodwind",
+            "musical tube",
+            "musical instrument",
+            "flute",
+            "recorder",
+            "pipe",
+            "wind instrument",
+            "fife",
+            "woodwind instrument",
+            "piccolo",
+            "flautist",
+            "flutist"
+        ]
+    },
+    "Brush": {
+        "category_id": 257,
+        "synonyms": [
+            "Brush",
+            "hairbrush",
+            "implement",
+            "tool",
+            "wire brush",
+            "brush tool",
+            "scrub",
+            "paintbrush",
+            "swab",
+            "dust",
+            "sweep",
+            "flick",
+            "bristle brush",
+            "comb",
+            "scrub brush",
+            "bristle",
+            "toothbrush",
+            "cleanse",
+            "brush",
+            "broom",
+            "clean"
+        ]
+    },
+    "Penguin": {
+        "category_id": 258,
+        "synonyms": [
+            "Penguin",
+            "black and white bird",
+            "tuxedo bird",
+            "seabird",
+            "aquatic bird",
+            "flipper bird",
+            "flightless bird",
+            "antarctic bird",
+            "bird"
+        ]
+    },
+    "Megaphone": {
+        "category_id": 259,
+        "synonyms": [
+            "Megaphone",
+            "voice amplifier",
+            "pa system",
+            "speaking trumpet",
+            "loudspeaker",
+            "bullhorn",
+            "loudhailer",
+            "public address system",
+            "speaker horn"
+        ]
+    },
+    "Corn": {
+        "category_id": 260,
+        "synonyms": [
+            "Corn",
+            "indian corn",
+            "sweetcorn",
+            "popcorn",
+            "cornmeal",
+            "field corn",
+            "kernels",
+            "maize kernels",
+            "cornstarch",
+            "corn on the cob",
+            "zea mays",
+            "corn kernel",
+            "maize",
+            "maize corn",
+            "maize kernel"
+        ]
+    },
+    "Lettuce": {
+        "category_id": 261,
+        "synonyms": [
+            "Lettuce",
+            "leafy greens",
+            "mixed greens",
+            "romaine",
+            "cabbage lettuce",
+            "arugula",
+            "green salad",
+            "iceberg lettuce",
+            "mesclun",
+            "garden lettuce",
+            "butterhead lettuce",
+            "spinach",
+            "iceberg",
+            "leafy vegetables",
+            "kale",
+            "butterhead",
+            "salad greens"
+        ]
+    },
+    "Garlic": {
+        "category_id": 262,
+        "synonyms": [
+            "Garlic",
+            "stinking rose",
+            "bulbils",
+            "aromatic herb",
+            "ajo",
+            "bulbous herb",
+            "stinkin' rose",
+            "allium",
+            "bulb of garlic",
+            "clove of garlic",
+            "allium sativum",
+            "clove",
+            "aromatic vegetable"
+        ]
+    },
+    "Swan": {
+        "category_id": 263,
+        "synonyms": [
+            "Swan",
+            "whistling swan",
+            "majestic bird",
+            "mute swan",
+            "avian",
+            "waterfowl",
+            "beauties of the lake",
+            "waterbird",
+            "cygnus",
+            "trumpeter swan",
+            "whooper swan",
+            "graceful bird"
+        ]
+    },
+    "Helicopter": {
+        "category_id": 264,
+        "synonyms": [
+            "Helicopter",
+            "whirlybird",
+            "helo",
+            "rotary-wing aircraft",
+            "rotorcraft",
+            "chopper",
+            "copter"
+        ]
+    },
+    "Green Onion": {
+        "category_id": 265,
+        "synonyms": [
+            "Green Onion",
+            "scallion",
+            "welsh onion",
+            "salad onion",
+            "chive",
+            "chive onion",
+            "spring onion",
+            "shallot"
+        ]
+    },
+    "Sandwich": {
+        "category_id": 266,
+        "synonyms": [
+            "Sandwich",
+            "grinder",
+            "submarine",
+            "wrap",
+            "hoagie",
+            "hero",
+            "sub",
+            "dagwood",
+            "wedge",
+            "panini",
+            "po' boy",
+            "blt",
+            "grilled cheese",
+            "reuben",
+            "po'boy",
+            "poor boy"
+        ]
+    },
+    "Nuts": {
+        "category_id": 267,
+        "synonyms": [
+            "Nuts",
+            "chestnuts",
+            "pecans",
+            "almonds",
+            "macadamia nuts",
+            "pistachios",
+            "cashews",
+            "peanuts",
+            "brazil nuts",
+            "hazelnuts",
+            "walnuts"
+        ]
+    },
+    "Speed Limit Sign": {
+        "category_id": 268,
+        "synonyms": [
+            "Speed Limit Sign",
+            "traffic speed sign",
+            "speed sign",
+            "speed limit marker",
+            "velocity directive symbol",
+            "speed limit indicator",
+            "maximum speed sign",
+            "velocity limit sign",
+            "velocity signage",
+            "speed restriction sign"
+        ]
+    },
+    "Induction Cooker": {
+        "category_id": 269,
+        "synonyms": [
+            "Induction Cooker",
+            "cooktop",
+            "magnetic cooktop",
+            "induction cooktop",
+            "induction range",
+            "induction hob",
+            "magnetic cooker",
+            "magnetic stove",
+            "magnetic induction cooker",
+            "cooktop with induction technology",
+            "induction hot plate",
+            "induction stove"
+        ]
+    },
+    "Broom": {
+        "category_id": 270,
+        "synonyms": [
+            "Broom",
+            "besom",
+            "sweeper mop",
+            "duster",
+            "sweeper",
+            "brush",
+            "whisk",
+            "broomstick",
+            "mop",
+            "cleaner"
+        ]
+    },
+    "Trombone": {
+        "category_id": 271,
+        "synonyms": [
+            "Trombone",
+            "trumpet family instrument",
+            "slide trumpet",
+            "brass instrument",
+            "musical instrument",
+            "musicial instrument",
+            "horn",
+            "wind instrument",
+            "trumpet's cousin",
+            "trumpet"
+        ]
+    },
+    "Plum": {
+        "category_id": 272,
+        "synonyms": [
+            "Plum",
+            "purple plum",
+            "stone fruit",
+            "ripe plum",
+            "purple fruit",
+            "juicy fruit",
+            "plum fruit",
+            "sweet fruit",
+            "prunus domestic",
+            "plum tree fruit",
+            "plum",
+            "fruit",
+            "juicy plum",
+            "round fruit",
+            "plums",
+            "prune",
+            "sweet plum"
+        ]
+    },
+    "Rickshaw": {
+        "category_id": 273,
+        "synonyms": [
+            "Rickshaw",
+            "rickshaw",
+            "pedicab",
+            "bike taxi",
+            "trishaw",
+            "ricksha",
+            "velotaxi",
+            "jinrikisha",
+            "rickshaw cab",
+            "cyclo",
+            "cycle rickshaw"
+        ]
+    },
+    "Goldfish": {
+        "category_id": 274,
+        "synonyms": [
+            "Goldfish",
+            "golden fish",
+            "betta",
+            "fish in gold color",
+            "freshwater fish",
+            "ornamental fish",
+            "fish",
+            "aquarium goldfish",
+            "goldfish",
+            "aquarium fish",
+            "pet goldfish",
+            "guppy",
+            "koi",
+            "carassius auratus",
+            "fancy goldfish"
+        ]
+    },
+    "Kiwi fruit": {
+        "category_id": 275,
+        "synonyms": [
+            "Kiwi fruit",
+            "green kiwi",
+            "kiwi",
+            "kiwi berry",
+            "brown kiwi",
+            "fuzzy fruit",
+            "chinese gooseberry",
+            "hairy berry",
+            "kiwifruit"
+        ]
+    },
+    "Router/modem": {
+        "category_id": 276,
+        "synonyms": [
+            "Router/modem",
+            "network device",
+            "networking device",
+            "internet router",
+            "modem",
+            "wifi router",
+            "gateway",
+            "internet device",
+            "router",
+            "wireless router",
+            "network hub",
+            "wi-fi router",
+            "connectivity device"
+        ]
+    },
+    "Poker Card": {
+        "category_id": 277,
+        "synonyms": [
+            "Poker Card",
+            "card in a deck",
+            "playing card",
+            "suit card",
+            "deck card",
+            "poker playing card",
+            "gambling card",
+            "game card",
+            "poker game card",
+            "casino card"
+        ]
+    },
+    "Toaster": {
+        "category_id": 278,
+        "synonyms": [
+            "Toaster",
+            "pop-up toaster",
+            "bread machine",
+            "toaster oven",
+            "bread oven",
+            "bread toaster",
+            "bread toaster machine",
+            "toasting machine",
+            "toaster appliance",
+            "toaster",
+            "bread toaster oven"
+        ]
+    },
+    "Shrimp": {
+        "category_id": 279,
+        "synonyms": [
+            "Shrimp",
+            "jumbo shrimp",
+            "shrimp cocktail",
+            "scampi",
+            "prawn",
+            "seafood",
+            "crustacean",
+            "langoustine",
+            "shellfish",
+            "crawfish"
+        ]
+    },
+    "Sushi": {
+        "category_id": 280,
+        "synonyms": [
+            "Sushi",
+            "maki",
+            "sashimi",
+            "raw fish",
+            "sushi roll",
+            "rice and fish",
+            "japanese cuisine",
+            "nigiri",
+            "sushi rolls",
+            "rice and fish dish",
+            "raw fish dishes"
+        ]
+    },
+    "Cheese": {
+        "category_id": 281,
+        "synonyms": [
+            "Cheese",
+            "parmesan",
+            "swiss",
+            "swiss cheese",
+            "ricotta",
+            "feta",
+            "gouda",
+            "brie",
+            "cheddar",
+            "camembert",
+            "provolone",
+            "mozzarella",
+            "blue cheese"
+        ]
+    },
+    "Notepaper": {
+        "category_id": 282,
+        "synonyms": [
+            "Notepaper",
+            "memo paper",
+            "pad of paper",
+            "notebook",
+            "writing pad",
+            "note pad",
+            "note paper",
+            "writing paper",
+            "loose leaf paper",
+            "notebook paper",
+            "notepad",
+            "stationery paper",
+            "memo pad",
+            "stationery"
+        ]
+    },
+    "Cherry": {
+        "category_id": 283,
+        "synonyms": [
+            "Cherry",
+            "fruit with a pit",
+            "sweet cherry",
+            "sour cherry",
+            "cherries",
+            "sweet cherries",
+            "cherry",
+            "cherry berries",
+            "sour cherries",
+            "red cherries",
+            "cherry fruit",
+            "tart cherry",
+            "red fruit"
+        ]
+    },
+    "Pliers": {
+        "category_id": 284,
+        "synonyms": [
+            "Pliers",
+            "pliers tool",
+            "pincers",
+            "pliers",
+            "grip pliers",
+            "forceps",
+            "plier",
+            "tweezers",
+            "handheld squeezing tool",
+            "gripping tool",
+            "clamp tool",
+            "grip",
+            "tongs"
+        ]
+    },
+    "CD": {
+        "category_id": 285,
+        "synonyms": [
+            "CD",
+            "cd-rom",
+            "compact disc",
+            "digital disc",
+            "disc",
+            "optical disc",
+            "audio disc",
+            "music disc",
+            "compact disks",
+            "disk",
+            "compact discs"
+        ]
+    },
+    "Pasta": {
+        "category_id": 286,
+        "synonyms": [
+            "Pasta",
+            "tagliatelle",
+            "macaroni",
+            "ravioli",
+            "gnocchi",
+            "fettuccine",
+            "spaghetti",
+            "tortellini",
+            "lasagna",
+            "noodles",
+            "penne",
+            "linguine",
+            "rigatoni"
+        ]
+    },
+    "Hammer": {
+        "category_id": 287,
+        "synonyms": [
+            "Hammer",
+            "mace",
+            "mauler",
+            "banger",
+            "gavel",
+            "club",
+            "pounder",
+            "whack",
+            "mallet",
+            "sledgehammer",
+            "tool for pounding",
+            "bludgeon",
+            "carpenter's tool",
+            "striker",
+            "whammy",
+            "gaveling",
+            "maul"
+        ]
+    },
+    "Cue": {
+        "category_id": 288,
+        "synonyms": [
+            "Cue",
+            "clue",
+            "sign",
+            "prompt",
+            "cue ball",
+            "suggestion",
+            "hint",
+            "signal",
+            "indication"
+        ]
+    },
+    "Avocado": {
+        "category_id": 289,
+        "synonyms": [
+            "Avocado",
+            "alligator pear",
+            "avocado pear",
+            "vegetable butter",
+            "midshipman's butter",
+            "butter fruit"
+        ]
+    },
+    "Hami melon": {
+        "category_id": 290,
+        "synonyms": [
+            "Hami melon",
+            "snow white melon",
+            "winter melon",
+            "chinese hami melon",
+            "white gourd melon",
+            "snow white honeydew",
+            "snow melon",
+            "hami melon variety",
+            "here are some synonyms for 'hami melon':",
+            "snow gourd",
+            "snow honey melon",
+            "white gourd"
+        ]
+    },
+    "Flask": {
+        "category_id": 291,
+        "synonyms": [
+            "Flask",
+            "vial",
+            "bottle",
+            "decanter",
+            "vessel",
+            "jar",
+            "tube",
+            "container"
+        ]
+    },
+    "Mushroom": {
+        "category_id": 292,
+        "synonyms": [
+            "Mushroom",
+            "toadstool",
+            "fungus",
+            "champignon",
+            "shroom",
+            "edible fungus",
+            "fungi"
+        ]
+    },
+    "Screwdriver": {
+        "category_id": 293,
+        "synonyms": [
+            "Screwdriver",
+            "screwdriver",
+            "handheld tool",
+            "phillips head screwdriver",
+            "flathead screwdriver",
+            "electric screwdriver",
+            "twist driver",
+            "driver",
+            "hand tool",
+            "screw driver",
+            "turning tool",
+            "phillips screwdriver",
+            "ratchet",
+            "manual screwdriver",
+            "tool",
+            "screwdriver tool"
+        ]
+    },
+    "Soap": {
+        "category_id": 294,
+        "synonyms": [
+            "Soap",
+            "hand soap",
+            "shower gel",
+            "bar soap",
+            "soapy product",
+            "body soap",
+            "cleaning agent",
+            "cleansing bar",
+            "sudsy cleanser",
+            "bar of soap",
+            "soap bar",
+            "body wash",
+            "liquid soap",
+            "bath soap"
+        ]
+    },
+    "Recorder": {
+        "category_id": 295,
+        "synonyms": [
+            "Recorder",
+            "audio recorder",
+            "voice recorder",
+            "recorder",
+            "camcorder",
+            "digital recorder",
+            "recording device",
+            "device for recording",
+            "tape recorder",
+            "video recorder"
+        ]
+    },
+    "Bear": {
+        "category_id": 296,
+        "synonyms": [
+            "Bear",
+            "polar bear",
+            "panda",
+            "pizzly",
+            "bruin",
+            "grizzly",
+            "big bear",
+            "ursus (scientific name)",
+            "brown bear",
+            "ursine",
+            "black bear",
+            "teddy",
+            "panda bear",
+            "kodiak bear"
+        ]
+    },
+    "Eggplant": {
+        "category_id": 297,
+        "synonyms": [
+            "Eggplant",
+            "garden egg",
+            "melongene",
+            "aubergine",
+            "nightshade",
+            "brinjal",
+            "eggfruit",
+            "guinea squash",
+            "brinjal eggplant"
+        ]
+    },
+    "Board Eraser": {
+        "category_id": 298,
+        "synonyms": [
+            "Board Eraser",
+            "chalkboard eraser",
+            "board wiper",
+            "eraser pad",
+            "eraser",
+            "duster",
+            "chalk eraser",
+            "whiteboard cleaner",
+            "whiteboard eraser",
+            "board duster"
+        ]
+    },
+    "Coconut": {
+        "category_id": 299,
+        "synonyms": [
+            "Coconut",
+            "palm fruit",
+            "cocopalm",
+            "coco",
+            "palm nut",
+            "coconut palm",
+            "coconut tree",
+            "cocoanut",
+            "coconut water",
+            "coconut meat"
+        ]
+    },
+    "Tape Measure/ Ruler": {
+        "category_id": 300,
+        "synonyms": [
+            "Tape Measure/ Ruler",
+            "straightedge",
+            "ruler",
+            "scale",
+            "tape measure",
+            "carpenter's rule",
+            "measuring tape",
+            "scale ruler",
+            "scale rule",
+            "yardstick",
+            "length gauge",
+            "measuring tool"
+        ]
+    },
+    "Pig": {
+        "category_id": 301,
+        "synonyms": [
+            "Pig",
+            "swineherd",
+            "swine",
+            "piglet",
+            "sow",
+            "shoat",
+            "piggy",
+            "hog",
+            "porker",
+            "boar"
+        ]
+    },
+    "Showerhead": {
+        "category_id": 302,
+        "synonyms": [
+            "Showerhead",
+            "body spray",
+            "shower spray",
+            "rain shower",
+            "water sprayer",
+            "detachable shower head",
+            "bath shower",
+            "shower rose",
+            "rainfall shower",
+            "shower head",
+            "shower nozzle",
+            "overhead shower",
+            "shower fixture"
+        ]
+    },
+    "Globe": {
+        "category_id": 303,
+        "synonyms": [
+            "Globe",
+            "celestial sphere",
+            "orb",
+            "earth",
+            "planet",
+            "pangea (historical reference)",
+            "sphere",
+            "terrestrial ball",
+            "global ball",
+            "geoid (geosciences term)",
+            "world"
+        ]
+    },
+    "Chips": {
+        "category_id": 304,
+        "synonyms": [
+            "Chips",
+            "fried snacks",
+            "savory chips",
+            "nachos",
+            "potato chips",
+            "crisps",
+            "potato crisps",
+            "munchies",
+            "chips",
+            "crunchy snacks",
+            "tortilla chips",
+            "savory snacks",
+            "snack chips"
+        ]
+    },
+    "Steak": {
+        "category_id": 305,
+        "synonyms": [
+            "Steak",
+            "sirloin",
+            "fillet",
+            "flank steak",
+            "beefsteak",
+            "t-bone",
+            "porterhouse",
+            "new york strip",
+            "skirt steak",
+            "beef steak",
+            "strip steak",
+            "filet mignon",
+            "ribeye"
+        ]
+    },
+    "Crosswalk Sign": {
+        "category_id": 306,
+        "synonyms": [
+            "Crosswalk Sign",
+            "pedestrian crossing sign",
+            "zebra crossing sign",
+            "crosswalk indicator",
+            "pedestrian crossing symbol",
+            "walkway signal",
+            "pedestrian crossing marker",
+            "crosswalk signal",
+            "walk signal",
+            "pedestrian crossing signal",
+            "pedestrian crossing indicator"
+        ]
+    },
+    "Stapler": {
+        "category_id": 307,
+        "synonyms": [
+            "Stapler",
+            "staple device",
+            "office stapler",
+            "stapling machine",
+            "stapler",
+            "binding tool",
+            "fastening device",
+            "staple gun",
+            "paper fastener"
+        ]
+    },
+    "Camel": {
+        "category_id": 308,
+        "synonyms": [
+            "Camel",
+            "camelid",
+            "pack animal",
+            "bactrian",
+            "even-toed ungulate",
+            "desert ship",
+            "dromedary",
+            "arabian beast",
+            "humped mammal",
+            "arabian camel",
+            "desert creature",
+            "humpbacked mammal",
+            "desert dweller",
+            "ship of the desert",
+            "arabian animal"
+        ]
+    },
+    "Formula 1": {
+        "category_id": 309,
+        "synonyms": [
+            "Formula 1",
+            "motorsport",
+            "high-speed racing",
+            "grand prix",
+            "motor racing",
+            "f1",
+            "racing",
+            "formula one",
+            "circuit racing",
+            "grand prix racing",
+            "motorsport racing",
+            "fast car racing"
+        ]
+    },
+    "Pomegranate": {
+        "category_id": 310,
+        "synonyms": [
+            "Pomegranate",
+            "grenade apple",
+            "granadas",
+            "garnet fruit",
+            "red fruit",
+            "pomegranate seeds",
+            "punic apple",
+            "punica granatum",
+            "pomegranate fruit",
+            "granada",
+            "grenadine",
+            "ruby fruit",
+            "pomegranate",
+            "pomegranates",
+            "seeded apple"
+        ]
+    },
+    "Dishwasher": {
+        "category_id": 311,
+        "synonyms": [
+            "Dishwasher",
+            "dishwashing machine",
+            "dish cleaner",
+            "dishwasher",
+            "dish machine",
+            "dish cleaning appliance",
+            "dishwasher unit",
+            "dish cleanser",
+            "kitchen appliance for cleaning dishes",
+            "dish scrubber",
+            "dishwashing device",
+            "dish washer"
+        ]
+    },
+    "Crab": {
+        "category_id": 312,
+        "synonyms": [
+            "Crab",
+            "decapod",
+            "crusty",
+            "crayfish",
+            "crawler",
+            "crustacean",
+            "scavenger",
+            "shellfish",
+            "sea creature",
+            "lobster",
+            "arthropod"
+        ]
+    },
+    "Hoverboard": {
+        "category_id": 313,
+        "synonyms": [
+            "Hoverboard",
+            "dual wheel scooter",
+            "electronic skateboard",
+            "self-balancing scooter",
+            "personal transporter",
+            "self-balancing board",
+            "hover scooter",
+            "electric scooter",
+            "e-board",
+            "motorized scooter",
+            "balance board",
+            "motorized hoverboard",
+            "electric skateboard",
+            "motorized board",
+            "gyro board"
+        ]
+    },
+    "Meatball": {
+        "category_id": 314,
+        "synonyms": [
+            "Meatball",
+            "turkey meatball",
+            "italian meatball",
+            "meatball",
+            "meat patty",
+            "sphere of ground meat",
+            "chicken meatball",
+            "spherical ground meat",
+            "meatballs",
+            "swedish meatball",
+            "pork meatball",
+            "beef meatball",
+            "savory ball of meat",
+            "ground meat ball",
+            "lamb meatball",
+            "minced meat ball",
+            "meat dumpling"
+        ]
+    },
+    "Rice Cooker": {
+        "category_id": 315,
+        "synonyms": [
+            "Rice Cooker",
+            "rice pot",
+            "rice cooker",
+            "automated rice cooker",
+            "rice cooker machine",
+            "rice steamer",
+            "rice maker",
+            "food steamer",
+            "rice machine",
+            "electric rice cooker",
+            "multicooker"
+        ]
+    },
+    "Tuba": {
+        "category_id": 316,
+        "synonyms": [
+            "Tuba",
+            "tubaophone",
+            "brass instrument",
+            "musical instrument",
+            "tuba horn",
+            "marching band instrument",
+            "bass horn",
+            "horn",
+            "wind instrument"
+        ]
+    },
+    "Calculator": {
+        "category_id": 317,
+        "synonyms": [
+            "Calculator",
+            "math tool",
+            "calculator",
+            "computation device",
+            "calculating machine",
+            "adding machine",
+            "pocket calculator",
+            "arithmetic device",
+            "electronic calculator"
+        ]
+    },
+    "Papaya": {
+        "category_id": 318,
+        "synonyms": [
+            "Papaya",
+            "melon tree",
+            "tree melon",
+            "pawpaw",
+            "papaw",
+            "fruta bomba",
+            "lechosa (used in latin america)",
+            "kapalika",
+            "mamao",
+            "paw paw"
+        ]
+    },
+    "Antelope": {
+        "category_id": 319,
+        "synonyms": [
+            "Antelope",
+            "gazelle",
+            "fawn",
+            "buck",
+            "doe",
+            "elk",
+            "deer",
+            "kudu",
+            "pronghorn",
+            "impala",
+            "wildebeest",
+            "ibex"
+        ]
+    },
+    "Parrot": {
+        "category_id": 320,
+        "synonyms": [
+            "Parrot",
+            "parakeet",
+            "cockatoo",
+            "talking bird",
+            "conure",
+            "colorful bird",
+            "bird of paradise",
+            "exotic bird",
+            "macaw",
+            "lorikeet",
+            "bird",
+            "lovebird",
+            "tropical bird",
+            "budgie"
+        ]
+    },
+    "Seal": {
+        "category_id": 321,
+        "synonyms": [
+            "Seal",
+            "flipper critter",
+            "aquatic mammal",
+            "here are some synonyms for 'seal':",
+            "blubber creature",
+            "sea dog",
+            "sealion",
+            "flipper",
+            "seal fish",
+            "marine mammal",
+            "flipper animal",
+            "sea lion",
+            "pinniped"
+        ]
+    },
+    "Butterfly": {
+        "category_id": 322,
+        "synonyms": [
+            "Butterfly",
+            "moth",
+            "lepidoptera",
+            "papilionoidea",
+            "flutterby",
+            "insect"
+        ]
+    },
+    "Dumbbell": {
+        "category_id": 323,
+        "synonyms": [
+            "Dumbbell",
+            "free weight",
+            "hand weight",
+            "exercise weights",
+            "weights",
+            "fitness equipment",
+            "weight",
+            "fitness weight",
+            "exercise weight",
+            "dumbells",
+            "barbell",
+            "hand weights",
+            "gym weight"
+        ]
+    },
+    "Donkey": {
+        "category_id": 324,
+        "synonyms": [
+            "Donkey",
+            "ass",
+            "jackass",
+            "pack animal",
+            "burro",
+            "mule",
+            "domesticated equine"
+        ]
+    },
+    "Lion": {
+        "category_id": 325,
+        "synonyms": [
+            "Lion",
+            "predatory cat",
+            "catamount",
+            "lion",
+            "predator",
+            "wild cat",
+            "big cat",
+            "king of the jungle",
+            "mane-d animal",
+            "maneater",
+            "feline"
+        ]
+    },
+    "Urinal": {
+        "category_id": 326,
+        "synonyms": [
+            "Urinal",
+            "lavatory",
+            "ladies' room",
+            "lavatory fixture",
+            "bathroom fixture",
+            "men's room",
+            "commode",
+            "toilet",
+            "men's room fixture",
+            "loo",
+            "restroom receptacle",
+            "latrine",
+            "restroom",
+            "restroom appliance",
+            "bathroom",
+            "wc"
+        ]
+    },
+    "Dolphin": {
+        "category_id": 327,
+        "synonyms": [
+            "Dolphin",
+            "aquatic mammal",
+            "sea mammal",
+            "porpoise",
+            "oceanic dolphin",
+            "flipper",
+            "marine mammal",
+            "cetacean",
+            "delphinidae"
+        ]
+    },
+    "Electric Drill": {
+        "category_id": 328,
+        "synonyms": [
+            "Electric Drill",
+            "drilling tool",
+            "drill machine",
+            "cordless drill",
+            "electric screwdriver",
+            "hammer drill",
+            "rotary tool",
+            "drill gun",
+            "handheld drill",
+            "electric-powered drill",
+            "drilling machine",
+            "power drill"
+        ]
+    },
+    "Hair Dryer": {
+        "category_id": 329,
+        "synonyms": [
+            "Hair Dryer",
+            "blow-dryer",
+            "hair drier",
+            "hair dryer machine",
+            "blow dryer",
+            "hair styling appliance",
+            "hair blower",
+            "hairdryer",
+            "hair dryer",
+            "hair appliance",
+            "hair styling tool"
+        ]
+    },
+    "Egg tart": {
+        "category_id": 330,
+        "synonyms": [
+            "Egg tart",
+            "portuguese egg tart",
+            "chinese egg tart",
+            "hong kong-style egg tart",
+            "hong kong egg tart",
+            "egg custard tart",
+            "custard tart",
+            "tart au \u0153uf",
+            "dan tat"
+        ]
+    },
+    "Jellyfish": {
+        "category_id": 331,
+        "synonyms": [
+            "Jellyfish",
+            "marine stingers",
+            "jelly",
+            "cnidarian",
+            "scyphozoans",
+            "pelagic invertebrates",
+            "jelly creatures",
+            "stingers",
+            "sea jellies",
+            "jellies",
+            "medusa",
+            "gelatinous zooplankton"
+        ]
+    },
+    "Treadmill": {
+        "category_id": 332,
+        "synonyms": [
+            "Treadmill",
+            "fitness equipment",
+            "cardio machine",
+            "fitness machine",
+            "cardio equipment",
+            "running machine",
+            "walking machine",
+            "exercise machine",
+            "workout treadmill",
+            "exercise device"
+        ]
+    },
+    "Lighter": {
+        "category_id": 333,
+        "synonyms": [
+            "Lighter",
+            "fire starter",
+            "torch",
+            "flame device",
+            "igniter",
+            "fire lighter",
+            "lighter",
+            "kindler",
+            "flint",
+            "match",
+            "spark"
+        ]
+    },
+    "Grapefruit": {
+        "category_id": 334,
+        "synonyms": [
+            "Grapefruit",
+            "grapefruit",
+            "paradise fruit",
+            "pink citrus",
+            "pomelo",
+            "citrus maxima \u00d7 citrus paradisi",
+            "sour orange",
+            "forbidden fruit",
+            "citrus",
+            "ruby fruit",
+            "citrus paradisi",
+            "citrus fruit"
+        ]
+    },
+    "Game board": {
+        "category_id": 335,
+        "synonyms": [
+            "Game board",
+            "board game",
+            "play board",
+            "playing board",
+            "game surface",
+            "gaming board",
+            "tabletop game surface",
+            "boardgame",
+            "tabletop gaming platform",
+            "tabletop game"
+        ]
+    },
+    "Mop": {
+        "category_id": 336,
+        "synonyms": [
+            "Mop",
+            "sponge",
+            "wipe",
+            "dust mop",
+            "floor swab",
+            "duster",
+            "swab",
+            "mop head",
+            "scrubber",
+            "floor mop",
+            "sponge mop",
+            "broomstick",
+            "broom",
+            "cleaning tool",
+            "cleaner"
+        ]
+    },
+    "Radish": {
+        "category_id": 337,
+        "synonyms": [
+            "Radish",
+            "daikon",
+            "oriental radish",
+            "mooli",
+            "red radish",
+            "root vegetable",
+            "winter radish",
+            "salad radish",
+            "garden radish",
+            "radish",
+            "horse-raddish",
+            "vegetable",
+            "japanese radish",
+            "chinese radish",
+            "white radish"
+        ]
+    },
+    "Baozi": {
+        "category_id": 338,
+        "synonyms": [
+            "Baozi",
+            "chinese dumpling",
+            "chinese bun",
+            "dumpling",
+            "bao",
+            "steamed bun",
+            "bao bun",
+            "filled bun",
+            "stuffed bun",
+            "meat bun"
+        ]
+    },
+    "Target": {
+        "category_id": 339,
+        "synonyms": [
+            "Target",
+            "purpose",
+            "point",
+            "intention",
+            "focus",
+            "aim",
+            "objective",
+            "ambition",
+            "mission",
+            "goal",
+            "destination",
+            "mark"
+        ]
+    },
+    "French": {
+        "category_id": 340,
+        "synonyms": [
+            "French",
+            "parisian",
+            "france",
+            "frenchie",
+            "francophone",
+            "french republic",
+            "frenchman or frenchwoman",
+            "french-speaking",
+            "gaulish",
+            "gallic",
+            "gauls",
+            "francais"
+        ]
+    },
+    "Spring Rolls": {
+        "category_id": 341,
+        "synonyms": [
+            "Spring Rolls",
+            "egg rolls",
+            "crispy rolls",
+            "fried spring rolls",
+            "vietnamese rolls",
+            "asian rolls",
+            "crystal rolls",
+            "summer rolls",
+            "rice paper rolls",
+            "vietnamese spring rolls",
+            "fresh rolls",
+            "garden rolls"
+        ]
+    },
+    "Monkey": {
+        "category_id": 342,
+        "synonyms": [
+            "Monkey",
+            "chimp",
+            "simian",
+            "orangutan",
+            "macaque",
+            "primate",
+            "ape",
+            "baboon",
+            "chimpanzee",
+            "gorilla"
+        ]
+    },
+    "Rabbit": {
+        "category_id": 343,
+        "synonyms": [
+            "Rabbit",
+            "lapin",
+            "coney",
+            "bunny",
+            "hare",
+            "leporid",
+            "bunny rabbit",
+            "conejo",
+            "cottontail"
+        ]
+    },
+    "Pencil Case": {
+        "category_id": 344,
+        "synonyms": [
+            "Pencil Case",
+            "pencil box",
+            "pen case",
+            "writing utensil case",
+            "stationary case",
+            "stationery case",
+            "pencil holder",
+            "pen pouch",
+            "pencil pouch",
+            "writing utensil holder"
+        ]
+    },
+    "Yak": {
+        "category_id": 345,
+        "synonyms": [
+            "Yak",
+            "himalayan yak",
+            "tibetan yak",
+            "himalayan bull",
+            "wild ox of tibet",
+            "grunting ox",
+            "bos grunniens",
+            "bos mutus",
+            "domestic yak",
+            "himalayan cattle"
+        ]
+    },
+    "Red Cabbage": {
+        "category_id": 346,
+        "synonyms": [
+            "Red Cabbage",
+            "drumhead cabbage",
+            "cole slaw cabbage",
+            "brassica oleracea capitata rubra",
+            "purple cabbage",
+            "brassica oleracea var. capitata f. rubra",
+            "ruby cabbage",
+            "purple-leaved cabbage",
+            "red kraut",
+            "globe cabbage",
+            "blue kraut",
+            "red coleslaw",
+            "purple coleslaw"
+        ]
+    },
+    "Binoculars": {
+        "category_id": 347,
+        "synonyms": [
+            "Binoculars",
+            "spyglasses",
+            "binocs",
+            "binos",
+            "opera glasses",
+            "field glasses",
+            "glasses with two lenses",
+            "optical instruments",
+            "optical device",
+            "spyglass",
+            "optical device for viewing distant objects"
+        ]
+    },
+    "Asparagus": {
+        "category_id": 348,
+        "synonyms": [
+            "Asparagus",
+            "asparagus vegetable",
+            "asparaguses",
+            "sparrow grass",
+            "asparagus spear",
+            "edible asparagus",
+            "spear asparagus",
+            "garden asparagus",
+            "asparagus stalk",
+            "asparagi"
+        ]
+    },
+    "Barbell": {
+        "category_id": 349,
+        "synonyms": [
+            "Barbell",
+            "free weight",
+            "weights",
+            "weight",
+            "dumbbell",
+            "weightlifting bar",
+            "lifting barbell",
+            "exercise barbell",
+            "gym equipment",
+            "strength bar",
+            "exercise bar",
+            "gym bar",
+            "weight bar"
+        ]
+    },
+    "Scallop": {
+        "category_id": 350,
+        "synonyms": [
+            "Scallop",
+            "coquille saint-jacques",
+            "pecten",
+            "scallop",
+            "clam",
+            "seafood",
+            "mollusk",
+            "shellfish",
+            "bivalve"
+        ]
+    },
+    "Noddles": {
+        "category_id": 351,
+        "synonyms": [
+            "Noddles",
+            "fettuccine",
+            "spaghetti",
+            "pasta",
+            "lasagna",
+            "udon",
+            "noodles",
+            "ramen",
+            "angel hair",
+            "vermicelli",
+            "linguine",
+            "soba"
+        ]
+    },
+    "Comb": {
+        "category_id": 352,
+        "synonyms": [
+            "Comb",
+            "hairbrush",
+            "rake",
+            "grooming tool",
+            "hair pick",
+            "pick",
+            "styling implement",
+            "brush",
+            "detangling comb",
+            "hair comb",
+            "mane implement"
+        ]
+    },
+    "Dumpling": {
+        "category_id": 353,
+        "synonyms": [
+            "Dumpling",
+            "wonton",
+            "empanada",
+            "jiaozi",
+            "potsticker",
+            "ravioli",
+            "potstickers",
+            "mandu",
+            "dumpling",
+            "bao",
+            "momo",
+            "dumplings",
+            "gyoza",
+            "pierogi",
+            "dim sum",
+            "steamed buns"
+        ]
+    },
+    "Oyster": {
+        "category_id": 354,
+        "synonyms": [
+            "Oyster",
+            "clam",
+            "seafood",
+            "mollusk",
+            "shellfish",
+            "bivalve"
+        ]
+    },
+    "Table Tennis paddle": {
+        "category_id": 355,
+        "synonyms": [
+            "Table Tennis paddle",
+            "bat",
+            "ping-pong paddle",
+            "table tennis racket",
+            "ping pong paddle",
+            "paddle",
+            "racket",
+            "table tennis racquet",
+            "table tennis bat"
+        ]
+    },
+    "Cosmetics Brush/Eyeliner Pencil": {
+        "category_id": 356,
+        "synonyms": [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "liner brush",
+            "makeup brush",
+            "makeup applicator",
+            "eyeliner",
+            "beauty pencil",
+            "cosmetic pencil",
+            "beauty tool",
+            "cosmetic brush",
+            "eye pencil",
+            "eyeliner pen",
+            "beauty brush",
+            "cosmetic applicator"
+        ]
+    },
+    "Chainsaw": {
+        "category_id": 357,
+        "synonyms": [
+            "Chainsaw",
+            "timber harvester",
+            "chain-cutting tool",
+            "chainsaw",
+            "cutting tool",
+            "power saw",
+            "logging tool",
+            "logging saw",
+            "buzzsaw",
+            "chain saw"
+        ]
+    },
+    "Eraser": {
+        "category_id": 358,
+        "synonyms": [
+            "Eraser",
+            "delete tool",
+            "rubber eraser",
+            "deletion tool",
+            "correction tool",
+            "rubber",
+            "erasing tool",
+            "scrubber",
+            "pencil eraser",
+            "erase",
+            "blurring tool",
+            "white out"
+        ]
+    },
+    "Lobster": {
+        "category_id": 359,
+        "synonyms": [
+            "Lobster",
+            "rock lobster",
+            "red lobster",
+            "langouste",
+            "seafood",
+            "crayfish",
+            "crustacean",
+            "spiny lobster",
+            "marine delicacy",
+            "tomalley",
+            "shellfish",
+            "crawfish"
+        ]
+    },
+    "Durian": {
+        "category_id": 360,
+        "synonyms": [
+            "Durian",
+            "durio",
+            "thorny fruit",
+            "smelly fruit",
+            "tropical fruit",
+            "custard apple",
+            "durian fruit",
+            "king of fruits",
+            "stinky fruit"
+        ]
+    },
+    "Okra": {
+        "category_id": 361,
+        "synonyms": [
+            "Okra",
+            "ochro",
+            "gumbo",
+            "bhindi",
+            "bendi",
+            "abelmoschus esculentus",
+            "bindi",
+            "lady's fingers"
+        ]
+    },
+    "Lipstick": {
+        "category_id": 362,
+        "synonyms": [
+            "Lipstick",
+            "lip makeup",
+            "lipstick",
+            "lip color",
+            "lip dye",
+            "pout paint",
+            "lip rouge",
+            "lip tint",
+            "lip balm",
+            "lip gloss",
+            "lip paint",
+            "lip stain"
+        ]
+    },
+    "Cosmetics Mirror": {
+        "category_id": 363,
+        "synonyms": [
+            "Cosmetics Mirror",
+            "makeup mirror",
+            "cosmetic mirror",
+            "beauty mirror",
+            "magnifying mirror",
+            "bathroom mirror",
+            "dressing table mirror",
+            "cosmetic vanity mirror",
+            "vanity mirror"
+        ]
+    },
+    "Curling": {
+        "category_id": 364,
+        "synonyms": [
+            "Curling",
+            "rock sliding",
+            "broom sport",
+            "ice curling",
+            "throwing stones on ice",
+            "sweeping ice",
+            "broom sweeping sport",
+            "winter curling",
+            "olympic curling",
+            "curling sport",
+            "curling game",
+            "ice sweeping game",
+            "stone sliding"
+        ]
+    },
+    "Table Tennis": {
+        "category_id": 365,
+        "synonyms": [
+            "Table Tennis",
+            "racket sport",
+            "ping pong",
+            "paddle ball",
+            "ping pong game",
+            "pingpong",
+            "ping pong ball sport",
+            "paddle game",
+            "tt",
+            "table tennis",
+            "table tennis game",
+            "ping pong table tennis"
+        ]
+    }
+}

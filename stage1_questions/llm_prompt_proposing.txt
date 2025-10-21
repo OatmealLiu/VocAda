@@ -1,0 +1,21 @@
+The following is the description detailing the objects found within an image:
+
+---
+Captioning result: [__CAPTION__]
+---
+
+and the noun chunks extracted from the description:
+
+---
+Extracted nouns: [__EXTRACTED_NOUNS__]
+---
+
+And the following is a list of [__NUM_CLASSES__] object categories that I am interested in:
+
+[__CANDIDATES__]
+
+I am a machine learning researcher trying to build an accurate object detection classifier to identify the object categories in the list of [__NUM_CLASSES__] object categories that I am interested in from this image. I aim to identify which object categories from my specified list of [__NUM_CLASSES__] object categories are likely present in this image, using the information from both the description and the noun chunks extracted from those descriptions. Your job is to analyze the description and the extracted noun chunks, then select which of the object categories from my [__NUM_CLASSES__] object categories list are likely present in this image nad its context. Please list the category names you select as being potentially present in this image (separated by bullet points "*")
+
+Be aware that the description may not be entirely accurate. Thus, in addition to analyzing the description and the extracted noun chunks, please apply your understanding of the context to identify the object categories from the list of object categories that I am interested in. Please list only the selected category names!
+
+Again, I aim to identify which object categories from my specified list of [__NUM_CLASSES__] object categories are likely present in this image, using the information from both the description and the noun chunks extracted from those descriptions. Your job is to analyze the description and the extracted noun chunks, then select which of the [__NUM_CLASSES__] object categories from my list are likely present in this image nad its context. You must select the category names from the [__NUM_CLASSES__] categories list I give you previously. Please list the category names you select as being potentially present in this image (separated by bullet points "*"). Your response:

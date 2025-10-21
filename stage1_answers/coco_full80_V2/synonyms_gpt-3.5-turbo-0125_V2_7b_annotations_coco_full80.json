@@ -1,0 +1,1340 @@
+{
+    "person": {
+        "category_id": 1,
+        "synonyms": [
+            "someone",
+            "personage",
+            "being",
+            "human being",
+            "character",
+            "human",
+            "somebody",
+            "mortal",
+            "soul",
+            "individual",
+            "person"
+        ]
+    },
+    "bicycle": {
+        "category_id": 2,
+        "synonyms": [
+            "cycle",
+            "two-wheeled vehicle",
+            "pushbike",
+            "two-wheeler",
+            "bike",
+            "velocipede",
+            "pedal bike",
+            "bicycle"
+        ]
+    },
+    "car": {
+        "category_id": 3,
+        "synonyms": [
+            "car",
+            "automobile",
+            "wheels",
+            "ride",
+            "motorcar",
+            "machine",
+            "vehicle",
+            "auto",
+            "car"
+        ]
+    },
+    "motorcycle": {
+        "category_id": 4,
+        "synonyms": [
+            "cycle",
+            "crotch rocket",
+            "chopper",
+            "motorbicycle",
+            "cruiser",
+            "motor",
+            "motorcycling",
+            "hog",
+            "two-wheeler",
+            "motorbike",
+            "bike",
+            "motor vehicle",
+            "scooter",
+            "motorcycle"
+        ]
+    },
+    "airplane": {
+        "category_id": 5,
+        "synonyms": [
+            "aeroplane",
+            "air vehicle",
+            "air transport",
+            "jet",
+            "airship",
+            "aircraft",
+            "air vessel",
+            "plane",
+            "flying machine",
+            "airplane"
+        ]
+    },
+    "bus": {
+        "category_id": 6,
+        "synonyms": [
+            "omnibus",
+            "motorcoach",
+            "motorbus",
+            "coach",
+            "transit",
+            "public transport",
+            "autobus",
+            "transport",
+            "shuttle",
+            "vehicle",
+            "charabanc",
+            "bus"
+        ]
+    },
+    "train": {
+        "category_id": 7,
+        "synonyms": [
+            "choo-choo",
+            "railway",
+            "tram",
+            "locomotion",
+            "bullet train",
+            "metro",
+            "railcar",
+            "subway",
+            "commuter train",
+            "freight train",
+            "rail transport",
+            "iron horse",
+            "locomotive",
+            "express",
+            "train"
+        ]
+    },
+    "truck": {
+        "category_id": 8,
+        "synonyms": [
+            "van",
+            "lorry",
+            "semi-truck",
+            "big rig",
+            "cargo truck",
+            "trailer",
+            "goods carrier",
+            "truck",
+            "tractor-trailer",
+            "eighteen-wheeler",
+            "transport",
+            "hauler",
+            "vehicle",
+            "pickup",
+            "rig",
+            "truck"
+        ]
+    },
+    "boat": {
+        "category_id": 9,
+        "synonyms": [
+            "kayak",
+            "ship",
+            "yacht",
+            "dinghy",
+            "barge",
+            "cruiser",
+            "watercraft",
+            "canoe",
+            "craft",
+            "vessel",
+            "sailboat",
+            "motorboat",
+            "ferry",
+            "boat"
+        ]
+    },
+    "traffic light": {
+        "category_id": 10,
+        "synonyms": [
+            "semaphore",
+            "traffic semaphore",
+            "traffic beacon",
+            "red light",
+            "traffic signal",
+            "signal light",
+            "stoplight",
+            "traffic light"
+        ]
+    },
+    "fire hydrant": {
+        "category_id": 11,
+        "synonyms": [
+            "water post",
+            "fire valve",
+            "fire cock",
+            "johnny pump",
+            "fire post",
+            "fire plug",
+            "fire engine connection",
+            "water pump",
+            "water plug",
+            "fire pump",
+            "hydrant",
+            "fireplug",
+            "fire hydrant"
+        ]
+    },
+    "stop sign": {
+        "category_id": 12,
+        "synonyms": [
+            "red sign",
+            "stop signal",
+            "stop board",
+            "road sign",
+            "traffic sign",
+            "halt sign",
+            "stop marker",
+            "red octagon",
+            "octagonal sign",
+            "stop sign"
+        ]
+    },
+    "parking meter": {
+        "category_id": 13,
+        "synonyms": [
+            "parking pay station",
+            "here are some common synonyms for 'parking meter':",
+            "meter",
+            "metered parking",
+            "parking ticket machine",
+            "pay-and-display machine",
+            "parking kiosk",
+            "parking payment device",
+            "pay station",
+            "parking machine",
+            "parking meter"
+        ]
+    },
+    "bench": {
+        "category_id": 14,
+        "synonyms": [
+            "chaise",
+            "seat",
+            "banquette",
+            "bank",
+            "lounge",
+            "form",
+            "chair",
+            "pew",
+            "stand",
+            "bleacher",
+            "settee",
+            "settle",
+            "stool",
+            "seating",
+            "perch",
+            "bench"
+        ]
+    },
+    "bird": {
+        "category_id": 15,
+        "synonyms": [
+            "flying creature",
+            "winged creature",
+            "fowl",
+            "feathered creature",
+            "winged animal",
+            "flying species",
+            "avian",
+            "feathered friend",
+            "bird"
+        ]
+    },
+    "cat": {
+        "category_id": 16,
+        "synonyms": [
+            "feline",
+            "kitty",
+            "pussycat",
+            "kitten",
+            "tabby",
+            "mouser",
+            "kitty-cat",
+            "tomcat",
+            "whiskers",
+            "catty",
+            "puss",
+            "moggy",
+            "cat"
+        ]
+    },
+    "dog": {
+        "category_id": 17,
+        "synonyms": [
+            "fido",
+            "four-legged friend",
+            "woof-woof",
+            "hound",
+            "doggo",
+            "canine",
+            "pup",
+            "pooch",
+            "four-legged companion",
+            "tail-wagger",
+            "man's best friend",
+            "mutt",
+            "furry friend",
+            "fur baby",
+            "woofie",
+            "dog"
+        ]
+    },
+    "horse": {
+        "category_id": 18,
+        "synonyms": [
+            "colt",
+            "steed",
+            "mare",
+            "stallion",
+            "equine",
+            "filly",
+            "nag",
+            "mustang",
+            "gelding",
+            "pony",
+            "horse"
+        ]
+    },
+    "sheep": {
+        "category_id": 19,
+        "synonyms": [
+            "woolly animal",
+            "mutton",
+            "bleater",
+            "ruminant",
+            "ruminant mammal",
+            "ewe",
+            "lamb",
+            "flock",
+            "ram",
+            "ovine",
+            "sheep"
+        ]
+    },
+    "cow": {
+        "category_id": 20,
+        "synonyms": [
+            "steer",
+            "bullock",
+            "cattle",
+            "livestock",
+            "ox",
+            "heifer",
+            "moo-cow",
+            "dairy cow",
+            "beef cow",
+            "bovine",
+            "bull",
+            "calf",
+            "cow"
+        ]
+    },
+    "elephant": {
+        "category_id": 21,
+        "synonyms": [
+            "pachyderm",
+            "giant animal",
+            "tusker",
+            "mammoth",
+            "tusked animal",
+            "gentle giant",
+            "ivory-bearer",
+            "behemoth",
+            "jumbo",
+            "tusked mammal",
+            "elephant"
+        ]
+    },
+    "bear": {
+        "category_id": 22,
+        "synonyms": [
+            "brown bear",
+            "ursidae",
+            "mammal",
+            "ursine",
+            "panda",
+            "bear",
+            "teddy bear",
+            "polar bear",
+            "black bear",
+            "grizzly",
+            "teddy",
+            "bruin",
+            "bear"
+        ]
+    },
+    "zebra": {
+        "category_id": 23,
+        "synonyms": [
+            "zebra",
+            "equid",
+            "african horse with stripes",
+            "wild horse",
+            "equine",
+            "black and white horse",
+            "zebra horse",
+            "striped horse",
+            "zebroid",
+            "zebu",
+            "african horse",
+            "equine with black and white stripes",
+            "zebra"
+        ]
+    },
+    "giraffe": {
+        "category_id": 24,
+        "synonyms": [
+            "african mammal",
+            "tall spotted animal",
+            "savannah dweller",
+            "giraffes",
+            "camelopard",
+            "giraffa camelopardalis",
+            "spotted african animal",
+            "tall african animal",
+            "spotted creature",
+            "long-necked mammal",
+            "tall herbivore",
+            "giraffe"
+        ]
+    },
+    "backpack": {
+        "category_id": 25,
+        "synonyms": [
+            "book bag",
+            "rucksack",
+            "pack",
+            "satchel",
+            "bag",
+            "daypack",
+            "knapsack",
+            "bookbag",
+            "school bag",
+            "schoolbag",
+            "backpack"
+        ]
+    },
+    "umbrella": {
+        "category_id": 26,
+        "synonyms": [
+            "canopy",
+            "sunshade",
+            "brolly",
+            "parasol",
+            "rainshade",
+            "shade",
+            "umbrella"
+        ]
+    },
+    "handbag": {
+        "category_id": 27,
+        "synonyms": [
+            "tote",
+            "satchel",
+            "bag",
+            "handbag",
+            "crossbody bag",
+            "purse",
+            "pocketbook",
+            "shoulder bag",
+            "clutch",
+            "handbag"
+        ]
+    },
+    "tie": {
+        "category_id": 28,
+        "synonyms": [
+            "necktie",
+            "scarf",
+            "ascot",
+            "bowtie",
+            "neckwear",
+            "cravat",
+            "bow tie",
+            "kerchief",
+            "tie"
+        ]
+    },
+    "suitcase": {
+        "category_id": 29,
+        "synonyms": [
+            "grip",
+            "duffel",
+            "valise",
+            "travel case",
+            "portmanteau",
+            "luggage",
+            "trunk",
+            "satchel",
+            "bag",
+            "carry-on",
+            "travel bag",
+            "suitcase",
+            "suitcase"
+        ]
+    },
+    "frisbee": {
+        "category_id": 30,
+        "synonyms": [
+            "flying toy",
+            "plastic disc",
+            "disc",
+            "flying saucer",
+            "disk",
+            "recreational disc",
+            "flying disc",
+            "disc golf disc",
+            "flying plate",
+            "throw and catch toy",
+            "frisbee"
+        ]
+    },
+    "skis": {
+        "category_id": 31,
+        "synonyms": [
+            "skiis",
+            "skis",
+            "ski gear",
+            "snow sliders",
+            "ski equipment",
+            "nordic skis",
+            "skiing equipment",
+            "cross-country skis",
+            "ski",
+            "downhill skis",
+            "snowboards",
+            "skiing gear",
+            "snow skiing equipment",
+            "alpine skis",
+            "snow skis",
+            "skis"
+        ]
+    },
+    "snowboard": {
+        "category_id": 32,
+        "synonyms": [
+            "snow surfboard",
+            "snowboard deck",
+            "powder board",
+            "winter board",
+            "snow riding board",
+            "snow sport equipment",
+            "snowboarding gear",
+            "snowboarding board",
+            "snow shred stick",
+            "snow slider",
+            "board",
+            "snowboard",
+            "winter sports gear",
+            "snowboarding equipment",
+            "snowboarder",
+            "snowboarding",
+            "snowboard"
+        ]
+    },
+    "sports ball": {
+        "category_id": 33,
+        "synonyms": [
+            "soccer ball",
+            "rugby ball",
+            "athletic ball",
+            "tennis ball",
+            "football",
+            "baseball",
+            "cricket ball",
+            "game ball",
+            "athletic orb",
+            "sport ball",
+            "ball",
+            "sports sphere",
+            "volleyball",
+            "softball",
+            "basketball",
+            "golf ball",
+            "play ball",
+            "sports ball"
+        ]
+    },
+    "kite": {
+        "category_id": 34,
+        "synonyms": [
+            "flying toy",
+            "soar toy",
+            "sky dancer",
+            "aerial toy",
+            "wind flyer",
+            "kite",
+            "kite"
+        ]
+    },
+    "baseball bat": {
+        "category_id": 35,
+        "synonyms": [
+            "bat",
+            "club",
+            "hitting stick",
+            "stick",
+            "baseball club",
+            "baseball stick",
+            "slugger",
+            "lumber",
+            "hitting tool",
+            "baseball bat"
+        ]
+    },
+    "baseball glove": {
+        "category_id": 36,
+        "synonyms": [
+            "baseball mitt",
+            "outfield glove",
+            "glove",
+            "first baseman's glove",
+            "fielder's glove",
+            "baseball fielding glove",
+            "catcher's mitt",
+            "fielding glove",
+            "mitt",
+            "baseball glove"
+        ]
+    },
+    "skateboard": {
+        "category_id": 37,
+        "synonyms": [
+            "skate",
+            "skater board",
+            "deck",
+            "board",
+            "skate deck",
+            "skateboard",
+            "wheeled board",
+            "skateboard"
+        ]
+    },
+    "surfboard": {
+        "category_id": 38,
+        "synonyms": [
+            "surf craft",
+            "surfing board",
+            "watercraft",
+            "water board",
+            "board",
+            "wave board",
+            "surfboard",
+            "wave rider",
+            "surf plank",
+            "surfboard"
+        ]
+    },
+    "tennis racket": {
+        "category_id": 39,
+        "synonyms": [
+            "tennis racquet",
+            "racquetball racket",
+            "racket",
+            "tennis bat",
+            "tennis stick",
+            "tennis paddle",
+            "tennis racket"
+        ]
+    },
+    "bottle": {
+        "category_id": 40,
+        "synonyms": [
+            "pitcher",
+            "flask",
+            "receptacle",
+            "container",
+            "carafe",
+            "jar",
+            "vessel",
+            "decanter",
+            "bottle"
+        ]
+    },
+    "wine glass": {
+        "category_id": 41,
+        "synonyms": [
+            "wine chalice",
+            "wine stemware",
+            "stemware",
+            "wine cup",
+            "wine vessel",
+            "wine goblet",
+            "wine glass"
+        ]
+    },
+    "cup": {
+        "category_id": 42,
+        "synonyms": [
+            "mug",
+            "teacup",
+            "goblet",
+            "coffee cup",
+            "container",
+            "beaker",
+            "drinkware",
+            "tumbler",
+            "vessel",
+            "tea cup",
+            "glass",
+            "chalice",
+            "cup"
+        ]
+    },
+    "fork": {
+        "category_id": 43,
+        "synonyms": [
+            "table fork",
+            "prong",
+            "silverware",
+            "tine",
+            "cutlery",
+            "eating implement",
+            "utensil",
+            "fork"
+        ]
+    },
+    "knife": {
+        "category_id": 44,
+        "synonyms": [
+            "cleaver",
+            "cutting tool",
+            "carving knife",
+            "blade",
+            "edge",
+            "switchblade",
+            "kitchen knife",
+            "scalpel",
+            "pocketknife",
+            "cutlery",
+            "weapon",
+            "dagger",
+            "tool",
+            "sharp tool",
+            "utensil",
+            "sharp object",
+            "knife"
+        ]
+    },
+    "spoon": {
+        "category_id": 45,
+        "synonyms": [
+            "teaspoon",
+            "stirring implement",
+            "silverware",
+            "ladle",
+            "dessert spoon",
+            "cutlery",
+            "scoop",
+            "tablespoon",
+            "soup spoon",
+            "stirring spoon",
+            "serving spoon",
+            "utensil",
+            "spoon"
+        ]
+    },
+    "bowl": {
+        "category_id": 46,
+        "synonyms": [
+            "basin",
+            "receptacle",
+            "container",
+            "dish",
+            "vessel",
+            "pot",
+            "cup",
+            "bowlful",
+            "bowl"
+        ]
+    },
+    "banana": {
+        "category_id": 47,
+        "synonyms": [
+            "smooth fruit",
+            "tropical fruit",
+            "dessert banana",
+            "curved fruit",
+            "yellow banana",
+            "potassium-rich fruit",
+            "yellow curved fruit",
+            "edible fruit",
+            "ripe banana",
+            "peelable fruit",
+            "plantain",
+            "yellow berry",
+            "fruit",
+            "yellow fruit",
+            "banana"
+        ]
+    },
+    "apple": {
+        "category_id": 48,
+        "synonyms": [
+            "apple tree",
+            "eating apple",
+            "culinary apple",
+            "apple orchard",
+            "malus domestica",
+            "apple variety",
+            "edible fruit",
+            "orchard apple",
+            "pomaceous fruit",
+            "red fruit",
+            "orchard fruit",
+            "apple cultivar",
+            "apple fruit",
+            "round fruit",
+            "fruit tree",
+            "fruit",
+            "apple"
+        ]
+    },
+    "sandwich": {
+        "category_id": 49,
+        "synonyms": [
+            "grinder",
+            "po' boy",
+            "sarnie",
+            "hero",
+            "sammie",
+            "wrap",
+            "club sandwich",
+            "hoagy",
+            "sub",
+            "sanger",
+            "po'boy",
+            "blt",
+            "panini",
+            "sammy",
+            "butty",
+            "hoagie",
+            "sandwich"
+        ]
+    },
+    "orange": {
+        "category_id": 50,
+        "synonyms": [
+            "peach",
+            "carrot",
+            "amber",
+            "citrus",
+            "tangerine",
+            "coral",
+            "copper",
+            "mandarin",
+            "pumpkin",
+            "apricot",
+            "rust",
+            "orange"
+        ]
+    },
+    "broccoli": {
+        "category_id": 51,
+        "synonyms": [
+            "green cauliflower",
+            "green vegetable",
+            "italian broccoli",
+            "broccolini",
+            "broccoli spear",
+            "broccoli",
+            "brassica",
+            "baby broccoli",
+            "cruciferous vegetable",
+            "broccoli head",
+            "broccoli crown",
+            "broccoli heads",
+            "broccoli florets",
+            "broccoli floret",
+            "broccoli stalk",
+            "broccoli"
+        ]
+    },
+    "carrot": {
+        "category_id": 52,
+        "synonyms": [
+            "beta-carotene rich vegetable",
+            "vegetable",
+            "rabbit food",
+            "orange vegetable",
+            "beta-carotene-rich vegetable",
+            "crunchy veggie",
+            "orange root",
+            "root vegetable",
+            "crunchy vegetable",
+            "carrot"
+        ]
+    },
+    "hot dog": {
+        "category_id": 53,
+        "synonyms": [
+            "dog",
+            "hotdog",
+            "frankfurter",
+            "weenie",
+            "hot link",
+            "wiener",
+            "red hot",
+            "tube steak",
+            "banger",
+            "frank",
+            "sausage",
+            "hot dog"
+        ]
+    },
+    "pizza": {
+        "category_id": 54,
+        "synonyms": [
+            "deep-dish",
+            "cheesy pie",
+            "pie\u0300ce",
+            "cheesy delight",
+            "pizza pie",
+            "doughy delight",
+            "slice",
+            "italian pie",
+            "pizzeria",
+            "za",
+            "pie",
+            "flatbread",
+            "tomato pie",
+            "pepperoni pie",
+            "pizzeria fare",
+            "pie crust",
+            "pizza"
+        ]
+    },
+    "donut": {
+        "category_id": 55,
+        "synonyms": [
+            "pastry circle",
+            "torus-shaped pastry",
+            "sweet treat",
+            "dough ring",
+            "deep-fried pastry",
+            "sugar-coated ring",
+            "circular pastry",
+            "sugary snack",
+            "holey treat",
+            "doughnut",
+            "pastry ring",
+            "cruller",
+            "fried dough",
+            "donut"
+        ]
+    },
+    "cake": {
+        "category_id": 56,
+        "synonyms": [
+            "cheesecake",
+            "dessert",
+            "baked good",
+            "torte",
+            "sweet treat",
+            "muffin",
+            "confection",
+            "sponge",
+            "treat",
+            "delicacy",
+            "gateau",
+            "cupcake",
+            "pie",
+            "sweet",
+            "pastry",
+            "cake"
+        ]
+    },
+    "chair": {
+        "category_id": 57,
+        "synonyms": [
+            "lounger",
+            "chaise",
+            "seat",
+            "sofa",
+            "bench",
+            "pew",
+            "rocker",
+            "armchair",
+            "seatback",
+            "ottoman",
+            "throne",
+            "recliner",
+            "stool",
+            "chair"
+        ]
+    },
+    "couch": {
+        "category_id": 58,
+        "synonyms": [
+            "sofa",
+            "lounge",
+            "loveseat",
+            "davenport",
+            "settee",
+            "sectional",
+            "divan",
+            "chesterfield",
+            "couchette",
+            "daybed",
+            "couch"
+        ]
+    },
+    "potted plant": {
+        "category_id": 59,
+        "synonyms": [
+            "planter",
+            "foliage plant",
+            "container plant",
+            "pot plant",
+            "indoor plant",
+            "houseplant",
+            "potted foliage",
+            "potted plant"
+        ]
+    },
+    "bed": {
+        "category_id": 60,
+        "synonyms": [
+            "pallet",
+            "berth",
+            "futon",
+            "bunk",
+            "bed",
+            "cot",
+            "bedstead",
+            "mattress",
+            "sleeping platform",
+            "divan",
+            "sleeping pad",
+            "crib",
+            "sleeping berth",
+            "bed"
+        ]
+    },
+    "dining table": {
+        "category_id": 61,
+        "synonyms": [
+            "dining table",
+            "table",
+            "breakfast table",
+            "kitchen table",
+            "meal table",
+            "dinner table",
+            "eating table",
+            "dining table"
+        ]
+    },
+    "toilet": {
+        "category_id": 62,
+        "synonyms": [
+            "latrine",
+            "water closet",
+            "commode",
+            "powder room",
+            "privy",
+            "lavatory",
+            "bathroom",
+            "washroom",
+            "loo",
+            "wc",
+            "restroom",
+            "toilet"
+        ]
+    },
+    "tv": {
+        "category_id": 63,
+        "synonyms": [
+            "screen",
+            "tv",
+            "television set",
+            "flat screen",
+            "boob tube",
+            "televisions",
+            "monitor",
+            "set",
+            "hdtv",
+            "display",
+            "smart tv",
+            "telly",
+            "flatscreen",
+            "tube",
+            "television",
+            "idiot box",
+            "tv"
+        ]
+    },
+    "laptop": {
+        "category_id": 64,
+        "synonyms": [
+            "notebook",
+            "mobile computer",
+            "laptop computer",
+            "portable computer",
+            "computer",
+            "notebook computer",
+            "ultrabook",
+            "personal computer (pc)",
+            "laptop"
+        ]
+    },
+    "mouse": {
+        "category_id": 65,
+        "synonyms": [
+            "cursor controller",
+            "computer mouse",
+            "rodent",
+            "pointing device",
+            "clicker",
+            "pointer",
+            "input device",
+            "mouse"
+        ]
+    },
+    "remote": {
+        "category_id": 66,
+        "synonyms": [
+            "isolated",
+            "distant",
+            "removed",
+            "off the beaten path",
+            "out-of-the-way",
+            "far-off",
+            "remote-controlled",
+            "faraway",
+            "secluded",
+            "outlying",
+            "remote"
+        ]
+    },
+    "keyboard": {
+        "category_id": 67,
+        "synonyms": [
+            "typing board",
+            "keypad",
+            "computer keyboard",
+            "typing device",
+            "typing instrument",
+            "keyset",
+            "input device",
+            "typing tool",
+            "keyboard"
+        ]
+    },
+    "cell phone": {
+        "category_id": 68,
+        "synonyms": [
+            "handset",
+            "device",
+            "cellphone",
+            "smartphone",
+            "cellular phone",
+            "mobile device",
+            "wireless device",
+            "cell",
+            "mobile phone",
+            "mobile",
+            "cell phone"
+        ]
+    },
+    "microwave": {
+        "category_id": 69,
+        "synonyms": [
+            "microwave oven",
+            "microwave range",
+            "microwave unit",
+            "oven",
+            "microwave appliance",
+            "microwave cooker",
+            "microwave",
+            "micro oven",
+            "microwave"
+        ]
+    },
+    "oven": {
+        "category_id": 70,
+        "synonyms": [
+            "toaster oven",
+            "convection oven",
+            "baking appliance",
+            "stove",
+            "range",
+            "baking oven",
+            "cooker",
+            "microwave",
+            "oven"
+        ]
+    },
+    "toaster": {
+        "category_id": 71,
+        "synonyms": [
+            "toaster oven",
+            "bread machine",
+            "breakfast appliance",
+            "toasting machine",
+            "bread heater",
+            "toast maker",
+            "pop-up toaster",
+            "bread oven",
+            "bread toaster",
+            "toaster appliance",
+            "toaster",
+            "toaster"
+        ]
+    },
+    "sink": {
+        "category_id": 72,
+        "synonyms": [
+            "kitchen sink",
+            "basin",
+            "lavabo",
+            "vessel sink",
+            "receptacle",
+            "washbowl",
+            "washbasin",
+            "bathroom sink",
+            "bowl",
+            "vessel",
+            "lavatory",
+            "hand basin",
+            "trough",
+            "sink"
+        ]
+    },
+    "refrigerator": {
+        "category_id": 73,
+        "synonyms": [
+            "cooler",
+            "fridge-freezer",
+            "refrigerator unit",
+            "fridge",
+            "icebox",
+            "chiller",
+            "refrigerator-freezer",
+            "freezer",
+            "refrigerator"
+        ]
+    },
+    "book": {
+        "category_id": 74,
+        "synonyms": [
+            "publication",
+            "text",
+            "work",
+            "writing",
+            "manuscript",
+            "novel",
+            "title",
+            "paperback",
+            "volume",
+            "hardcover",
+            "tome",
+            "book"
+        ]
+    },
+    "clock": {
+        "category_id": 75,
+        "synonyms": [
+            "timer",
+            "watch",
+            "digital clock",
+            "alarm",
+            "wall clock",
+            "timekeeper",
+            "timepiece",
+            "wristwatch",
+            "chronometer",
+            "horologe",
+            "grandfather clock",
+            "alarm clock",
+            "clock"
+        ]
+    },
+    "vase": {
+        "category_id": 76,
+        "synonyms": [
+            "flowerpot",
+            "urn",
+            "receptacle",
+            "container",
+            "amphora",
+            "vase",
+            "pot",
+            "vessel",
+            "jar",
+            "flower vase",
+            "vase"
+        ]
+    },
+    "scissors": {
+        "category_id": 77,
+        "synonyms": [
+            "shearing tools",
+            "trimmers",
+            "pruning scissors",
+            "clippers",
+            "shears",
+            "cutters",
+            "blades",
+            "snips",
+            "snippers",
+            "scissors"
+        ]
+    },
+    "teddy bear": {
+        "category_id": 78,
+        "synonyms": [
+            "bear soft toy",
+            "bear doll",
+            "stuffed animal",
+            "soft toy",
+            "plush toy",
+            "bear plushie",
+            "bear toy",
+            "teddy",
+            "cuddly bear",
+            "cuddly toy",
+            "soft toy bear",
+            "teddy bear"
+        ]
+    },
+    "hair drier": {
+        "category_id": 79,
+        "synonyms": [
+            "hair appliance",
+            "styling tool for hair",
+            "hair dryer",
+            "blowdryer",
+            "hair styling tool",
+            "hair blower",
+            "hairdryer",
+            "blow dryer",
+            "hair drier"
+        ]
+    },
+    "toothbrush": {
+        "category_id": 80,
+        "synonyms": [
+            "bristle brush",
+            "mouth cleaner",
+            "toothbrush",
+            "dental brush",
+            "teeth cleaner",
+            "oral hygiene tool",
+            "toothpaste",
+            "brush",
+            "teeth cleaning implement",
+            "tooth cleaner",
+            "toothbrush"
+        ]
+    }
+}

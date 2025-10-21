@@ -1,0 +1,1121 @@
+{
+    "images": [
+        {
+            "id": 202400,
+            "file_name": "000000000009.jpg",
+            "width": 640,
+            "height": 480,
+            "answers_llava": [
+                {
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I see the following objects:\n\n1. A pink container with a slice of bread and some almonds.\n2. A yellow container with a piece of broccoli and a meat patty.\n3. A blue container with a slice of pineapple and some almonds.\n4. A cookie with a chocolate chip on top.\n\nPlease note that the objects are arranged in a way that suggests a meal or snack, but the exact arrangement and the way the objects are presented might vary slightly depending on the angle and perspective of the photograph.",
+                    "answer_id": "4bXYrWTKMigpqUp5pGL54J",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 0
+                },
+                {
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there are several food items and containers:\n\n1. A slice of bread with a spread on it.\n2. A container with sliced fruit, including what appears to be pineapple and possibly mango.\n3. A container with a green leafy vegetable, which could be broccoli or a similar type of vegetable.\n4. A container with a meat patty or a similar type of food.\n5. A container with a cookie or a similar type of baked good.\n\nThe containers are pink and yellow, and they are placed on a blue surface.",
+                    "answer_id": "JMNjg43yQrtEb8RPQRVhqW",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 1
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                46,
+                46,
+                51,
+                46,
+                50,
+                50,
+                50,
+                50
+            ]
+        },
+        {
+            "id": 202401,
+            "file_name": "000000000025.jpg",
+            "width": 640,
+            "height": 426,
+            "answers_llava": [
+                {
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see the following objects:\n\n1. A giraffe standing on a grassy area.\n2. A fallen tree trunk.\n3. A tree with green leaves.\n4. A tree with brown leaves.\n5. A fallen tree branch.\n6. A fallen tree trunk.\n7. A fallen tree branch.\n8. A fallen tree trunk.\n9. A fallen tree branch.\n10. A fallen tree trunk.\n11. A fallen tree branch.\n12. A fallen tree trunk.\n13. A fallen tree branch.\n14. A fallen tree trunk.\n15. A fallen tree branch.\n16. A fallen tree trunk.\n17. A fallen tree branch.\n18. A fallen tree trunk.\n19. A fallen tree branch.\n20. A fallen tree trunk.\n21. A fallen tree branch.\n22. A fallen tree trunk.\n23. A fallen tree branch.\n24. A fallen tree trunk.\n25. A fallen tree branch.\n26. A fallen tree trunk.\n27. A fallen tree branch.\n28. A fallen tree trunk.\n29. A fallen tree branch.\n30. A fallen tree trunk.\n31. A fallen tree branch.\n32. A fallen tree trunk.\n33. A fallen tree branch.\n34. A fallen tree trunk.\n35. A fallen tree branch.\n36. A fallen tree trunk.\n37. A fallen tree branch.\n38. A fallen tree trunk.\n39. A fallen tree branch.\n40. A fallen tree trunk.\n41. A fallen tree branch.\n42. A fallen tree trunk.\n43. A fallen tree branch.\n44. A fallen tree trunk.\n45. A fallen tree branch.\n46. A fallen tree trunk.\n47. A fallen tree branch.\n48. A fallen tree trunk.\n49. A fallen tree branch.\n50. A fallen tree trunk.\n51. A fallen tree branch.\n52. A fallen tree trunk.\n53. A fallen tree branch.\n54. A fallen tree trunk.\n55. A fallen tree branch.\n56. A fallen tree trunk.\n57. A fallen tree branch.\n58. A fallen tree trunk.\n59. A fallen tree branch.\n60. A fallen tree trunk.\n61. A fallen tree branch.\n62. A fallen tree trunk.\n63. A fallen tree branch.\n64. A fallen tree trunk.\n65. A fallen tree branch.\n66. A fallen tree trunk.\n67. A fallen tree branch.\n68. A fallen tree trunk.\n69. A fallen tree branch.\n70. A fallen tree trunk.\n71. A fallen tree branch.\n72. A fallen tree trunk.\n73. A fallen tree branch.\n74. A fallen tree trunk.\n75. A fallen tree branch.\n76. A fallen tree trunk.\n77. A fallen tree branch.\n78. A fallen tree trunk.\n79. A fallen tree branch.\n80. A fallen tree trunk.\n81. A fallen tree branch.\n82. A fallen tree trunk.\n83. A fallen tree branch.\n84. A fallen tree trunk.\n85. A fallen tree branch.\n86. A fallen tree trunk.\n87. A fallen tree branch.\n88. A fallen tree trunk.\n89. A fallen tree branch.\n90. A fallen tree trunk.\n91. A fallen tree branch.\n92. A fallen tree trunk.\n93. A fallen tree branch.\n94. A fallen tree trunk.\n95. A fallen tree branch.\n96. A fallen tree trunk.\n97. A fallen tree branch.\n98. A fallen tree trunk.\n99. A fallen tree branch.\n100. A fallen tree trunk.\n101. A fallen tree branch.\n102. A fallen tree trunk.\n103. A fallen tree branch.\n104. A fallen tree trunk.\n105. A fallen tree branch.\n106. A fallen tree trunk.\n107. A fallen tree branch.\n108. A fallen tree trunk.\n109. A fallen tree branch.\n110. A fallen tree trunk.\n111. A fallen tree branch.\n11",
+                    "answer_id": "FBdKAiKiGwAHwSwFs6Lz74",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 0
+                },
+                {
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there are several objects:\n\n1. A giraffe standing on a grassy area.\n2. A fallen tree trunk.\n3. A tree stump.\n4. A fallen tree branch.\n5. A fallen tree branch.\n6. A fallen tree branch.\n7. A fallen tree branch.\n8. A fallen tree branch.\n9. A fallen tree branch.\n10. A fallen tree branch.\n11. A fallen tree branch.\n12. A fallen tree branch.\n13. A fallen tree branch.\n14. A fallen tree branch.\n15. A fallen tree branch.\n16. A fallen tree branch.\n17. A fallen tree branch.\n18. A fallen tree branch.\n19. A fallen tree branch.\n20. A fallen tree branch.\n21. A fallen tree branch.\n22. A fallen tree branch.\n23. A fallen tree branch.\n24. A fallen tree branch.\n25. A fallen tree branch.\n26. A fallen tree branch.\n27. A fallen tree branch.\n28. A fallen tree branch.\n29. A fallen tree branch.\n30. A fallen tree branch.\n31. A fallen tree branch.\n32. A fallen tree branch.\n33. A fallen tree branch.\n34. A fallen tree branch.\n35. A fallen tree branch.\n36. A fallen tree branch.\n37. A fallen tree branch.\n38. A fallen tree branch.\n39. A fallen tree branch.\n40. A fallen tree branch.\n41. A fallen tree branch.\n42. A fallen tree branch.\n43. A fallen tree branch.\n44. A fallen tree branch.\n45. A fallen tree branch.\n46. A fallen tree branch.\n47. A fallen tree branch.\n48. A fallen tree branch.\n49. A fallen tree branch.\n50. A fallen tree branch.\n51. A fallen tree branch.\n52. A fallen tree branch.\n53. A fallen tree branch.\n54. A fallen tree branch.\n55. A fallen tree branch.\n56. A fallen tree branch.\n57. A fallen tree branch.\n58. A fallen tree branch.\n59. A fallen tree branch.\n60. A fallen tree branch.\n61. A fallen tree branch.\n62. A fallen tree branch.\n63. A fallen tree branch.\n64. A fallen tree branch.\n65. A fallen tree branch.\n66. A fallen tree branch.\n67. A fallen tree branch.\n68. A fallen tree branch.\n69. A fallen tree branch.\n70. A fallen tree branch.\n71. A fallen tree branch.\n72. A fallen tree branch.\n73. A fallen tree branch.\n74. A fallen tree branch.\n75. A fallen tree branch.\n76. A fallen tree branch.\n77. A fallen tree branch.\n78. A fallen tree branch.\n79. A fallen tree branch.\n80. A fallen tree branch.\n81. A fallen tree branch.\n82. A fallen tree branch.\n83. A fallen tree branch.\n84. A fallen tree branch.\n85. A fallen tree branch.\n86. A fallen tree branch.\n87. A fallen tree branch.\n88. A fallen tree branch.\n89. A fallen tree branch.\n90. A fallen tree branch.\n91. A fallen tree branch.\n92. A fallen tree branch.\n93. A fallen tree branch.\n94. A fallen tree branch.\n95. A fallen tree branch.\n96. A fallen tree branch.\n97. A fallen tree branch.\n98. A fallen tree branch.\n99. A fallen tree branch.\n100. A fallen tree branch.\n101. A fallen tree branch.\n102. A fallen tree branch.\n103. A fallen tree branch.\n104. A fallen tree branch.\n105. A fallen tree branch.\n106. A fallen tree branch.\n107. A fallen tree branch.\n108. A fallen tree branch.\n109. A fallen tree branch.\n110. A fallen tree branch.\n111. A fallen tree branch.\n11",
+                    "answer_id": "e2bztKERnd2tKcMJ7nVnRP",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 1
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                24,
+                24
+            ]
+        },
+        {
+            "id": 202402,
+            "file_name": "000000000030.jpg",
+            "width": 640,
+            "height": 428,
+            "answers_llava": [
+                {
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see the following objects:\n\n1. A white vase with a scalloped design at the top.\n2. A bouquet of flowers, which includes:\n   - White flowers that could be baby's breath or a similar type of flower.\n   - Pink flowers that could be roses or a similar type of flower.\n   - Green foliage, which is likely part of the bouquet to add color and texture.\n\nThe vase is placed on a white surface, which could be a wall or a piece of furniture, and it is situated outdoors, as indicated by the natural light and the greenery in the background.",
+                    "answer_id": "ZEnSS7GCUsNsvThVRe5VzX",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 0
+                },
+                {
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of this image, there is a white vase with a floral arrangement inside. The flowers include white flowers, pink flowers, and green foliage. The vase is placed on a white ledge or railing.",
+                    "answer_id": "LFtS4YEcqTrtRywqv8VhQZ",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 1
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                59,
+                76
+            ]
+        },
+        {
+            "id": 202403,
+            "file_name": "000000000034.jpg",
+            "width": 640,
+            "height": 425,
+            "answers_llava": [
+                {
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, there is a zebra standing on grass. The zebra is facing towards the left side of the image, and its head is bent down towards the ground, suggesting it might be grazing. The zebra's distinctive black and white stripes are clearly visible. The background consists of a grassy field with patches of dirt and some green shrubs. There are no other objects or creatures visible in the image.",
+                    "answer_id": "CgNyU3TiJ4zK2n2vkGfPzx",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 0
+                },
+                {
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of this image, there is a zebra.",
+                    "answer_id": "2L6vaDjPqnaLToWAtpKFc2",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 1
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                23
+            ]
+        },
+        {
+            "id": 202404,
+            "file_name": "000000000036.jpg",
+            "width": 481,
+            "height": 640,
+            "answers_llava": [
+                {
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see the following objects:\n\n1. A person holding a pink umbrella.\n2. The person is wearing a swimsuit with a floral pattern.\n3. The person has dark hair and is smiling.\n4. The person is wearing a headband.\n5. The person is standing on a platform or deck.\n6. There is a body of water in the background.\n7. There are trees in the background.\n8. There is a sign with white text in the background.\n9. The sky is blue with some clouds.\n10. The lighting suggests it might be late afternoon or early evening.",
+                    "answer_id": "KTMMDDrg6HYFdjyaz7CMAn",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 0
+                },
+                {
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of this image, there are two main objects:\n\n1. A woman.\n2. A pink umbrella.",
+                    "answer_id": "g2iEAEcWNtvM8Ka7j3g5Lt",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 1
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                26,
+                1
+            ]
+        },
+        {
+            "id": 202405,
+            "file_name": "000000000042.jpg",
+            "width": 640,
+            "height": 478,
+            "answers_llava": [
+                {
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see the following objects:\n\n1. A pair of black flip-flops with a white sole.\n2. A pair of black sandals with a white sole.\n3. A pair of white sneakers with black accents.\n4. A pair of black sandals with a red sole.\n5. A pair of black sandals with a white sole.\n6. A small, curly-haired dog lying on its side.\n7. A red flip-flop with a black strap.\n8. A white wire basket.\n9. A blue metal frame.\n10. A brown tile floor.\n\nPlease note that the objects are arranged in a somewhat disorganized manner, and the dog is resting among the shoes.",
+                    "answer_id": "9qsejQ7hquTPdWMfKKH8q7",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 0
+                },
+                {
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there are several objects:\n\n1. A pair of black and white shoes with a black strap.\n2. A red flip-flop with a black strap.\n3. A pair of black and white shoes with a black strap.\n4. A pair of black and white shoes with a black strap.\n5. A pair of black and white shoes with a black strap.\n6. A pair of black and white shoes with a black strap.\n7. A pair of black and white shoes with a black strap.\n8. A pair of black and white shoes with a black strap.\n9. A pair of black and white shoes with a black strap.\n10. A pair of black and white shoes with a black strap.\n11. A pair of black and white shoes with a black strap.\n12. A pair of black and white shoes with a black strap.\n13. A pair of black and white shoes with a black strap.\n14. A pair of black and white shoes with a black strap.\n15. A pair of black and white shoes with a black strap.\n16. A pair of black and white shoes with a black strap.\n17. A pair of black and white shoes with a black strap.\n18. A pair of black and white shoes with a black strap.\n19. A pair of black and white shoes with a black strap.\n20. A pair of black and white shoes with a black strap.\n21. A pair of black and white shoes with a black strap.\n22. A pair of black and white shoes with a black strap.\n23. A pair of black and white shoes with a black strap.\n24. A pair of black and white shoes with a black strap.\n25. A pair of black and white shoes with a black strap.\n26. A pair of black and white shoes with a black strap.\n27. A pair of black and white shoes with a black strap.\n28. A pair of black and white shoes with a black strap.\n29. A pair of black and white shoes with a black strap.\n30. A pair of black and white shoes with a black strap.\n31. A pair of black and white shoes with a black strap.\n32. A pair of black and white shoes with a black strap.\n33. A pair of black and white shoes with a black strap.\n34. A pair of black and white shoes with a black strap.\n35. A pair of black and white shoes with a black strap.\n36. A pair of black and white shoes with a black strap.\n37. A pair of black and white shoes with a black strap.\n38. A pair of black and white shoes with a black strap.\n39. A pair of black and white shoes with a black strap.\n40. A pair of black and white shoes with a black strap.\n41. A pair of black and white shoes with a black strap.\n42. A pair of black and white shoes with a black strap.\n43. A pair of black and white shoes with a black strap.\n44. A pair of black and white shoes with a black strap.\n45. A pair of black and white shoes with a black strap.\n46. A pair of black and white shoes with a black strap.\n47. A pair of black and white shoes with a black strap.\n48. A pair of black and white shoes with a black strap.\n49. A pair of black and white shoes with a black strap.\n50. A pair of black and white shoes with a black strap.\n51. A pair of black and white shoes with a black strap.\n52. A pair of black and white shoes with a black strap.\n53. A pair of black and white shoes with a black strap.\n54. A pair of black and white shoes with a black strap.\n55. A pair of black and white shoes with a black strap.\n56. A pair of black and white shoes with a black strap.\n57. A pair of black and white shoes with a black strap.\n58. A pair of black and white shoes with a black strap.\n59. A pair of black and white shoes with a black strap.\n60. A pair of black and white shoes with a black strap.",
+                    "answer_id": "4H5KV7X5DuswjdoF3v25Vn",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 1
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                17
+            ]
+        },
+        {
+            "id": 202406,
+            "file_name": "000000000049.jpg",
+            "width": 381,
+            "height": 500,
+            "answers_llava": [
+                {
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see the following objects:\n\n1. Two horses in mid-jump.\n2. Two riders on the horses.\n3. A grassy field.\n4. A white container with flowers in it.\n5. A fence in the background.\n6. Trees in the background.\n7. A person standing on the grass.\n8. A red and white structure that could be part of the equestrian course.\n\nPlease note that the image is a bit blurry, so some details might not be entirely accurate.",
+                    "answer_id": "2zjpmAScraUR7kAc5oDcox",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 0
+                },
+                {
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of the image, there are several objects:\n\n1. Two horses in mid-jump, one white and one black.\n2. A person riding the white horse.\n3. A person riding the black horse.\n4. A person standing on the ground, likely a judge or an assistant.\n5. A white box with a plant inside, placed on the grass.\n6. A red and white barrier or obstacle, which the horses are jumping over.\n7. A person standing behind the barrier, possibly a coach or a spectator.\n8. A person standing in the background, partially obscured by the trees.\n\nPlease note that the objects are arranged in a dynamic scene, and the focus is on the horses and their riders.",
+                    "answer_id": "KGuCE6ikNSUi76oVCbKgUX",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 1
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                18,
+                18,
+                1,
+                1,
+                1,
+                59,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": 202407,
+            "file_name": "000000000061.jpg",
+            "width": 640,
+            "height": 488,
+            "answers_llava": [
+                {
+                    "prompt": "List all the objects present in this image. All the objects!",
+                    "text": "In the image, I can see the following objects:\n\n1. Two elephants carrying people.\n2. People riding on the backs of the elephants.\n3. A dense forest with various types of vegetation.\n4. A path or trail that the elephants are walking on.\n5. The trunks of trees.\n6. Green leaves on the trees and plants.\n7. A clear sky above the forest.\n8. A person in the background, possibly a guide or a fellow traveler.\n\nPlease note that this description is based on the visible elements in the image and does not include any inferred or imagined content.",
+                    "answer_id": "m3tFdFSpefmM5cRWBodz3n",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 0
+                },
+                {
+                    "prompt": "List all the foreground objects present in this image. All the foreground objects!",
+                    "text": "In the foreground of this image, there are two elephants and two people riding on their backs. The elephants are walking through a dense jungle with lush green foliage. The people are wearing hats and appear to be tourists or riders.",
+                    "answer_id": "XYzpjrGCtAWQw3oFGrbW2R",
+                    "model_id": "llava-v1.6-mistral-7b",
+                    "conv_mode": "mistral_instruct",
+                    "metadata": {},
+                    "question_id": 1
+                }
+            ],
+            "neg_category_ids": [],
+            "pos_category_ids": [
+                1,
+                1,
+                21,
+                21,
+                1
+            ]
+        }
+    ],
+    "type": "instances",
+    "annotations": [
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                1,
+                187,
+                611,
+                285
+            ],
+            "area": 0.0,
+            "category_id": 46,
+            "iscrowd": 0,
+            "id": 0
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                311,
+                4,
+                319,
+                228
+            ],
+            "area": 0.0,
+            "category_id": 46,
+            "iscrowd": 0,
+            "id": 1
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                249,
+                229,
+                316,
+                245
+            ],
+            "area": 0.0,
+            "category_id": 51,
+            "iscrowd": 0,
+            "id": 2
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                0,
+                13,
+                434,
+                375
+            ],
+            "area": 0.0,
+            "category_id": 46,
+            "iscrowd": 0,
+            "id": 3
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                376,
+                40,
+                75,
+                46
+            ],
+            "area": 0.0,
+            "category_id": 50,
+            "iscrowd": 0,
+            "id": 4
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                465,
+                38,
+                58,
+                46
+            ],
+            "area": 0.0,
+            "category_id": 50,
+            "iscrowd": 0,
+            "id": 5
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                385,
+                73,
+                84,
+                70
+            ],
+            "area": 0.0,
+            "category_id": 50,
+            "iscrowd": 0,
+            "id": 6
+        },
+        {
+            "ignore": 0,
+            "image_id": 202400,
+            "segmentation": 0,
+            "bbox": [
+                364,
+                2,
+                94,
+                71
+            ],
+            "area": 0.0,
+            "category_id": 50,
+            "iscrowd": 0,
+            "id": 7
+        },
+        {
+            "ignore": 0,
+            "image_id": 202401,
+            "segmentation": 0,
+            "bbox": [
+                385,
+                60,
+                214,
+                297
+            ],
+            "area": 0.0,
+            "category_id": 24,
+            "iscrowd": 0,
+            "id": 8
+        },
+        {
+            "ignore": 0,
+            "image_id": 202401,
+            "segmentation": 0,
+            "bbox": [
+                53,
+                356,
+                132,
+                55
+            ],
+            "area": 0.0,
+            "category_id": 24,
+            "iscrowd": 0,
+            "id": 9
+        },
+        {
+            "ignore": 0,
+            "image_id": 202402,
+            "segmentation": 0,
+            "bbox": [
+                204,
+                31,
+                254,
+                324
+            ],
+            "area": 0.0,
+            "category_id": 59,
+            "iscrowd": 0,
+            "id": 10
+        },
+        {
+            "ignore": 0,
+            "image_id": 202402,
+            "segmentation": 0,
+            "bbox": [
+                237,
+                155,
+                166,
+                195
+            ],
+            "area": 0.0,
+            "category_id": 76,
+            "iscrowd": 0,
+            "id": 11
+        },
+        {
+            "ignore": 0,
+            "image_id": 202403,
+            "segmentation": 0,
+            "bbox": [
+                0,
+                20,
+                441,
+                379
+            ],
+            "area": 0.0,
+            "category_id": 23,
+            "iscrowd": 0,
+            "id": 12
+        },
+        {
+            "ignore": 0,
+            "image_id": 202404,
+            "segmentation": 0,
+            "bbox": [
+                0,
+                50,
+                457,
+                430
+            ],
+            "area": 0.0,
+            "category_id": 26,
+            "iscrowd": 0,
+            "id": 13
+        },
+        {
+            "ignore": 0,
+            "image_id": 202404,
+            "segmentation": 0,
+            "bbox": [
+                167,
+                162,
+                310,
+                465
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 14
+        },
+        {
+            "ignore": 0,
+            "image_id": 202405,
+            "segmentation": 0,
+            "bbox": [
+                214,
+                41,
+                348,
+                243
+            ],
+            "area": 0.0,
+            "category_id": 17,
+            "iscrowd": 0,
+            "id": 15
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                162,
+                226,
+                130,
+                184
+            ],
+            "area": 0.0,
+            "category_id": 18,
+            "iscrowd": 0,
+            "id": 16
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                81,
+                244,
+                83,
+                158
+            ],
+            "area": 0.0,
+            "category_id": 18,
+            "iscrowd": 0,
+            "id": 17
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                203,
+                260,
+                65,
+                73
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 18
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                118,
+                261,
+                56,
+                62
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 19
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                119,
+                334,
+                11,
+                33
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 20
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                201,
+                426,
+                70,
+                47
+            ],
+            "area": 0.0,
+            "category_id": 59,
+            "iscrowd": 0,
+            "id": 21
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                284,
+                333,
+                10,
+                27
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 22
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                191,
+                334,
+                7,
+                23
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 23
+        },
+        {
+            "ignore": 0,
+            "image_id": 202406,
+            "segmentation": 0,
+            "bbox": [
+                346,
+                333,
+                14,
+                9
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 24
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                261,
+                205,
+                48,
+                57
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 25
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                393,
+                210,
+                32,
+                39
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 26
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                370,
+                248,
+                83,
+                47
+            ],
+            "area": 0.0,
+            "category_id": 21,
+            "iscrowd": 0,
+            "id": 27
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                223,
+                250,
+                141,
+                77
+            ],
+            "area": 0.0,
+            "category_id": 21,
+            "iscrowd": 0,
+            "id": 28
+        },
+        {
+            "ignore": 0,
+            "image_id": 202407,
+            "segmentation": 0,
+            "bbox": [
+                261,
+                196,
+                34,
+                54
+            ],
+            "area": 0.0,
+            "category_id": 1,
+            "iscrowd": 0,
+            "id": 29
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "person",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 2,
+            "name": "bicycle",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 3,
+            "name": "car",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 4,
+            "name": "motorcycle",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 5,
+            "name": "airplane",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 6,
+            "name": "bus",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 7,
+            "name": "train",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 8,
+            "name": "truck",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 9,
+            "name": "boat",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 10,
+            "name": "traffic light",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 11,
+            "name": "fire hydrant",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 12,
+            "name": "stop sign",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 13,
+            "name": "parking meter",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 14,
+            "name": "bench",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 15,
+            "name": "bird",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 16,
+            "name": "cat",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 17,
+            "name": "dog",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 18,
+            "name": "horse",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 19,
+            "name": "sheep",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 20,
+            "name": "cow",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 21,
+            "name": "elephant",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 22,
+            "name": "bear",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 23,
+            "name": "zebra",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 24,
+            "name": "giraffe",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 25,
+            "name": "backpack",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 26,
+            "name": "umbrella",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 27,
+            "name": "handbag",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 28,
+            "name": "tie",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 29,
+            "name": "suitcase",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 30,
+            "name": "frisbee",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 31,
+            "name": "skis",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 32,
+            "name": "snowboard",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 33,
+            "name": "sports ball",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 34,
+            "name": "kite",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 35,
+            "name": "baseball bat",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 36,
+            "name": "baseball glove",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 37,
+            "name": "skateboard",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 38,
+            "name": "surfboard",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 39,
+            "name": "tennis racket",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 40,
+            "name": "bottle",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 41,
+            "name": "wine glass",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 42,
+            "name": "cup",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 43,
+            "name": "fork",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 44,
+            "name": "knife",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 45,
+            "name": "spoon",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 46,
+            "name": "bowl",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 47,
+            "name": "banana",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 48,
+            "name": "apple",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 49,
+            "name": "sandwich",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 50,
+            "name": "orange",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 51,
+            "name": "broccoli",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 52,
+            "name": "carrot",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 53,
+            "name": "hot dog",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 54,
+            "name": "pizza",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 55,
+            "name": "donut",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 56,
+            "name": "cake",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 57,
+            "name": "chair",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 58,
+            "name": "couch",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 59,
+            "name": "potted plant",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 60,
+            "name": "bed",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 61,
+            "name": "dining table",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 62,
+            "name": "toilet",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 63,
+            "name": "tv",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 64,
+            "name": "laptop",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 65,
+            "name": "mouse",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 66,
+            "name": "remote",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 67,
+            "name": "keyboard",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 68,
+            "name": "cell phone",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 69,
+            "name": "microwave",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 70,
+            "name": "oven",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 71,
+            "name": "toaster",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 72,
+            "name": "sink",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 73,
+            "name": "refrigerator",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 74,
+            "name": "book",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 75,
+            "name": "clock",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 76,
+            "name": "vase",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 77,
+            "name": "scissors",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 78,
+            "name": "teddy bear",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 79,
+            "name": "hair drier",
+            "freebase_id": "tbd"
+        },
+        {
+            "id": 80,
+            "name": "toothbrush",
+            "freebase_id": "tbd"
+        }
+    ]
+}

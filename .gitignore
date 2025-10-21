@@ -1,0 +1,81 @@
+# Large files
+stage1_answers/lvis_V2/answered_all_chunks20_V2_7b_annotations_lvis.json
+stage1_answers/objects365_V2/answered_all_chunks100_V2_7b_annotations_objects365.json
+
+# model dir
+third_party/detectron2
+configs-experimental
+experiments
+
+# output dir
+index.html
+data/*
+
+
+output
+instant_test_output
+inference_test_output
+samples
+samples/
+
+/wandb/*
+wandb
+/wandb
+wandb*
+
+/models/*
+models
+/models
+models*
+
+*.png
+*.diff
+#*.jpg
+!/projects/DensePose/doc/images/*.jpg
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.pyd
+*.so
+*.dll
+*.egg-info/
+build/
+dist/
+wheels/
+
+# pytorch/python/numpy formats
+#*.pth
+*.pkl
+*.ts
+model_ts*.txt
+*.zip
+
+# ipython/jupyter notebooks
+*.ipynb
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# editor settings
+.idea
+.vscode
+_darcs
+
+# project dirs
+/detectron2/model_zoo/configs
+
+/datasets/*
+!/datasets/*.*
+!/datasets/metadata*
+!/datasets/metadata_*
+!/datasets/coco8*
+!/datasets/coco8_*
+!/datasets/tags*
+!/datasets/tags_*
+/snippet

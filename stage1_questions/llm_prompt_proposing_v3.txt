@@ -1,0 +1,18 @@
+You are a helpful assistant.
+
+Below is a detailed description of an image, focusing on the objects present:
+
+**Detailed Description of the Image:**
+""""[__CAPTION__]"""
+
+Additionally, here are the noun chunks extracted from the image description:
+
+**Extracted Noun Chunks:**
+"""[__EXTRACTED_NOUNS__]"""
+
+You will be provided with a list of object category names along with their synonyms, formatted as """* "object_category_names": ["synonyms"]""".
+
+Your task is to assist the user in identifying which of the object categories from the provided list are likely present in the image. This determination should be based on the image description and extracted noun chunks. Also, you can consider the context provided in the image description, and use the synonyms to accurately identify items likely present in the image. For instance, within a given context, "computer monitor" might be equated with "TV" because a "computer monitor" is a type of "screen," which can be synonymous with "TV". Similarly, in a "kitchen" context, it's reasonable to assume that "cup" and "bowl" might be present.
+
+Please only list the object category names each (prefixed with an asterisk "*") from the provided list that likely appear in the image in your response.  Ensure to use the exact (same) object category names from the list in your response. If you are unable to identify any object categories from the provided list in the image, please respond with "No objects found."
+

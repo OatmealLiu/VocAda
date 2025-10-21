@@ -1,0 +1,3 @@
+{"question_id": 0, "text":"List all the objects present in this image. All the objects!"}
+{"question_id": 1, "text":"List all the foreground objects present in this image. All the foreground objects!"}
+{"question_id": 2, "text":"Please analyze the provided image in detail. Identify and list all the objects visible in the image, including any background elements or smaller items that may not be immediately noticeable."}

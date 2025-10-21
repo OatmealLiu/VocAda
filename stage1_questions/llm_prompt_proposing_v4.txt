@@ -1,0 +1,26 @@
+The following is a detailed description of an image, focusing on the objects present:
+
+**Detailed Description of the Image:**
+""""[__CAPTION__]"""
+
+Additionally, here are the noun chunks extracted from the image description:
+
+**Extracted Noun Chunks:**
+"""[__EXTRACTED_NOUNS__]"""
+
+You will be provided with a list of object category names, formatted as '(Number) "object_category_names"'.
+
+Your task is to assist the user in identifying which of the object categories from the provided list are likely present in the image. This determination should be based on the image description and extracted noun chunks. Also, you can consider the context provided in the image description. For instance, in a "kitchen" context, it's reasonable to assume that "cup" and "bowl" might be present.
+
+Please list the numbers corresponding to the object category names from the provided list that are likely present in the image. Format your output as a comma-separated list: """(Number), (Number), (Number), ...""" (the numbers should be enclosed by brackets). Note that you should only list the numbers in your output. You do not have to list the category names.
+
+Example:
+If the image description is "A cozy living room with a plush sofa facing a large flat-screen TV." and the noun chunks are "living room, plush sofa, flat-screen TV", and the user-provided list includes:
+
+(1) "TV"
+(2) "sofa"
+(3) "lamp"
+(4) "carpet"
+Based on the description and noun chunks, you would list the numbers corresponding to "TV" and "sofa" as likely present, formatted as: "(1), (2)". So that "(1), (2)" is your only response.
+
+Now, you will be provided with a list of object category names from the user. Again, please list the numbers corresponding to the object category names from the user-provided list that are likely present in the image. Format your output as a comma-separated list: """(Number), (Number), (Number), ...""" (the numbers should be enclosed by brackets).. Note that you should only list the numbers in your output. You do not have to list the category names.

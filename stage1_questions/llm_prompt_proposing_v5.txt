@@ -1,0 +1,18 @@
+As a machine learning researcher working on an object detection classifier, my goal is to identify objects categories in the image. I will provide a detailed image description alongside extracted noun chunks. Your task is to map these details to predefined categories, taking into account synonyms for each category. Here are the specifics:
+
+**Image Description:**
+- [__CAPTION__]
+
+**Extracted Nouns:**
+- [__EXTRACTED_NOUNS__]
+
+**Interest Categories with Synonyms:**
+[__CANDIDATES_WITH_SYNO__]
+
+**Task:**
+Based on the description and nouns, determine which of the [__NUM_CLASSES__] object categories—[__CANDIDATES__]—are likely present in the image. Consider synonyms to accurately match items to categories. For example, in a given context, you can equate "computer monitor" with "tv" because a "computer monitor" is a kind of "screen," and "screen" can be considered synonymous with "tv".
+
+**Output:**
+List the category names that likely appear in the image, each prefixed with an asterisk "*". Use only the [__NUM_CLASSES__] category names in your response.
+
+Your response:
